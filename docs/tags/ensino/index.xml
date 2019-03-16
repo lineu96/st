@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ensino on Lineu Alberto</title>
+    <link>https://lineu96.github.io/page/tags/ensino/</link>
+    <description>Recent content in Ensino on Lineu Alberto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lineu96.github.io/page/tags/ensino/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modelos Lineares Generalizados</title>
+      <link>https://lineu96.github.io/page/projects/glm/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/projects/glm/</guid>
+      <description>No segundo semestre de 2017 assumi a monitoria da disciplina de Modelos Lineares Generalizados (CE225) sob a orientação do professor Cesar Augusto Taconeli, que também foi meu orientador no projeto intitulado Análise Comportamental de Ovelhas Submetidas a Intervenção Humana Usando GAMLSS.
+Os Modelos Lineares Generalizados, propostos por Nelder e Wedderburn em 1972, são aplicáveis em casos nos quais a variável resposta pode ser representada por alguma distribuição pertencente à família exponencial.</description>
+    </item>
+    
+  </channel>
+</rss>

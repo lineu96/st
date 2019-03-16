@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stifness on Lineu Alberto</title>
+    <link>https://lineu96.github.io/page/tags/stifness/</link>
+    <description>Recent content in Stifness on Lineu Alberto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
+    <lastBuildDate>Sat, 02 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lineu96.github.io/page/tags/stifness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stiffness do Membro Inferior</title>
+      <link>https://lineu96.github.io/page/projects/stifness/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/projects/stifness/</guid>
+      <description>Este trabalho está sendo desenvolvido em parceria com alunos do curso de graduação de Educação Física do Centro Universitário Autônomo do Brasil (UniBrasil). A pesquisa tem por objetivo investigar a relação entre o stiffness do membro inferior, força e potência muscular de corredores amadores. Os autores do trabalho são: AUTOR1, AUTOR2, AUTOR3.
+
+  
+Entende-se como Stiffness a rigidez apresentada por um material submetido a estresse mecânico.
+Na corrida, o membro inferior é constantemente exposto a estresses – principalmente compressivo – e precisa apresentar grande capacidade de resistir a tais cargas.</description>
+    </item>
+    
+  </channel>
+</rss>

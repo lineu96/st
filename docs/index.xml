@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lineu Alberto on Lineu Alberto</title>
+    <link>https://lineu96.github.io/page/</link>
+    <description>Recent content in Lineu Alberto on Lineu Alberto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0300</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Machine</title>
+      <link>https://lineu96.github.io/page/projects/ml/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/projects/ml/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;asfasfsa&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stiffness do Membro Inferior</title>
+      <link>https://lineu96.github.io/page/projects/stifness/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/projects/stifness/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;Este trabalho está sendo desenvolvido em parceria com alunos do curso de graduação de Educação Física do Centro Universitário Autônomo do Brasil &lt;a href=&#34;https://www.unibrasil.com.br/&#34; target=&#34;_blank&#34;&gt;(UniBrasil)&lt;/a&gt;. A pesquisa tem por objetivo investigar a relação entre o stiffness do membro inferior, força e potência muscular de corredores amadores. Os autores do trabalho são: AUTOR1, AUTOR2, AUTOR3.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;div style=&#34;float:left; width:50%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/ufpr.jpg//&#34;/&gt;&lt;/div&gt;
+
+&lt;div style=&#34;float:left; width:50%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/unibrasil.png/&#34;/&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Entende-se como Stiffness a rigidez apresentada por um material submetido a estresse mecânico.&lt;/p&gt;
+
+&lt;p&gt;Na corrida, o membro inferior é constantemente exposto a estresses – principalmente compressivo – e precisa apresentar grande capacidade de resistir a tais cargas. Desse modo, o stiffness do membro inferior é fator determinante do desempenho, seja de profissionais ou mesmo de atletas amadores.&lt;/p&gt;
+
+&lt;p&gt;Neste contexto, o objetivo do experimento foi investigar a relação entre força, potência e stiffness do membro inferior em corredores amadores.&lt;/p&gt;
+
+&lt;p&gt;A amostra foi composta por 23 indivíduos, dos quais 12 eram homens e 11 eram mulheres. Os participantes tinham idade entre 18 e 45 anos e praticavam a corrida de forma regular na época do experimento.&lt;/p&gt;
+
+&lt;p&gt;Foram coletadas informações em uma avaliação antropométrica, teste de potência e teste de força. Para os testes de potência e força foram realizadas duas sessões, com 48 horas de intervalo em que foi considerada a maior mensuração.&lt;/p&gt;
+
+&lt;p&gt;Todos os testes foram realizados sob a supervisão do mesmo avaliador.&lt;/p&gt;
+
+&lt;p&gt;Além das informações antropométricas, de potência e força, os participantes foram submetidos a um teste de corrida com a distância de 3000 metros (3 km). Ao longo do teste foram realizadas filmagens para a avaliação do stiffness via análise cinemática.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Confira a análise dos dados: &lt;a href=&#34;./img/proj_stifness/relatorio.html&#34;&gt;Stiffness do Membro Inferior&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;div style=&#34;float:left; width:50%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/ufpr.jpg//&#34;/&gt;&lt;/div&gt;
+
+&lt;div style=&#34;float:left; width:50%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/unibrasil.png/&#34;/&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minicurso R</title>
+      <link>https://lineu96.github.io/page/projects/minicurso/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/projects/minicurso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MANOVA para dados não gaussianos</title>
+      <link>https://lineu96.github.io/page/projects/manova/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/projects/manova/</guid>
+      <description>
+
+&lt;p&gt;&lt;center&gt;
+&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/mcglm.png/&#34;/&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Este projeto foi o tema escolhido por mim e por minha colega de curso AUTOR2, sob orientação do professor &lt;a href=&#34;link.com&#34; target=&#34;_blank&#34;&gt;Wagner Hugo Bonat&lt;/a&gt;, para nosso Trabalho de Conclusão de Curso da graduação de Estatística na Universidade Federal do Paraná.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;No âmbito da Estatística aplicada, modelos de regressão são uma das principais ferramentas utilizadas e difundidas em diversas áreas do conhecimento. No caso univariado, esta metodologia associa uma variável resposta, também chamada de variável dependente, a uma ou mais variáveis explicativas, conhecidas como variáveis independentes. Os objetivos gerais das técnicas de modelagem são: descrever a relação entre variável resposta e variáveis explicativas, e utilizar o modelo proposto para realizar predições.&lt;/p&gt;
+
+&lt;p&gt;De forma geral, um modelo de regressão é uma expressão matemática que relaciona a média da variável resposta Y às variáveis preditoras X. Além disso, considera-se que Y segue uma certa distribuição de probabilidade condicional a X em que a média está associada a um preditor linear.&lt;/p&gt;
+
+&lt;p&gt;Dentre as classes de modelos univariados existentes, a mais famosa e difundida nas últimas décadas são os modelos lineares generalizados (GLM) propostos por Nelder e Wedderburn em 1972. Dentre os casos especiais de distribuições possíveis na classe dos modelos lineares generalizados estão a Normal, gamma, Poisson, Binomial, entre outras. Trata-se portanto, de uma forma de modelagem univariada para dados de diferentes naturezas, tais como: dados contínuos simétricos e assimétricos, contagens, proporções discretas, e assim por diante. Tais características tornam esta classe uma flexível ferramenta de modelagem aplicável a diversos tipos de problema.&lt;/p&gt;
+
+&lt;p&gt;Todavia, por mais flexível e difundido que sejam os modelos lineares generalizados, estes apresentam duas principais restrições: a incapacidade de lidar com respostas dependentes e/ou múltiplas respostas. Com o objetivo de solucionar este problema, foi proposta uma estrutura geral para análise de dados não normais e com múltiplas respostas chamada modelos lineares multivariados de covariância generalizada McGLM propostos por Bonat. Esta estrutura foi proposta para lidar com respostas multivariadas de diferentes naturezas e, de alguma forma, correlacionadas; em que esta correlação é estruturada em termos de uma função de ligação de covariância com um preditor linear matricial que envolve matrizes conhecidas. Portanto, o McGLM é uma forma geral para modelagem de dados de diferentes naturezas e estruturas de covariância com extensões multivariadas para medidas repetidas, séries temporais, dados longitudinais, espaciais e espaço-temporais&lt;/p&gt;
+
+&lt;p&gt;No entanto, considerando um cenário em que se aplica um McGLM, isto é, um problema em que há múltiplas respostas, de diferentes naturezas, associadas a um conjunto de covariáveis e têm-se interesse em realizar uma análise multivariada, não há uma grande discussão na literatura a respeito de testes de hipóteses para modelos lineares multivariados com respostas não Gaussianas, mais especificamente da análise de variância multivariada (MANOVA).&lt;/p&gt;
+
+&lt;p&gt;Quando se trata de modelos multivariados para dados Gaussianos em que se deseja testar a hipótese de nulidade dos parâmetros de regressão, os quatro testes multivariados mais disseminados são: o lambda de Wilk&amp;rsquo;s, traço de Hotelling-Lawley, traço de Pillai e maior raiz de Roy. Para o caso de múltiplas respostas não Gaussianas não existem sequer testes correspondentes a estes 4 testes mais propagados.&lt;/p&gt;
+
+&lt;p&gt;Por conseguinte, neste trabalho, nosso objetivo é propor a análise de variância multivariada para dados não Gaussianos com foco em sugerir análogos aos testes já existentes para dados Gaussianos e, além disso, realizar a implementação computacional destes testes e um consistente estudo a respeito das propriedades e comportamento dos testes propostos com base em estudos de simulação e aplicação a conjuntos de dados reais.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/logo-pet.png/&#34;/&gt;&lt;/div&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/ufpr.jpg/&#34;/&gt;&lt;/div&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;150px&#34; height=&#34;150px&#34; 
+src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;Table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/Table&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;confira-alguns-dos-materiais-produzidos&#34;&gt;Confira alguns dos materiais produzidos:&lt;/h3&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Primeiros Passos com ggplot2</title>
+      <link>https://lineu96.github.io/page/post/ggplot2/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/post/ggplot2/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;Parte primordial de qualquer análise estatística é chamada análise descritiva ou exploratória. Tal etapa consiste basicamente de resumos numéricos e análises gráficas baseadas em conjuntos de dados.&lt;/p&gt;
+
+&lt;p&gt;Trata-se de uma etapa de extrema importância e deve preceder qualquer análise mais sofisticada como ajuste de modelos de regressão, por exemplo.&lt;/p&gt;
+
+&lt;p&gt;Além disso, a análise exploratória não requer elevada proficiência em tópicos de estatística avançada para para aplicação e interpretação dos resultados fazendo com que visualização de dados caracterize uma técnica simples, com grande apelo visual e extremamente informativa quanto ao conjunto de dados.&lt;/p&gt;
+
+&lt;p&gt;No R há a possibilidade de gerar gráficos sem a utilização de pacotes e há também pacotes específicos e especializados em visualização, dentre os quais destacam-se os famosos &lt;code&gt;lattice&lt;/code&gt; e &lt;code&gt;ggplot2&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Este post tem como foco explorar as principais e mais simples formas de visualização de dados utilizando o ggplot2 bem como algumas customizações simples como alteração de cores, temas, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Confira o material aqui!&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/logo-pet.png/&#34;/&gt;&lt;/div&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;100px&#34; height=&#34;100px&#34; 
+src=&#34;/img/ggplot2.png/&#34;/&gt;&lt;/div&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;150px&#34; height=&#34;150px&#34; 
+src=&#34;/img/ufpr.jpg/&#34;/&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Análise comportamental de ovelhas submetidas à intervenção humana usando GAMLSS</title>
+      <link>https://lineu96.github.io/page/projects/gamlss/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/projects/gamlss/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;img width=&#34;400px&#34; height=&#34;200px&#34; 
+src=&#34;/img/gamlss.jpg/&#34;/&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Este projeto refere-se ao meu trabalho de pesquisa individual conduzido no &lt;a href=&#34;https://pet-estatistica.github.io/site/&#34; target=&#34;_blank&#34;&gt;Programa de Educação Tutorial do Curso de Estatística&lt;/a&gt; da &lt;a href=&#34;http://www.ufpr.br/portalufpr/&#34; target=&#34;_blank&#34;&gt;Universidade Federal do Paraná&lt;/a&gt;, sob a orientação dos professores &lt;a href=&#34;https://docs.ufpr.br/~taconeli/&#34; target=&#34;_blank&#34;&gt;Cesar Augusto Taconeli&lt;/a&gt; e &lt;a href=&#34;https://docs.ufpr.br/~jlpadilha/&#34; target=&#34;_blank&#34;&gt;José Luiz Padilha da Silva&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Trata-se de um experimento sobre comportamento de ovelhas descrito em
+ARTIGO PRISCILA. O experimento foi conduzido na fazenda experimental INRA La Fage, Roqueford, França, em setembro de 2015 com o objetivo de verificar o efeito de linhagem genética, escovação e isolamento nas respostas comportamentais dos animais. Na ocasião, vinte ovelhas classificadas como reativas ou não reativas ao isolamento social temporário foram submetidas à escovação por um humano familiar. As ovelhas tinham 15 meses de idade, eram não gestantes e não amamentavam
+quando foram observadas.&lt;/p&gt;
+
+&lt;p&gt;O experimento foi conduzido em três sessões experimentais: na primeira tinha-se uma grade de metal separando o animal testado dos demais animais, sem distância entre eles; na segunda havia duas grades de metal separando os animais a uma distância de 1,7 metros, ou seja, nesta sessão foi imposta a condição de isolamento social; e na terceira sessão, os animais voltaram a ser separados por apenas uma grade.&lt;/p&gt;
+
+&lt;p&gt;As sessões de testes ocorreram dois dias após a fase de adaptação dos
+animais ao equipamento e aos humanos e, em cada sessão, as ovelhas foram
+observadas em 3 momentos distintos, fase de pré escovação, com duração
+de 2 minutos e 30 segundos; fase de escovação, com duração de 3 minutos;
+e pós escovação, com duração de 2 minutos e 30 segundos.&lt;/p&gt;
+
+&lt;p&gt;Os dados coletados dizem respeito ao número de mudanças de postura dos
+animais e à proporção do tempo em que os animais permaneceram em determinadas posturas, tratando-se, portanto, de um conjunto de respostas de natureza discreta, que configuram contagens, e um segundo conjunto de respostas que configuram proporções.&lt;/p&gt;
+
+&lt;p&gt;Sendo assim, foram avaliados os efeitos de:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;sessão: um fator de três níveis em que foi imposta a condição de isolamento social,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;momento: um fator de três níveis em que foi imposta a intervenção humana (escovação),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;linhagem: um fator de dois níveis que classifica os animais como reativos ou não reativos ao isolamento social temporário nas respostas.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Trata-se de um conjunto de dados em que não há observações independentes, já que cada animal contribui com nove medidas ao conjunto de dados. Há portanto, a necessidade de incorporar as correlações entre as medidas num mesmo animal e do animal dentro de cada sessão experimental.&lt;/p&gt;
+
+&lt;p&gt;No presente estudo considerou-se a modelagem usando GAMLSS. Esta metodologia permite não só a modelagem da média como há a possibilidade de incluir efeitos aleatórios e de modelar os demais parâmetros da distribuição em função de covariáveis.&lt;/p&gt;
+
+&lt;p&gt;Duas respostas foram analisadas: o número de mudanças de postura de orelha e a proporção do tempo em que o animal permaneceu com as orelhas em posição neutra.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;img width=&#34;700px&#34; height=&#34;700px&#34; 
+src=&#34;/img/animais.png/&#34;/&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;O trabalho foi dividido em três etapas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A primeira delas referente à resposta de contagem, apresentada na sessão pôster da 63ª Reunião Anual da Região Brasileira da Sociedade Internacional de Biometria (&lt;strong&gt;RBras&lt;/strong&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A segunda, referente à resposta de proporção, apresentada na sessão pôster do 23º Simpósio Nacional de Probabilidade e Estatística (&lt;strong&gt;SINAPE&lt;/strong&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;O trabalho completo foi apresentado no 17º Encontro das Atividades Formativas (&lt;strong&gt;ENAF&lt;/strong&gt;), evento componente da 10ª Semana Integrada de Ensino, Pesquisa e Extensão (&lt;strong&gt;SIEPE&lt;/strong&gt;), como comunicação oral.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;img width=&#34;300px&#34; height=&#34;200px&#34; 
+src=&#34;/img/sinape.jpg/&#34;/&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;confira-alguns-dos-materiais-produzidos&#34;&gt;Confira alguns dos materiais produzidos:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./img/proj_gamlss/abstract_LINEU.pdf&#34;&gt;Abstract Rbras&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./img/proj_gamlss/resumo_simples_LINEU.pdf&#34;&gt;Resumo Rbras&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./img/proj_gamlss/posterRBras.pdf&#34;&gt;Pôster Rbras&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./img/proj_gamlss/resumo_simples.pdf&#34;&gt;Resumo Simples SINAPE&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./img/proj_gamlss/resumo_expandido_lineu3.pdf&#34;&gt;Resumo Expandido SINAPE&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./img/proj_gamlss/posterSINAPE.pdf&#34;&gt;Pôster SINAPE&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./img/proj_gamlss/siepe.html&#34;&gt;Análise Completa&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./img/proj_gamlss/pi_pres.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/logo-pet.png/&#34;/&gt;&lt;/div&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/ufpr.jpg/&#34;/&gt;&lt;/div&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;150px&#34; height=&#34;150px&#34; 
+src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;Table&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;table&#34;&gt;&lt;/Table&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelos Lineares Generalizados</title>
+      <link>https://lineu96.github.io/page/projects/glm/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/projects/glm/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;./img/gama.png/&#34;/&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;No segundo semestre de 2017 assumi a monitoria da disciplina de Modelos Lineares Generalizados (&lt;a href=&#34;https://docs.ufpr.br/~taconeli/CE22517/CE22517.html&#34; target=&#34;_blank&#34;&gt;CE225&lt;/a&gt;) sob a orientação do professor &lt;a href=&#34;https://docs.ufpr.br/~taconeli/&#34; target=&#34;_blank&#34;&gt;Cesar Augusto Taconeli&lt;/a&gt;, que também foi meu orientador no projeto intitulado &lt;a href=&#34;./projects/gamlss&#34;&gt;Análise Comportamental de Ovelhas Submetidas a Intervenção Humana Usando GAMLSS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Os Modelos Lineares Generalizados, propostos por &lt;a href=&#34;https://docs.ufpr.br/~taconeli/CE22517/artigo.pdf&#34; target=&#34;_blank&#34;&gt;Nelder e Wedderburn em 1972&lt;/a&gt;, são aplicáveis em casos nos quais a variável resposta pode ser representada por alguma distribuição pertencente à família exponencial. Exemplos de distribuições pertencentes a esta família são:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bernoulli;&lt;/li&gt;
+&lt;li&gt;Binomial;&lt;/li&gt;
+&lt;li&gt;Poisson;&lt;/li&gt;
+&lt;li&gt;Binomial Negativa;&lt;/li&gt;
+&lt;li&gt;Normal;&lt;/li&gt;
+&lt;li&gt;Gama;&lt;/li&gt;
+&lt;li&gt;Normal inversa.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sendo assim, trata-se de uma classe de modelos de regressão para dados contínuos simétricos e assimétricos, contagens e ainda casos em que a variável resposta tenha apenas dois desfechos possíveis. Constitui portanto um framework para modelagem bem mais flexível do que o clássico modelo linear com erros normais.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Como aluno, esta disciplina foi, sem dúvidas, a que mais gostei do curso, e a monitoria foi uma das atividades mais interessantes e enriquecedoras que tive a oportunidade de participar. Na época eu ficava disponível dois dias da semana para atendimento aos alunos da disciplina e além disso, produzi uma série de materiais de apoio juntamente com o professor Cesar.&lt;/p&gt;
+
+&lt;p&gt;A ideia destes materiais era auxiliar os alunos em como proceder a análise em R de um conjunto de dados utilizando o framework dos Modelos Lineares Generalizados. Ao todo, foram geradas 3 páginas no formato html cada um com uma análise de um dataset. São elas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Vinheta 1: &lt;a href=&#34;./img/proj_glm/v1.html&#34;&gt;Regressão Linear com Erros Normais&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vinheta 2: &lt;a href=&#34;./img/proj_glm/v2.html&#34;&gt;Regressão para Dados Binários&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vinheta 3: &lt;a href=&#34;./img/proj_glm/v3.html&#34;&gt;Regressão para Dados de Contagem&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/logo-pet.png/&#34;/&gt;&lt;/div&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
+src=&#34;/img/ufpr.jpg/&#34;/&gt;&lt;/div&gt;
+
+&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;150px&#34; height=&#34;150px&#34; 
+src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;Table&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/Table&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exemplo de publicação</title>
+      <link>https://lineu96.github.io/page/publication/ex_publication/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/publication/ex_publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lineu96.github.io/page/projects/lista_atividades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/page/projects/lista_atividades/</guid>
+      <description>
+
+&lt;h1 id=&#34;atividades-complementares&#34;&gt;Atividades Complementares&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;eventos&#34;&gt;Eventos&lt;/h2&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;UFPR: Feira de Cursos e Profissões 2016 (expositor)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;SEMANEST: Semana Acadêmica de Estatística UFPR 2017 (ouvinte)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;SIEPE: Semana Integrada de Ensino Pesquisa e Extensao da UFPR 2017 (ouvinte)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;UFPR: Feira de Cursos e Profissões 2018 (expositor)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rday: Encontro nacional de usuários do R UFPR 2018 (coorganizador)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rbras: Reunião anual da Região Brasileira da Sociedade Internacional de Biometria 2018 (coorganizador e apresentador)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;SINAPE: Simpósio Nacional de Probabilidade e Estatística 2018 (apresentador)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;SIEPE: Semana Integrada de Ensino Pesquisa e Extensao da UFPR 2018 (apresentador)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;cursos&#34;&gt;Cursos&lt;/h2&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Inglês&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Minicurso: BINARY REGRESSION MODELS: INFERENCE AND APPLICATIONS&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Minicurso: BAYESIAN DISTRIBUTIONAL REGRESSION&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;projetos-de-pesquisa&#34;&gt;Projetos de Pesquisa&lt;/h2&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Análise Comportamental de Ovelhas Submetidas à Intervenção Humana Usando GAMLSS&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Relação Entre o Stiffness do Membro Inferior, Força e Potência Muscular de Corredores Amadores&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;MANOVA para dados não Gaussianos&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Machine Learning em R: Técnicas e Aplicações&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;estágios-e-programas&#34;&gt;Estágios e Programas&lt;/h2&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Programa de Educação Tutorial&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Núcleo de Estatística e Monitoramento da Corregedoria Geral da Justiça (NEMOC-TJPR)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Monitoria da disciplina Modelos Lineares Generalizados&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Programa de Educação Tutorial&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Banco Bradesco S.A&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;disciplinas-cursadas&#34;&gt;Disciplinas Cursadas&lt;/h2&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Fundamentos básicos para Estatística&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Estatística descritiva e inferencial básica&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Seminários&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Estatística computacional 1&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fundamentos de programação&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cálculo 1&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Geometria Analítica&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Probabilidades A&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Métodos numéricos&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cálculo 2&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Álgebra linear&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Inferência&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Métodos de amostragem&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Probabilidades B&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pesquisa operacional&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Regressão linear&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Teorias de avaliação&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Planejamento de experimentos&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Controle estatístico de qualidade&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Processos estocásticos aplicados&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Estatística não paramétrica&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Análise de dados categóricos&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Controle de processos industriais&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Estatística computacional 2&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Modelos lineares generalizados&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mineração de texto&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Teoria do risco&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Análise de sobrevivência&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Métodos estatísticos multivariados&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Métodos de pesquisa&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Análise de séries temporais&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Análise de dados longitudinais&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Extensão de modelos de regressão&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fundamentos de estatística espacial&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Machine learning&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Laboratório A&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Inferência Bayesiana&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pesquisa reproduzível&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Modelos Markovianos&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sensometria&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Laboratório B&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

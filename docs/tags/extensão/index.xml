@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extensão on Lineu Alberto</title>
+    <link>https://example.com/tags/extens%C3%A3o/</link>
+    <description>Recent content in Extensão on Lineu Alberto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
+    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/extens%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Areião das Águas</title>
+      <link>https://example.com/projects/projeto_areiaozinho/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/projeto_areiaozinho/</guid>
+      <description>Projeto de Revitalização do Rio Areiãozinho Com a necessidade da revitalização do rio areiãozinho surgiu esta iniciativa de um projeto multidisciplinar na UFPR que já tem precedente no Ceará.
+O projeto tem como coordenador o professor Paulo afonso Bracarense Costa do departemento de Estatística da UFPR e como vice-coordenador o professor Álvaro Luiz Mathias do departamento de Engenharia Química da UFPR.
+Tendo como objetivo criar materiais didáticos para alunos entre 6 e 13 anos das escolas localizadas nas comunidades ao longo do rio, capacitação de todos os integrantes do projeto para tal fim, criação de materiais científicos que fomentem a discussão a respeito da preservação dos rios e a revitalização do rio areiãozinho e através da transmissão de conhecimento em relação a preservação do rio tanto para moradores quanto autoridades é possível o convívio sustentável no entorno do areiãozinho.</description>
+    </item>
+    
+  </channel>
+</rss>

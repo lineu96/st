@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Lineu Alberto</title>
+    <link>https://example.com/tags/post/</link>
+    <description>Recent content in Post on Lineu Alberto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Terceira revolulção Industrial</title>
+      <link>https://example.com/post/post_terceira_revolucao_industrial/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/post_terceira_revolucao_industrial/</guid>
+      <description>A produtividade vem decaindo nos ultimos 20 anos no mundo todo, resultando em aumento no desemprego para a geração do novo milênio.
+Economistas preveem uma melhora lenta nos próximos 20 anos, mas após duas revoluções industriais nos séculos XIX e XX, vivemos nume realidade onde a fortuna acumulada das 80 pessoas mais ricas do mundo somadas se iguala aos ganhos de metade da população de todo planeta (aproximadamente 3,5bi). Evidenciando que há algo de errado na nossa vida econômica.</description>
+    </item>
+    
+  </channel>
+</rss>

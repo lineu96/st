@@ -1,0 +1,21 @@
+# Theme metadata
+name = "lineu"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#088A85" # links
+primary_light = "#fff"
+primary_dark = "#002984"
+
+# Menu
+menu_primary = "#151515" # 500 # topo
+menu_text = "#01A9DB"       # texto do menu
+menu_text_active = "#fff" # A100 # muda quando passa o cursor	
+menu_title = "#01A9DB" # nome
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)" #cores das sessões
+home_section_even = "rgb(247, 247, 247)"
+background = "#fff" # rodapé

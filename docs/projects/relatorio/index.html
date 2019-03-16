@@ -1,0 +1,1870 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.40.1" />
+  <meta name="author" content="Lineu Alberto">
+
+  
+  
+  
+  
+    
+      
+    
+  
+  <meta name="description" content="Relação Entre o Stiffness do Membro Inferior, Força e Potência Muscular de Corredores Amadores title: |- | Relação Entre o Stiffness do Membro Inferior, Força e Potência Muscular de Corredores Amadores | _____________________________________
+subtitle: |- | Análise Estatística | _____________________________________
+author: |- | Lineu Alberto Cavazani de Freitas | _____________________________________
+output: html_document: # Classe de documento. toc: true # Exibir sum?rio. toc_depth: 2 # Profundidade do sum?rio. toc_float: # Sum?">
+
+  
+  <link rel="alternate" hreflang="pt-br" href="https://example.com/projects/relatorio/">
+
+  
+
+
+  
+
+  
+  
+  <meta name="theme-color" content="#3f51b5">
+  
+  
+  
+  
+    
+  
+  
+    
+    
+      
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+      
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7cMerriweather%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="../../styles.css">
+  
+
+  
+
+  
+  <link rel="alternate" href="https://example.com/index.xml" type="application/rss+xml" title="Lineu Alberto">
+  <link rel="feed" href="https://example.com/index.xml" type="application/rss+xml" title="Lineu Alberto">
+  
+
+  <link rel="manifest" href="../../site.webmanifest">
+  <link rel="icon" type="image/png" href="../../img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../img/icon-192.png">
+
+  <link rel="canonical" href="https://example.com/projects/relatorio/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Lineu Alberto">
+  <meta property="og:url" content="https://example.com/projects/relatorio/">
+  <meta property="og:title" content=" | Lineu Alberto">
+  <meta property="og:description" content="Relação Entre o Stiffness do Membro Inferior, Força e Potência Muscular de Corredores Amadores title: |- | Relação Entre o Stiffness do Membro Inferior, Força e Potência Muscular de Corredores Amadores | _____________________________________
+subtitle: |- | Análise Estatística | _____________________________________
+author: |- | Lineu Alberto Cavazani de Freitas | _____________________________________
+output: html_document: # Classe de documento. toc: true # Exibir sum?rio. toc_depth: 2 # Profundidade do sum?rio. toc_float: # Sum?">
+  <meta property="og:locale" content="pt-br">
+  
+  
+  
+  
+
+  
+
+  <title> | Lineu Alberto</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Alterar navegação</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="../../">Lineu Alberto</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../#projects">
+            
+            <span>Projetos</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../#contact">
+            
+            <span>Contato</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name"></h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="pull-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=&amp;url=https%3a%2f%2fexample.com%2fprojects%2frelatorio%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fexample.com%2fprojects%2frelatorio%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fexample.com%2fprojects%2frelatorio%2f&amp;title="
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fexample.com%2fprojects%2frelatorio%2f&amp;title="
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=&amp;body=https%3a%2f%2fexample.com%2fprojects%2frelatorio%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </span>
+    </div>
+
+    
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<h1 id="relação-entre-o-stiffness-do-membro-inferior-força-e-potência-muscular-de-corredores-amadores">Relação Entre o Stiffness do Membro Inferior, Força e Potência Muscular de Corredores Amadores</h1>
+
+<hr />
+
+<p>title: |-
+  | <strong>Relação Entre o Stiffness do Membro Inferior, Força e Potência Muscular de Corredores Amadores</strong>
+  | _____________________________________</p>
+
+<p>subtitle: |-
+   | <strong>Análise Estatística</strong>
+   | _____________________________________</p>
+
+<p>author: |-
+  | Lineu Alberto Cavazani de Freitas
+  | _____________________________________</p>
+
+<p>output:
+  html_document:                    # Classe de documento.
+    toc: true                       # Exibir sum?rio.
+    toc_depth: 2                    # Profundidade do sum?rio.
+    toc_float:                      # Sum?rio flutuante na borda.
+      collapsed: true
+      smooth_scroll: true
+    number_sections: true           # Se??es numeradas.
+    theme: cerulean
+    #default, cerulean, journal, flatly, readable, spacelab,united, cosmo, lumen, paper, sandstone, simplex, yeti</p>
+
+<pre><code>highlight: textmate
+# &quot;default&quot;, &quot;tango&quot;, &quot;pygments&quot;, &quot;kate&quot;,  &quot;monochrome&quot;, &quot;espresso&quot;, &quot;zenburn&quot;, &quot;haddock&quot;, &quot;textmate&quot;
+
+#css: styles.css                 # Caminho para arquivo CSS.
+fig_width: 7                    # Lagura das figuras.
+fig_height: 6                   # Altura das figuras.
+fig_caption: true               # Exibica??o de legenda.
+code_folding: hide              # Esconder/exibir bloco de c?digo.
+keep_md: true                   # Manter o arquivo md.
+#template: quarterly_report.html # Caminho para o template.
+</code></pre>
+
+<hr />
+
+<hr />
+
+<h1 id="contexto">Contexto</h1>
+
+<h2 id="stiffness">Stiffness</h2>
+
+<p>Stiffness é a rigidez apresentada por um material submetido a estresse mecânico.</p>
+
+<p>Na corrida, o membro inferior é constantemente exposto a estresses – principalmente compressivo – e precisa apresentar grande capacidade de resistir a tais cargas. Desse modo, o stiffness do membro inferior é fator determinante do desempenho, seja de profissionais ou mesmo de atletas amadores.</p>
+
+<h2 id="objetivo">Objetivo</h2>
+
+<p>Investigar a relação entre força, potência e stiffness do membro inferior em corredores amadores.</p>
+
+<h2 id="experimento">Experimento</h2>
+
+<p>A amostra foi composta por 23 indivíduos, dos quais 12 eram homens e 11 eram mulheres. Os participantes tinham idade entre 18 e 45 anos e praticavam a corrida de forma regular na época do experimento.</p>
+
+<p>Foram coletadas informações em uma avaliação antropométrica, teste de potência e teste de força. Para os testes de potência e força foram realizadas duas sessões, com 48 horas de intervalo em que foi considerada a maior mensuração.</p>
+
+<p>Todos os testes foram realizados sob a supervisão do mesmo avaliador.</p>
+
+<p>Além das informações antropométricas, de potência e força, os participantes foram submetidos a um teste de corrida com a distância de 3000 metros (3 km). Ao longo do teste foram realizadas filmagens para a avaliação do stiffness via análise cinemática.</p>
+
+<h2 id="variáveis">Variáveis</h2>
+
+<ul>
+<li><p>Sexo</p></li>
+
+<li><p>Altura</p></li>
+
+<li><p>Massa Corporal</p></li>
+
+<li><p>Comprimento do Membro Inferior</p></li>
+
+<li><p>Teste de Potência</p></li>
+
+<li><p>Teste de Força (%MC)</p></li>
+
+<li><p>Tempo para conclusão do Teste de Pista 3000m (seg)</p></li>
+
+<li><p>Fase Aérea</p></li>
+
+<li><p>Tempo de Contato</p></li>
+
+<li><p>Freq Passo (hz)</p></li>
+
+<li><p>Tamanho do Passo (m)</p></li>
+
+<li><p>Delta z (vertical)</p></li>
+
+<li><p>Vertical k (stifiness vertical)</p></li>
+
+<li><p>Lower Limb k (stifiness do membro inferior)</p></li>
+</ul>
+
+<pre><code class="language-r">#-----------------------------------------------------------------------
+## Dados
+setwd(&quot;~/Dropbox/Aulas-Acessorias/Gyan Gomes da Silva/Análises&quot;)
+dados &lt;- read.csv(&quot;dados.csv&quot;, header = T, sep = ';', dec = ',')
+
+#-----------------------------------------------------------------------
+## Gerando dicotomização melhores x piores
+dados$classe &lt;- ifelse(dados$pista &gt; median(dados$pista), '&gt; med','&lt; med')
+
+#-----------------------------------------------------------------------
+## Gerando subsets por sexo e classificação
+dadosF &lt;- subset(dados, sexo=='F')
+dadosM &lt;- subset(dados, sexo=='M')
+dadosB &lt;- subset(dados, classe=='&gt; med')
+dadosW &lt;- subset(dados, classe=='&lt; med')
+</code></pre>
+
+<hr />
+
+<h1 id="medidas-descritivas-tabset-tabset-fade">Medidas Descritivas {.tabset .tabset-fade}</h1>
+
+<p>Os resultados a seguir mostram estatísticas descritivas para as variáveis numéricas coletadas para os dados completos, apenas homens, apenas mulheres, maiores tempos (acima da mediana) e menores tempos (abaixo da mediana).</p>
+
+<h2 id="dados-completos">Dados Completos</h2>
+
+<pre><code class="language-r">code &lt;- names(dados)
+
+nomes &lt;- c('id', 'Nome', 
+                  'Sexo', 'Estatura', 
+                  'Massa', 'Tam. Membro', 
+                  'Potência', 'Força', 
+                  'Pista', 'Fase Aérea',
+                  'Tempo de Contato', 
+                  'Freq. Passo',
+                  'Tamanho Passo',
+                  'Delta Z',
+                  'Vertical k',
+                  'Limb k')
+
+names(dados) &lt;- nomes
+
+summary(dados[,c(4:16)], digits = 2)
+</code></pre>
+
+<pre><code>##     Estatura       Massa     Tam. Membro    Potência        Força    
+##  Min.   :1.6   Min.   :44   Min.   :73   Min.   : 550   Min.   : 84  
+##  1st Qu.:1.6   1st Qu.:54   1st Qu.:78   1st Qu.: 682   1st Qu.:105  
+##  Median :1.7   Median :67   Median :80   Median : 955   Median :123  
+##  Mean   :1.6   Mean   :63   Mean   :80   Mean   : 892   Mean   :118  
+##  3rd Qu.:1.7   3rd Qu.:71   3rd Qu.:83   3rd Qu.:1026   3rd Qu.:128  
+##  Max.   :1.8   Max.   :84   Max.   :86   Max.   :1256   Max.   :155  
+##      Pista        Fase Aérea    Tempo de Contato  Freq. Passo 
+##  Min.   : 586   Min.   :0.019   Min.   :0.21     Min.   :2.6  
+##  1st Qu.: 684   1st Qu.:0.090   1st Qu.:0.23     1st Qu.:2.7  
+##  Median : 800   Median :0.106   Median :0.24     Median :2.8  
+##  Mean   : 782   Mean   :0.104   Mean   :0.25     Mean   :2.8  
+##  3rd Qu.: 839   3rd Qu.:0.122   3rd Qu.:0.27     3rd Qu.:2.9  
+##  Max.   :1005   Max.   :0.147   Max.   :0.33     Max.   :3.2  
+##  Tamanho Passo    Delta Z        Vertical k     Limb k   
+##  Min.   :1.1   Min.   :0.047   Min.   :14   Min.   :3.3  
+##  1st Qu.:1.4   1st Qu.:0.056   1st Qu.:20   1st Qu.:4.9  
+##  Median :1.4   Median :0.061   Median :21   Median :5.9  
+##  Mean   :1.4   Mean   :0.061   Mean   :23   Mean   :5.8  
+##  3rd Qu.:1.5   3rd Qu.:0.067   3rd Qu.:28   3rd Qu.:6.8  
+##  Max.   :1.7   Max.   :0.075   Max.   :33   Max.   :7.4
+</code></pre>
+
+<h2 id="apenas-homens">Apenas Homens</h2>
+
+<pre><code class="language-r">names(dadosM) &lt;- nomes
+summary(dadosM[,c(4:16)], digits = 2)
+</code></pre>
+
+<pre><code>##     Estatura       Massa     Tam. Membro    Potência        Força    
+##  Min.   :1.6   Min.   :57   Min.   :75   Min.   : 825   Min.   :108  
+##  1st Qu.:1.7   1st Qu.:68   1st Qu.:80   1st Qu.: 998   1st Qu.:124  
+##  Median :1.7   Median :70   Median :82   Median :1024   Median :128  
+##  Mean   :1.7   Mean   :70   Mean   :81   Mean   :1055   Mean   :130  
+##  3rd Qu.:1.7   3rd Qu.:73   3rd Qu.:83   3rd Qu.:1117   3rd Qu.:134  
+##  Max.   :1.8   Max.   :83   Max.   :86   Max.   :1256   Max.   :155  
+##      Pista       Fase Aérea    Tempo de Contato  Freq. Passo 
+##  Min.   :586   Min.   :0.089   Min.   :0.21     Min.   :2.6  
+##  1st Qu.:661   1st Qu.:0.096   1st Qu.:0.22     1st Qu.:2.7  
+##  Median :710   Median :0.117   Median :0.23     Median :2.9  
+##  Mean   :715   Mean   :0.114   Mean   :0.24     Mean   :2.9  
+##  3rd Qu.:803   3rd Qu.:0.123   3rd Qu.:0.24     3rd Qu.:3.0  
+##  Max.   :824   Max.   :0.147   Max.   :0.29     Max.   :3.2  
+##  Tamanho Passo    Delta Z        Vertical k     Limb k   
+##  Min.   :1.4   Min.   :0.048   Min.   :19   Min.   :4.8  
+##  1st Qu.:1.4   1st Qu.:0.055   1st Qu.:25   1st Qu.:6.0  
+##  Median :1.5   Median :0.058   Median :27   Median :6.6  
+##  Mean   :1.5   Mean   :0.060   Mean   :27   Mean   :6.5  
+##  3rd Qu.:1.7   3rd Qu.:0.068   3rd Qu.:30   3rd Qu.:7.1  
+##  Max.   :1.7   Max.   :0.075   Max.   :33   Max.   :7.4
+</code></pre>
+
+<h2 id="apenas-mulheres">Apenas Mulheres</h2>
+
+<pre><code class="language-r">names(dadosF) &lt;- nomes
+summary(dadosF[,c(4:16)], digits = 2)
+</code></pre>
+
+<pre><code>##     Estatura       Massa     Tam. Membro    Potência        Força    
+##  Min.   :1.6   Min.   :44   Min.   :73   Min.   : 550   Min.   : 84  
+##  1st Qu.:1.6   1st Qu.:50   1st Qu.:76   1st Qu.: 629   1st Qu.: 94  
+##  Median :1.6   Median :54   Median :79   Median : 678   Median :104  
+##  Mean   :1.6   Mean   :56   Mean   :79   Mean   : 714   Mean   :104  
+##  3rd Qu.:1.6   3rd Qu.:60   3rd Qu.:81   3rd Qu.: 748   3rd Qu.:114  
+##  Max.   :1.7   Max.   :84   Max.   :86   Max.   :1024   Max.   :128  
+##      Pista        Fase Aérea    Tempo de Contato  Freq. Passo 
+##  Min.   : 673   Min.   :0.019   Min.   :0.22     Min.   :2.6  
+##  1st Qu.: 792   1st Qu.:0.083   1st Qu.:0.24     1st Qu.:2.7  
+##  Median : 854   Median :0.094   Median :0.26     Median :2.8  
+##  Mean   : 855   Mean   :0.093   Mean   :0.26     Mean   :2.8  
+##  3rd Qu.: 928   3rd Qu.:0.108   3rd Qu.:0.28     3rd Qu.:2.9  
+##  Max.   :1005   Max.   :0.133   Max.   :0.33     Max.   :3.0  
+##  Tamanho Passo    Delta Z        Vertical k     Limb k   
+##  Min.   :1.1   Min.   :0.047   Min.   :14   Min.   :3.3  
+##  1st Qu.:1.3   1st Qu.:0.058   1st Qu.:17   1st Qu.:4.5  
+##  Median :1.4   Median :0.063   Median :20   Median :5.0  
+##  Mean   :1.3   Mean   :0.061   Mean   :19   Mean   :5.1  
+##  3rd Qu.:1.5   3rd Qu.:0.066   3rd Qu.:20   3rd Qu.:5.5  
+##  Max.   :1.5   Max.   :0.069   Max.   :29   Max.   :7.0
+</code></pre>
+
+<h2 id="maiores-tempos">Maiores Tempos</h2>
+
+<pre><code class="language-r">names(dadosB) &lt;- nomes
+summary(dadosB[,c(4:16)], digits = 2)
+</code></pre>
+
+<pre><code>##     Estatura       Massa     Tam. Membro    Potência        Força    
+##  Min.   :1.6   Min.   :45   Min.   :76   Min.   : 605   Min.   : 84  
+##  1st Qu.:1.6   1st Qu.:54   1st Qu.:79   1st Qu.: 682   1st Qu.: 94  
+##  Median :1.6   Median :58   Median :80   Median : 776   Median :107  
+##  Mean   :1.6   Mean   :62   Mean   :80   Mean   : 848   Mean   :108  
+##  3rd Qu.:1.7   3rd Qu.:68   3rd Qu.:82   3rd Qu.:1010   3rd Qu.:124  
+##  Max.   :1.8   Max.   :84   Max.   :86   Max.   :1256   Max.   :132  
+##      Pista        Fase Aérea    Tempo de Contato  Freq. Passo 
+##  Min.   : 804   Min.   :0.019   Min.   :0.23     Min.   :2.6  
+##  1st Qu.: 820   1st Qu.:0.083   1st Qu.:0.25     1st Qu.:2.6  
+##  Median : 854   Median :0.089   Median :0.27     Median :2.7  
+##  Mean   : 876   Mean   :0.092   Mean   :0.27     Mean   :2.7  
+##  3rd Qu.: 928   3rd Qu.:0.108   3rd Qu.:0.29     3rd Qu.:2.8  
+##  Max.   :1005   Max.   :0.133   Max.   :0.33     Max.   :3.0  
+##  Tamanho Passo    Delta Z        Vertical k     Limb k   
+##  Min.   :1.1   Min.   :0.047   Min.   :14   Min.   :3.3  
+##  1st Qu.:1.3   1st Qu.:0.059   1st Qu.:19   1st Qu.:4.8  
+##  Median :1.4   Median :0.067   Median :20   Median :5.6  
+##  Mean   :1.3   Mean   :0.064   Mean   :20   Mean   :5.4  
+##  3rd Qu.:1.4   3rd Qu.:0.069   3rd Qu.:21   3rd Qu.:6.3  
+##  Max.   :1.5   Max.   :0.075   Max.   :29   Max.   :7.0
+</code></pre>
+
+<h2 id="menores-tempos">Menores Tempos</h2>
+
+<pre><code class="language-r">names(dadosW) &lt;- nomes
+summary(dadosW[,c(4:16)], digits = 2)
+</code></pre>
+
+<pre><code>##     Estatura       Massa     Tam. Membro    Potência        Força    
+##  Min.   :1.6   Min.   :44   Min.   :73   Min.   : 550   Min.   :104  
+##  1st Qu.:1.6   1st Qu.:58   1st Qu.:77   1st Qu.: 777   1st Qu.:120  
+##  Median :1.7   Median :69   Median :81   Median : 999   Median :127  
+##  Mean   :1.6   Mean   :65   Mean   :80   Mean   : 933   Mean   :127  
+##  3rd Qu.:1.7   3rd Qu.:72   3rd Qu.:83   3rd Qu.:1070   3rd Qu.:134  
+##  Max.   :1.7   Max.   :76   Max.   :86   Max.   :1248   Max.   :155  
+##      Pista       Fase Aérea    Tempo de Contato  Freq. Passo 
+##  Min.   :586   Min.   :0.092   Min.   :0.21     Min.   :2.7  
+##  1st Qu.:661   1st Qu.:0.103   1st Qu.:0.22     1st Qu.:2.8  
+##  Median :684   Median :0.114   Median :0.23     Median :2.9  
+##  Mean   :696   Mean   :0.115   Mean   :0.23     Mean   :2.9  
+##  3rd Qu.:746   3rd Qu.:0.123   3rd Qu.:0.24     3rd Qu.:3.0  
+##  Max.   :800   Max.   :0.147   Max.   :0.25     Max.   :3.2  
+##  Tamanho Passo    Delta Z        Vertical k     Limb k   
+##  Min.   :1.4   Min.   :0.048   Min.   :16   Min.   :4.3  
+##  1st Qu.:1.4   1st Qu.:0.055   1st Qu.:24   1st Qu.:5.2  
+##  Median :1.5   Median :0.058   Median :27   Median :6.4  
+##  Mean   :1.5   Mean   :0.058   Mean   :26   Mean   :6.2  
+##  3rd Qu.:1.7   3rd Qu.:0.063   3rd Qu.:30   3rd Qu.:7.1  
+##  Max.   :1.7   Max.   :0.069   Max.   :33   Max.   :7.4
+</code></pre>
+
+<pre><code class="language-r">names(dados) &lt;- code
+names(dadosM) &lt;- code
+names(dadosF) &lt;- code
+names(dadosB) &lt;- code
+names(dadosW) &lt;- code
+</code></pre>
+
+<h2 id="interpretações">Interpretações</h2>
+
+<p>Nota-se que para os dados completos os indivíduos têm entre 1,60m e 1,90, pesam de 44 kg a 84 kg, com tamanho do membro entre 73 e 86 cm.</p>
+
+<p>Valores observados para o teste de potência vão de 550 a 1256 com média de 892, o teste de força varia de 84 a 155 com média de 118.</p>
+
+<p>Os participantes realizaram o teste de pista e apresentaram tempos entre 586 e 1005 segundos, o tempo médio para finalização da prova foi de 782 segundos.</p>
+
+<p>Para as variáveis que definem o stifness notou-se que o kvert varia de 14 a 33, com média de 23 e o kleg de 3,3 a 7,4, com média de 5.8.</p>
+
+<p>A massa para o grupo de mulheres varia de 44 a 84, média de 56 enquanto para homens varia de 57 a 83, média de 70.</p>
+
+<p>Os valores observados para altura, massa, potência e força médias para homens é maior que para mulheres.</p>
+
+<p>As medidas descritivas mostram que o grupo de mulheres levou mais tempo para finalização do teste de pista.</p>
+
+<p>Para as variáveis que definem o stifness nota-se que a média masculina para o kvert é de 27 e para mulheres é 19. Para o kleg a média masculina é de 6,5 enquanto que para mulheres é de 5,1; portanto, mostrando que os valores observados para o stifness são maiores entre os homens da amostra.</p>
+
+<hr />
+
+<h1 id="descrição-da-amostra">Descrição da Amostra</h1>
+
+<pre><code class="language-r">tab &lt;- 
+  
+data.frame(&quot;Variável&quot; = c(
+  'Idade' , 'Massa', 'Estatura', 'Comp. Membro'),
+  &quot;Mín.&quot;       = rep(NA, 4),
+  &quot;Máx.&quot;       = rep(NA, 4),
+  &quot;Média&quot;    = rep(NA, 4),
+  &quot;DP&quot; = rep(NA, 4),
+  &quot;Média M&quot;  = rep(NA, 4),
+  &quot;Média F&quot;  = rep(NA, 4),
+  
+  check.names = FALSE)
+
+tab[1, 2] &lt;- min(dados$idade)
+tab[1, 3] &lt;- max(dados$idade)
+tab[1, 4] &lt;- round(mean(dados$idade), 1)
+tab[1, 5] &lt;- round(sd(dados$idade), 1)
+tab[1, 6] &lt;- round(mean(dadosM$idade), 1)
+tab[1, 7] &lt;- round(mean(dadosF$idade), 1)
+
+tab[2, 2] &lt;- min(dados$massa)
+tab[2, 3] &lt;- max(dados$massa)
+tab[2, 4] &lt;- round(mean(dados$massa), 1)
+tab[2, 5] &lt;- round(sd(dados$massa), 1)
+tab[2, 6] &lt;- round(mean(dadosM$massa), 1)
+tab[2, 7] &lt;- round(mean(dadosF$massa), 1)
+
+tab[3, 2] &lt;- min(dados$altura)
+tab[3, 3] &lt;- max(dados$altura)
+tab[3, 4] &lt;- round(mean(dados$altura), 1)
+tab[3, 5] &lt;- round(sd(dados$altura), 1)
+tab[3, 6] &lt;- round(mean(dadosM$altura), 1)
+tab[3, 7] &lt;- round(mean(dadosF$altura), 1)
+
+tab[4, 2] &lt;- min(dados$membro)
+tab[4, 3] &lt;- max(dados$membro)
+tab[4, 4] &lt;- round(mean(dados$membro), 1)
+tab[4, 5] &lt;- round(sd(dados$membro), 1)
+tab[4, 6] &lt;- round(mean(dadosM$membro), 1)
+tab[4, 7] &lt;- round(mean(dadosF$membro), 1)
+
+tab
+</code></pre>
+
+<pre><code>##       Variável  Mín.  Máx. Média   DP Média M Média F
+## 1        Idade 18.00 45.00  32.0  8.8    31.7    32.3
+## 2        Massa 44.00 83.50  63.4 11.3    69.8    56.4
+## 3     Estatura  1.55  1.79   1.6  0.1     1.7     1.6
+## 4 Comp. Membro 73.00 86.00  80.2  3.5    81.1    79.3
+</code></pre>
+
+<hr />
+
+<h1 id="densidade-das-variáveis-tabset-tabset-fade">Densidade das Variáveis {.tabset .tabset-fade}</h1>
+
+<p>Uma forma de explorar a distribuição de uma variável é com um gráfico de densidade. Pode ser visto como uma versão suavizada de um histograma em que, cada ponto estima a densidade probabilística da variável.</p>
+
+<p>Os gráficos a seguir mostram a densidade de cada uma das variáveis, além de marcações para a média geral (linha vermelha), média da variável para homens (seta azul), para mulheres (seta vermelha), maiores tempos (seta verde), menores tempos (seta laranja).</p>
+
+<p>Os resultados apresentados na série de gráficos de densidade são os mesmos que os vistos nas medidas descritivas com um apelo visual.</p>
+
+<pre><code class="language-r">#_______________________________________________________________________
+## Função para gerar o grafico de densidade
+
+dens &lt;- function(data, dataM, dataF, dataB, dataW, nome){
+  d1 &lt;- density(data)
+  
+  plot(density(data), 
+       ylim = c((min(density(data)$y))*-100, 
+                max(density(data)$y)), 
+       lwd = 2,
+       xlab = nome,
+       ylab = &quot;Densidade&quot;,
+       main = paste(nome))
+  
+  polygon(d1, col=&quot;#ECE0F8&quot;)
+  
+  abline(v=mean(data), col = 2, lwd = 2, lty = 2)
+  
+  arrows(x0 = mean((dataM)), y0 = (min(density(data)$y))*-100, 
+         x1 = mean((dataM)), y1 = 0.0,
+         lwd = 2, col = '#2ECCFA', pch = 6)
+  
+  arrows(x0 = mean((dataF)), y0 = (min(density(data)$y))*-100, 
+         x1 = mean((dataF)), y1 = 0.0,
+         lwd = 2, col = 2, pch = 6)
+  
+  arrows(x0 = mean((dataB)), y0 = (min(density(data)$y))*-100, 
+         x1 = mean((dataB)), y1 = 0.0,
+         lwd = 2, col = '#0B610B', pch = 6)
+  
+  arrows(x0 = mean((dataW)), y0 = (min(density(data)$y))*-100, 
+         x1 = mean((dataW)), y1 = 0.0,
+         lwd = 2, col = '#FF8000', pch = 6)
+  
+  points(x=mean((dataM)), y=0, cex = 1, pch = 19, col = '#2ECCFA')
+  points(x=mean((dataF)), y=0, cex = 1, pch = 19, col = 2)
+  points(x=mean((dataB)), y=0, cex = 1, pch = 19, col = '#0B610B')
+  points(x=mean((dataW)), y=0, cex = 1, pch = 19, col = '#FF8000')
+  
+  legend(&quot;topleft&quot;, legend=c(&quot;MASC&quot;,&quot;FEM&quot;,&quot;+&quot;,&quot;-&quot;), pch=19, 
+         col=c('#2ECCFA',2,'#0B610B','#FF8000'), 
+         lwd=2, 
+         bty=&quot;n&quot;,
+         lty = NA)
+}
+#_______________________________________________________________________
+</code></pre>
+
+<h2 id="estatura">Estatura</h2>
+
+<pre><code class="language-r">#-----------------------------------------------------------------------
+## Gráficos de densidade com marcação para as médias dos grupos
+
+dens(dados$altura, 
+     dadosM$altura, 
+     dadosF$altura, 
+     dadosB$altura, 
+     dadosW$altura,
+     nome = 'Estatura')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-9-1.png" alt="" /><!-- --></p>
+
+<h2 id="massa">Massa</h2>
+
+<pre><code class="language-r">dens(dados$massa, 
+     dadosM$massa, 
+     dadosF$massa, 
+     dadosB$massa, 
+     dadosW$massa,
+     nome = 'Massa')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-10-1.png" alt="" /><!-- --></p>
+
+<h2 id="tamanho-do-membro-cm">Tamanho do Membro (cm)</h2>
+
+<pre><code class="language-r">dens(dados$membro, 
+     dadosM$membro, 
+     dadosF$membro, 
+     dadosB$membro, 
+     dadosW$membro,
+     nome = 'Tamanho do Membro (cm)')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-11-1.png" alt="" /><!-- --></p>
+
+<h2 id="potencia-w">Potencia (W)</h2>
+
+<pre><code class="language-r">dens(dados$potencia, 
+     dadosM$potencia, 
+     dadosF$potencia, 
+     dadosB$potencia, 
+     dadosW$potencia,
+     nome = 'Potencia (W)')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-12-1.png" alt="" /><!-- --></p>
+
+<h2 id="força">Força</h2>
+
+<pre><code class="language-r">dens(dados$forca, 
+     dadosM$forca, 
+     dadosF$forca, 
+     dadosB$forca, 
+     dadosW$forca,
+     nome = 'Força')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-13-1.png" alt="" /><!-- --></p>
+
+<h2 id="pista-seg">Pista (seg)</h2>
+
+<pre><code class="language-r">dens(dados$pista, 
+     dadosM$pista, 
+     dadosF$pista, 
+     dadosB$pista, 
+     dadosW$pista,
+     nome = 'Pista (seg)')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-14-1.png" alt="" /><!-- --></p>
+
+<h2 id="fase-aérea">Fase Aérea</h2>
+
+<pre><code class="language-r">dens(dados$aerea, 
+     dadosM$aerea, 
+     dadosF$aerea, 
+     dadosB$aerea, 
+     dadosW$aerea,
+     nome = 'Fase Aérea')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-15-1.png" alt="" /><!-- --></p>
+
+<h2 id="tempo-de-contato">Tempo de Contato</h2>
+
+<pre><code class="language-r">dens(dados$contato, 
+     dadosM$contato, 
+     dadosF$contato, 
+     dadosB$contato, 
+     dadosW$contato,
+     nome = 'Tempo de Contato')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-16-1.png" alt="" /><!-- --></p>
+
+<h2 id="freq-passo-hz">Freq Passo (HZ)</h2>
+
+<pre><code class="language-r">dens(dados$freo, 
+     dadosM$freo, 
+     dadosF$freo, 
+     dadosB$freo, 
+     dadosW$freo,
+     nome = 'Freq Passo (HZ)')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-17-1.png" alt="" /><!-- --></p>
+
+<h2 id="tamanho-do-passo-m">Tamanho do Passo (m)</h2>
+
+<pre><code class="language-r">dens(dados$passo, 
+     dadosM$passo, 
+     dadosF$passo, 
+     dadosB$passo, 
+     dadosW$passo,
+     nome = 'Tamanho do Passo (m)')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-18-1.png" alt="" /><!-- --></p>
+
+<h2 id="delta-z">Delta Z</h2>
+
+<pre><code class="language-r">dens(dados$delta, 
+     dadosM$delta, 
+     dadosF$delta, 
+     dadosB$delta, 
+     dadosW$delta,
+     nome = 'Delta Z')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-19-1.png" alt="" /><!-- --></p>
+
+<h2 id="vertical-k">Vertical k</h2>
+
+<pre><code class="language-r">dens(dados$vertk, 
+     dadosM$vertk, 
+     dadosF$vertk, 
+     dadosB$vertk, 
+     dadosW$vertk,
+     nome = 'Vertical k')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-20-1.png" alt="" /><!-- --></p>
+
+<h2 id="lower-limb-k">Lower Limb k</h2>
+
+<pre><code class="language-r">dens(dados$lmbk, 
+     dadosM$lmbk, 
+     dadosF$lmbk, 
+     dadosB$lmbk, 
+     dadosW$lmbk,
+     nome = 'Lower Limb k')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-21-1.png" alt="" /><!-- --></p>
+
+<hr />
+
+<h1 id="gráficos-de-dispersão">Gráficos de Dispersão</h1>
+
+<p>Os gráficos de dispersão das variáveis duas a duas permite verificar, tendências, padrões, valores atípicos e o efeito das variáveis sobre as outras.</p>
+
+<p>Os gráficos a seguir mostram uma série de diagramas de dispersão com as combinações de variáveis, com foco especial nos cruzamentos entre teste de força, tempo para conclusão do teste de pista 3000m (seg), fase aérea, tempo de contato, freq do passo (hz), tamanho do passo (m) e Delta z sobre as variáveis que definem o stifness: Vertical k (stifiness vertical) e Lower Limb k (stifiness do membro inferior).</p>
+
+<p>Na composição dos gráficos há ainda distinção de cores para homens e mulheres e uma linha de tendência linear e outra não linear.</p>
+
+<h2 id="potência-força-pista-x-kvert-e-kleg">Potência, Força, Pista x kvert e kleg</h2>
+
+<pre><code class="language-r">#-----------------------------------------------------------------------
+## Gráficos de dispersão com tendência linear e não linear
+# (sequencia solicitada)
+
+# potencia, forca, 300 x verk lmbk
+
+library(ggplot2)
+
+g1 &lt;-
+  ggplot(data = dados, mapping = aes(x=potencia, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('Vertical k') + ggtitle('')
+
+g2 &lt;-
+ggplot(data = dados, mapping = aes(x=forca, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B') +
+  xlab('') + ylab('')+ ggtitle('')
+  
+
+g3 &lt;- 
+  ggplot(data = dados, mapping = aes(x=pista, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('')+ ggtitle('')
+
+g4 &lt;- 
+  ggplot(data = dados, mapping = aes(x=potencia, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B') +
+  xlab('Potência (W)') + ylab('Lower Limb K')+ ggtitle('')
+
+g5 &lt;- 
+  ggplot(data = dados, mapping = aes(x=forca, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B') +
+  xlab('Força (KG)') + ylab('')+ ggtitle('')
+
+g6 &lt;- 
+  ggplot(data = dados, mapping = aes(x=pista, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Pista (seg)') + ylab('') + ggtitle('')
+
+
+library(ggpubr)
+
+ggarrange(g1,g2,g3,g4,g5,g6,
+          ncol = 3, nrow = 2,
+          common.legend = TRUE, 
+          legend=&quot;bottom&quot;,
+          #labels = 'TÍTULO',
+          font.label = list(size = 18, 
+                            face = &quot;bold&quot;))
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-22-1.png" alt="" /><!-- --></p>
+
+<p>Nota-se que maiores valores para potência e força estão associados a maiores valores para ambas as medidas que definem o stifness. Enquanto que menores valores para o teste de pista estão associados a maiores valores de stifness.</p>
+
+<hr />
+
+<h2 id="altura-massa-membro-x-kvert-e-kleg">Altura, Massa, Membro x kvert e kleg</h2>
+
+<pre><code class="language-r">#_______________________________________________________________________
+# altura, massa, membro x vertk lmbk
+
+g1 &lt;-
+  ggplot(data = dados, mapping = aes(x=altura, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('Vertical k') + ggtitle('')
+
+g2 &lt;-
+  ggplot(data = dados, mapping = aes(x=massa, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g3 &lt;- 
+  ggplot(data = dados, mapping = aes(x=membro, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g4 &lt;- 
+  ggplot(data = dados, mapping = aes(x=altura, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Estatura') + ylab('Lower Limb k') + ggtitle('')
+
+g5 &lt;- 
+  ggplot(data = dados, mapping = aes(x=massa, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Massa') + ylab('') + ggtitle('')
+
+g6 &lt;- 
+  ggplot(data = dados, mapping = aes(x=membro, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Tamanho do Membro') + ylab('') + ggtitle('')
+
+ggarrange(g1,g2,g3,g4,g5,
+          g6,ncol = 3, nrow = 2,
+          common.legend = TRUE, 
+          legend=&quot;bottom&quot;,
+          #labels = 'TÍTULO',
+          font.label = list(size = 18, 
+                            face = &quot;bold&quot;))
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-23-1.png" alt="" /><!-- --></p>
+
+<p>Os gráficos mostram que todas as variáveis antropométricas influenciam positivamente os valores de stifness, mostrando que a medida que estatura, massa e tamanho do membro aumentam, o valor das variáveis que definem o stifness também aumentam.</p>
+
+<hr />
+
+<h2 id="fase-aérea-tempo-de-contato-freq-do-passo-x-kvert-e-kleg">Fase Aérea, Tempo de Contato, Freq do passo x kvert e kleg</h2>
+
+<pre><code class="language-r">#_______________________________________________________________________
+# aerea contato freq passo x vertk lmbk
+
+g1 &lt;-
+  ggplot(data = dados, mapping = aes(x=aerea, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('Vertical k') + ggtitle('')
+
+g2 &lt;-
+  ggplot(data = dados, mapping = aes(x=contato, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g3 &lt;- 
+  ggplot(data = dados, mapping = aes(x=freo, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g4 &lt;- 
+  ggplot(data = dados, mapping = aes(x=passo, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g5 &lt;- 
+  ggplot(data = dados, mapping = aes(x=aerea, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Fase Aérea') + ylab('Lower Limb k') + ggtitle('')
+
+g6 &lt;- 
+  ggplot(data = dados, mapping = aes(x=contato, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Tempo de Contato') + ylab('') + ggtitle('')
+
+g7 &lt;- 
+  ggplot(data = dados, mapping = aes(x=freo, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Freq Passo') + ylab('') + ggtitle('')
+
+g8 &lt;- 
+  ggplot(data = dados, mapping = aes(x=passo, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Tamanho do Passo') + ylab('') + ggtitle('')
+
+ggarrange(g1,g2,g3,g4,
+          g5,g6,g7,g8,
+          ncol = 4,
+          nrow = 2,
+          common.legend = TRUE, 
+          legend=&quot;bottom&quot;,
+          #labels = 'TÍTULO',
+          font.label = list(size = 18, 
+                            face = &quot;bold&quot;))
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-24-1.png" alt="" /><!-- --></p>
+
+<p>Nota-se que há um indivíduo do sexo feminino com valor de fase aérea extremamente baixo que pode estar viesando as tendências nos gráficos de dispersão, a matriz a seguir mostram os mesmos gráficos sem o indivíduo mencionado:</p>
+
+<pre><code class="language-r">g1 &lt;-
+  ggplot(data = dados[-4,], mapping = aes(x=aerea, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('Vertical k') + ggtitle('')
+
+g2 &lt;-
+  ggplot(data = dados[-4,], mapping = aes(x=contato, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g3 &lt;- 
+  ggplot(data = dados[-4,], mapping = aes(x=freo, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g4 &lt;- 
+  ggplot(data = dados[-4,], mapping = aes(x=passo, y=vertk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g5 &lt;- 
+  ggplot(data = dados[-4,], mapping = aes(x=aerea, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Fase Aérea') + ylab('Lower Limb k') + ggtitle('')
+
+g6 &lt;- 
+  ggplot(data = dados[-4,], mapping = aes(x=contato, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Tempo de Contato') + ylab('') + ggtitle('')
+
+g7 &lt;- 
+  ggplot(data = dados[-4,], mapping = aes(x=freo, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Freq Passo') + ylab('') + ggtitle('')
+
+g8 &lt;- 
+  ggplot(data = dados[-4,], mapping = aes(x=passo, y=lmbk, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Tamanho do Passo') + ylab('') + ggtitle('')
+
+ggarrange(g1,g2,g3,g4,
+          g5,g6,g7,g8,
+          ncol = 4,
+          nrow = 2,
+          common.legend = TRUE, 
+          legend=&quot;bottom&quot;,
+          #labels = 'TÍTULO',
+          font.label = list(size = 18, 
+                            face = &quot;bold&quot;))
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-25-1.png" alt="" /><!-- --></p>
+
+<p>Nota-se que os valores observados para fase aérea influenciam mais o kleg do que o kvert. O tamanho do passo não apresenta aparente influência sobre o kleg enquanto que maiores valores de tamanho do passo estão associados a maiores valores de kvert. Quanto maior o tempo de contato, menor o valor das variáveis que definem o stifness e, quanto maior a frequência do passo, maior o valor das variáveis que definem o stifness.</p>
+
+<hr />
+
+<h1 id="potência-força-pista-x-altura-massa-membro">Potência, Força, Pista x Altura, Massa, Membro</h1>
+
+<pre><code class="language-r"># potencia, forca, 300 x altura, massa, membro
+#_______________________________________________________________________
+
+g1 &lt;-
+  ggplot(data = dados, mapping = aes(x=potencia, y=altura, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('Altura') + ggtitle('')
+
+g2 &lt;-
+  ggplot(data = dados, mapping = aes(x=forca, y=altura, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g3 &lt;- 
+  ggplot(data = dados, mapping = aes(x=pista, y=altura, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g4 &lt;- 
+  ggplot(data = dados, mapping = aes(x=potencia, y=massa, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('Massa') + ggtitle('')
+
+g5 &lt;- 
+  ggplot(data = dados, mapping = aes(x=forca, y=massa, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g6 &lt;- 
+  ggplot(data = dados, mapping = aes(x=pista, y=massa, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('') + ylab('') + ggtitle('')
+
+g7 &lt;- 
+  ggplot(data = dados, mapping = aes(x=potencia, y=membro, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Potência') + ylab('Tamanho do Membro') + ggtitle('')
+
+g8 &lt;- 
+  ggplot(data = dados, mapping = aes(x=forca, y=membro, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Força') + ylab('') + ggtitle('')
+
+g9 &lt;- 
+  ggplot(data = dados, mapping = aes(x=pista, y=membro, color = sexo)) +
+  geom_point() + 
+  geom_smooth(se=F, linetype = 'longdash', col = '#2EFE64') + 
+  geom_smooth(method = 'lm', se = F, col= '#0B3B0B')+
+  xlab('Pista (seg)') + ylab('') + ggtitle('')
+
+ggarrange(g1,g2,g3,
+          g4,g5,g6,
+          g7,g8,g9,
+          ncol=3,
+          nrow=3,
+          common.legend = TRUE, 
+          legend=&quot;bottom&quot;,
+          ##labels = 'TÍTULO',
+          font.label = list(size = 18, 
+                            face = &quot;bold&quot;))
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-26-1.png" alt="" /><!-- --></p>
+
+<p>Para esta combinação é possível notar uma relação bem definida entre potência, tamanho do membro e altura. Para as demais combinações os gráficos mostram pouca relação entre os pares, a ausência de relação é mais acentuada quando se tratam das variáveis força e tempo do teste de pista quando confrontados com os valores de tamanho do membro.</p>
+
+<hr />
+
+<h1 id="box-plots">Box-plots</h1>
+
+<p>O Box-plot é uma ferramenta gráfica que permite visualizar a distribuição e valores discrepantes (outliers) dos dados. Mínimo, máximo e quartis formam o boxplot.</p>
+
+<p>É uma alternativa gráfica para verificar o efeito de uma variáel categórica sobre uma variável numérica e visualizar a diferença entre dispersão e medidas de posição central dos grupos (média e mediana).</p>
+
+<h2 id="diferenças-médias-entre-sexos">Diferenças médias entre sexos</h2>
+
+<p>A primeira série de gráficos diz respeito aos box-plots das variáveis numéricas do estudo no eixo y e o sexo no eixo x, além da um ponto vermelho representando a média do grupo por classe.</p>
+
+<pre><code class="language-r">#-----------------------------------------------------------------------
+# Diferenças médias entre sexos
+
+g0 &lt;-
+  ggplot(data = dados, mapping = aes(x=sexo, y=altura, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+
+  stat_summary(fun.y=mean, 
+               geom=&quot;point&quot;, 
+               shape=20, 
+               size=3, 
+               color=&quot;red&quot;, 
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Estatura') + ggtitle('')
+
+g1 &lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=massa, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+   
+  stat_summary(fun.y=mean,
+               geom=&quot;point&quot;,
+               shape=20,
+               size=3,
+               color=&quot;red&quot;,
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Massa') + ggtitle('')
+
+g2 &lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=membro, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+   
+  stat_summary(fun.y=mean,
+               geom=&quot;point&quot;,
+               shape=20,  
+               size=3,
+               color=&quot;red&quot;,   
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Tamanho do Membro') + ggtitle('')
+
+g3&lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=potencia, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+  
+  stat_summary(fun.y=mean,  
+               geom=&quot;point&quot;,
+               shape=20,        
+               size=3,  
+               color=&quot;red&quot;,
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Potência') + ggtitle('')
+
+g4&lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=forca, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+  
+  stat_summary(fun.y=mean,          
+               geom=&quot;point&quot;,  
+               shape=20,    
+               size=3,        
+               color=&quot;red&quot;, 
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Força') + ggtitle('')
+
+g5&lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=pista, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+  
+  stat_summary(fun.y=mean,
+               geom=&quot;point&quot;,      
+               shape=20,    
+               size=3,      
+               color=&quot;red&quot;, 
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Pista (seg)') + ggtitle('')
+
+g6 &lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=aerea, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+   
+  stat_summary(fun.y=mean,      
+               geom=&quot;point&quot;,        
+               shape=20,      
+               size=3,    
+               color=&quot;red&quot;, 
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Fase Aérea') + ggtitle('')
+
+g7&lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=contato, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+
+  stat_summary(fun.y=mean,
+               geom=&quot;point&quot;,      
+               shape=20,  
+               size=3,    
+               color=&quot;red&quot;, 
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Tempo de Contato') + ggtitle('')
+
+g8&lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=freo, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+   
+  stat_summary(fun.y=mean,    
+               geom=&quot;point&quot;,        
+               shape=20,    
+               size=3,    
+               color=&quot;red&quot;,     
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Freq Passo') + ggtitle('')
+
+g9&lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=passo, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+
+  stat_summary(fun.y=mean,      
+               geom=&quot;point&quot;,    
+               shape=20,    
+               size=3,    
+               color=&quot;red&quot;,     
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Tamanho do Passo') + ggtitle('')
+
+g10&lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=delta, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+   
+  stat_summary(fun.y=mean,      
+               geom=&quot;point&quot;,
+               shape=20,    
+               size=3,      
+               color=&quot;red&quot;,   
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Delta z') + ggtitle('')
+
+g11&lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=vertk, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+   
+  stat_summary(fun.y=mean,    
+               geom=&quot;point&quot;,          
+               shape=20,  
+               size=3,    
+               color=&quot;red&quot;,     
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Vertical k') + ggtitle('')
+
+g12&lt;-
+ggplot(data = dados, mapping = aes(x=sexo, y=lmbk, color=sexo)) +
+  geom_boxplot(alpha = 0.6)+   
+  stat_summary(fun.y=mean,  
+               geom=&quot;point&quot;,      
+               shape=20,
+               size=3,      
+               color=&quot;red&quot;,
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Lower Limb k') + ggtitle('')
+
+ggarrange(g0,g1,g2,g3,g4,
+          g5,g6,g7,g8,g9,
+          g10,g11,g12,
+          nrow = 3, ncol=5,
+          common.legend = TRUE, 
+          legend=&quot;bottom&quot;,
+          #labels = 'TÍTULO',
+          font.label = list(size = 18, 
+                            face = &quot;bold&quot;))
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-27-1.png" alt="" /><!-- --></p>
+
+<p>Os resultados mostram que para estatura, massa, potência, força, tamanho do passo e ambas as variáveis que definem o stifness as médias masculinas são maiores que as femininas. Além disso reforçam que os tempos femininos para o teste de pista são maiores que os masculinos, bem como o tempo de contato.</p>
+
+<hr />
+
+<h1 id="diferenças-médias-entre-miores-e-menores-tempos">Diferenças médias entre miores e menores tempos</h1>
+
+<p>A segunda série de gráficos diz respeito aos box-plots das variáveis numéricas do estudo no eixo y e a dicotomização da variável tempo de pista no eixo x, além da um ponto vermelho representando a média do grupo por classe.</p>
+
+<pre><code class="language-r">#-----------------------------------------------------------------------
+# Diferenças médias entre classificação
+
+g0 &lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=altura, color=classe)) +
+  geom_boxplot(alpha = 0.6, 
+               col = c(3,2))+
+  stat_summary(fun.y=mean,    
+               geom=&quot;point&quot;,    
+               shape=20,        
+               size=3,      
+               color=&quot;red&quot;,   
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Estatura') + ggtitle('')
+
+g1 &lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=massa, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+
+  stat_summary(fun.y=mean,  
+               geom=&quot;point&quot;,    
+               shape=20,  
+               size=3,  
+               color=&quot;red&quot;,     
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Massa') + ggtitle('')
+
+g2 &lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=membro, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+   
+  stat_summary(fun.y=mean,      
+               geom=&quot;point&quot;,      
+               shape=20,    
+               size=3,    
+               color=&quot;red&quot;,       
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Tamanho do Membro') + ggtitle('')
+
+g3&lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=potencia, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+  
+  stat_summary(fun.y=mean,          
+               geom=&quot;point&quot;,    
+               shape=20,  
+               size=3,    
+               color=&quot;red&quot;,       
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Potência') + ggtitle('')
+
+g4&lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=forca, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+  
+  stat_summary(fun.y=mean,          
+               geom=&quot;point&quot;,    
+               shape=20,      
+               size=3,        
+               color=&quot;red&quot;,   
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Força') + ggtitle('')
+
+g5&lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=pista, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+  
+  stat_summary(fun.y=mean,    
+               geom=&quot;point&quot;,  
+               shape=20,  
+               size=3,    
+               color=&quot;red&quot;,       
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Pista') + ggtitle('')
+
+g6 &lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=aerea, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+  
+  stat_summary(fun.y=mean,        
+               geom=&quot;point&quot;,      
+               shape=20,    
+               size=3,
+               color=&quot;red&quot;,
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Fase Aérea') + ggtitle('')
+
+g7&lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=contato, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+
+  stat_summary(fun.y=mean,  
+               geom=&quot;point&quot;,
+               shape=20,
+               size=3,
+               color=&quot;red&quot;,   
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Tempo de Contato') + ggtitle('')
+
+g8&lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=freo, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+
+  stat_summary(fun.y=mean,      
+               geom=&quot;point&quot;,  
+               shape=20,    
+               size=3,  
+               color=&quot;red&quot;, 
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Freq Passo') + ggtitle('')
+
+g9&lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=passo, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+  
+  stat_summary(fun.y=mean,      
+               geom=&quot;point&quot;,    
+               shape=20,        
+               size=3,      
+               color=&quot;red&quot;,     
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Tamanho do Passo') + ggtitle('')
+
+g10&lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=delta, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+   
+  stat_summary(fun.y=mean,    
+               geom=&quot;point&quot;,        
+               shape=20,  
+               size=3,  
+               color=&quot;red&quot;,       
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Delta z') + ggtitle('')
+
+g11&lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=vertk, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+   
+  stat_summary(fun.y=mean,
+               geom=&quot;point&quot;,          
+               shape=20,  
+               size=3,
+               color=&quot;red&quot;,
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Vertical k') + ggtitle('')
+
+g12&lt;-
+  ggplot(data = dados, mapping = aes(x=classe, y=lmbk, color=classe)) +
+  geom_boxplot(alpha = 0.6,                 col = c(3,2))+   
+  stat_summary(fun.y=mean,  
+               geom=&quot;point&quot;,    
+               shape=20,  
+               size=3,  
+               color=&quot;red&quot;,   
+               fill=&quot;red&quot;)+
+  xlab('') + ylab('Lower Limb k') + ggtitle('')
+
+ggarrange(g0,g1,g2,g3,g4,
+          g5,g6,g7,g8,
+          g9,g10,g11,g12,
+          nrow = 3, ncol=5,
+          common.legend = TRUE, 
+          legend=&quot;bottom&quot;,
+          #labels = 'TÍTULO',
+          font.label = list(size = 18, 
+                            face = &quot;bold&quot;))
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-28-1.png" alt="" /><!-- --></p>
+
+<p>Os resultados mostram que o tempo de contato, pista e delta z é maior para indivíduos com tempos altos, enquanto que força, frequência, tamanho do passo e stifness são maiores em indivíduos com tempos baixos.</p>
+
+<hr />
+
+<h1 id="correlações">Correlações</h1>
+
+<h2 id="definição">Definição</h2>
+
+<p>O coeficiente de correlação de pearson é uma alternativa para verificar a associação entre um par de variáveis, o coeficiente responde a perguntas como: existe associação entre as variáveis? A medida que o valor de uma aumenta, a outra também aumenta?</p>
+
+<p>Em outras palavras, o valor calculado do coeficiente de correlação de Pearson quantifica a força de associação linear entre duas variáveis, ou seja, como as variações dos valores de uma variável afetam a outra.</p>
+
+<p>Sejam $x<em>{1}, x</em>{2}, &hellip;, x<em>{n}$ valores observados de uma variável numérca e $y</em>{1}, y<em>{2}, &hellip;, y</em>{n}$ os valores de uma segunda variável, o coeficiente de correlação de Pearson é definido como:</p>
+
+<p>$$r = \frac{\sum<em>{i=1}^{n} (x</em>{i}-\bar{x})(y<em>{i}-\bar{y})}{ \sqrt{\sum</em>{i=1}^{n} (x<em>{i}-\bar{x})^{2}(y</em>{i}-\bar{y})^{2}} },$$</p>
+
+<p>Em que:</p>
+
+<ul>
+<li>$x_{i}$ representa cada valor observado para a variável X,</li>
+<li>$y_{i}$ representa cada valor observado para a variável Y,</li>
+<li>$\bar{x}$ e $\bar{y}$ representa a média de cada um dos vetores de valores,</li>
+<li>$r$ o valor calculado do coeficiente de correlação.</li>
+</ul>
+
+<p>O coeficiente de correlação varia de -1 a 1 sendo que:</p>
+
+<ul>
+<li><p>Valores negativos indicam correlação negativa, isto é, a medida que os valores de uma variável aumentam, os valores da outra diminuem.</p></li>
+
+<li><p>Valores positivos indicam correlação positiva, isto é, a medida que os valores de uma variável aumentam, os valores da outra também aumentam.</p></li>
+
+<li><p>Valores próximos de 0 indicam ausência de correlação.</p></li>
+</ul>
+
+<p>Foram obtidas as matrizes de correlação para a base completa, apenas para homens, apenas para mulheres e ainda para a dicotomização entre maiores e menores tempos.</p>
+
+<h1 id="correlogramas-tabset-tabset-fade">Correlogramas {.tabset .tabset-fade}</h1>
+
+<h2 id="dados-completos-1">Dados Completos</h2>
+
+<pre><code class="language-r">#------------------------------------------------
+# Correlações de Pearson para a base completa
+
+library(knitr)
+
+names(dados) &lt;- c('id', 'Nome', 
+                  'Sexo', 'Estatura', 
+                  'Massa', 'Tam. Membro', 
+                  'Potência', 'Força', 
+                  'Pista', 'Fase Aérea',
+                  'Tempo de Contato', 
+                  'Freq. Passo',
+                  'Tamanho Passo',
+                  'Delta Z',
+                  'Vertical k',
+                  'Limb k')
+
+cor1 &lt;- cor(dados[,c(4:16)], method = 'pearson')
+
+#kable(cor1, digits=2)
+
+par(mfrow=c(1,1))
+
+corrplot::corrplot.mixed(cor1, 
+                         upper = 'ellipse',
+                         tl.pos = &quot;lt&quot;,
+                         diag = 'n')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-29-1.png" alt="" /><!-- --></p>
+
+<h2 id="apenas-homens-1">Apenas Homens</h2>
+
+<pre><code class="language-r">#------------------------------------------------
+# Correlações de Pearson para a base masculina
+
+names(dadosM) &lt;- c('id', 'Nome', 
+                  'Sexo', 'Estatura', 
+                  'Massa', 'Tam. Membro', 
+                  'Potência', 'Força', 
+                  'Pista', 'Fase Aérea',
+                  'Tempo de Contato', 
+                  'Freq. Passo',
+                  'Tamanho Passo',
+                  'Delta Z',
+                  'Vertical k',
+                  'Limb k')
+
+corM &lt;- cor(dadosM[,c(4:16)])
+
+
+#kable(corM, digits=2)
+
+par(mfrow=c(1,1))
+corrplot::corrplot.mixed(corM, 
+                         upper = 'ellipse',
+                         tl.pos = &quot;lt&quot;,
+                         diag = 'n')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-30-1.png" alt="" /><!-- --></p>
+
+<h2 id="apenas-mulheres-1">Apenas Mulheres</h2>
+
+<pre><code class="language-r">#------------------------------------------------
+# Correlações de Pearson para a base feminina
+
+names(dadosF) &lt;- c('id', 'Nome', 
+                  'Sexo', 'Estatura', 
+                  'Massa', 'Tam. Membro', 
+                  'Potência', 'Força', 
+                  'Pista', 'Fase Aérea',
+                  'Tempo de Contato', 
+                  'Freq. Passo',
+                  'Tamanho Passo',
+                  'Delta Z',
+                  'Vertical k',
+                  'Limb k')
+
+corF &lt;- cor(dadosF[,c(4:16)])
+
+
+#kable(corF, digits=2)
+
+par(mfrow=c(1,1))
+corrplot::corrplot.mixed(corF, 
+                         upper = 'ellipse',
+                         tl.pos = &quot;lt&quot;,
+                         diag = 'n')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-31-1.png" alt="" /><!-- --></p>
+
+<pre><code class="language-r">#------------------------------------------------
+</code></pre>
+
+<h2 id="maiores-tempos-1">Maiores Tempos</h2>
+
+<pre><code class="language-r"># Correlações de Pearson para a base dos maiores tempos
+
+names(dadosB) &lt;- c('id', 'Nome', 
+                  'Sexo', 'Estatura', 
+                  'Massa', 'Tam. Membro', 
+                  'Potência', 'Força', 
+                  'Pista', 'Fase Aérea',
+                  'Tempo de Contato', 
+                  'Freq. Passo',
+                  'Tamanho Passo',
+                  'Delta Z',
+                  'Vertical k',
+                  'Limb k')
+
+corB &lt;- cor(dadosB[,c(4:16)])
+
+
+#kable(corB, digits=2)
+
+par(mfrow=c(1,1))
+corrplot::corrplot.mixed(corB, 
+                         upper = 'ellipse',
+                         tl.pos = &quot;lt&quot;,
+                         diag = 'n')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-32-1.png" alt="" /><!-- --></p>
+
+<h2 id="menores-tempos-1">Menores Tempos</h2>
+
+<pre><code class="language-r">#------------------------------------------------
+# Correlações de Pearson para a base dos piores tempos
+
+names(dadosW) &lt;- c('id', 'Nome', 
+                  'Sexo', 'Estatura', 
+                  'Massa', 'Tam. Membro', 
+                  'Potência', 'Força', 
+                  'Pista', 'Fase Aérea',
+                  'Tempo de Contato', 
+                  'Freq. Passo',
+                  'Tamanho Passo',
+                  'Delta Z',
+                  'Vertical k',
+                  'Limb k')
+
+corW &lt;- cor(dadosW[,c(4:16)])
+
+
+#kable(cor(dadosW[,c(4:16)]), digits=2)
+
+par(mfrow=c(1,1))
+corrplot::corrplot.mixed(corW, 
+                         upper = 'ellipse',
+                         tl.pos = &quot;lt&quot;,
+                         diag = 'n')
+</code></pre>
+
+<p><img src="relatorio_files/figure-html/unnamed-chunk-33-1.png" alt="" /><!-- --></p>
+
+<hr />
+
+    </div>
+
+    
+
+
+    
+    
+    
+
+    
+      
+      
+      
+      
+
+      
+      
+      
+      
+    
+
+  </div>
+</article>
+
+
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2018 Lineu Alberto &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title"></h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> 
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> 
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+    
+    
+    <script src="../../js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+
+  </body>
+</html>
+
