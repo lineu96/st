@@ -22,7 +22,7 @@ No R há a possibilidade de gerar gráficos sem a utilização de pacotes e há 
 
 Este post tem como foco explorar as principais e mais simples formas de visualização de dados utilizando o ggplot2 bem como algumas customizações simples como alteração de cores, temas, etc.
 
-[Confira o material aqui!](/img/post/post_ggplot2.html/)
+[Confira o material aqui!](/img/post/post_ggplot2.html)
 
 ---
 

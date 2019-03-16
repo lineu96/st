@@ -165,7 +165,7 @@ src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
 
 &lt;p&gt;Este post tem como foco explorar as principais e mais simples formas de visualização de dados utilizando o ggplot2 bem como algumas customizações simples como alteração de cores, temas, etc.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Confira o material aqui!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html&#34;&gt;Confira o material aqui!&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
