@@ -35,9 +35,61 @@ weight = 5
 
 ---
 
+normal com extensão
+
+<center>
+<img width="200px" height="200px" 
+src="/img/LogoPreta.png/"/>
+</center>
+
+sem barra apos aspas com extensão
+
 <center>
 <img width="200px" height="200px" 
 src="/img/LogoPreta.png/">
+</center>
+
+sem barra nas aspas com extensão
+
+<center>
+<img width="200px" height="200px" 
+src="/img/LogoPreta.png"/>
+</center>
+
+
+sem nenhuma barra com extensão
+
+<center>
+<img width="200px" height="200px" 
+src="/img/LogoPreta.png">
+</center>
+
+normal sem extensão
+
+<center>
+<img width="200px" height="200px" 
+src="/img/LogoPreta/"/>
+</center>
+
+sem barra apos aspas sem extensão
+
+<center>
+<img width="200px" height="200px" 
+src="/img/LogoPreta/">
+</center>
+
+sem barra nas aspas sem extensão
+
+<center>
+<img width="200px" height="200px" 
+src="/img/LogoPreta"/>
+</center>
+
+sem nenhuma barra sem extensão
+
+<center>
+<img width="200px" height="200px" 
+src="/img/LogoPreta">
 </center>
 
 ---
