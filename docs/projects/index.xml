@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Lineu Alberto</title>
-    <link>https://lineu96.github.io/page/projects/</link>
+    <link>https://lineu96.github.io/st/projects/</link>
     <description>Recent content in Projects on Lineu Alberto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
     <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lineu96.github.io/page/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lineu96.github.io/st/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Machine</title>
-      <link>https://lineu96.github.io/page/projects/ml/</link>
+      <link>https://lineu96.github.io/st/projects/ml/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/ml/</guid>
+      <guid>https://lineu96.github.io/st/projects/ml/</guid>
       <description>asfasfsa</description>
     </item>
     
     <item>
       <title>Stiffness do Membro Inferior</title>
-      <link>https://lineu96.github.io/page/projects/stifness/</link>
+      <link>https://lineu96.github.io/st/projects/stifness/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/stifness/</guid>
+      <guid>https://lineu96.github.io/st/projects/stifness/</guid>
       <description>Este trabalho está sendo desenvolvido em parceria com alunos do curso de graduação de Educação Física do Centro Universitário Autônomo do Brasil (UniBrasil). A pesquisa tem por objetivo investigar a relação entre o stiffness do membro inferior, força e potência muscular de corredores amadores. Os autores do trabalho são: AUTOR1, AUTOR2, AUTOR3.
 
   
@@ -36,49 +36,49 @@ Na corrida, o membro inferior é constantemente exposto a estresses – principa
     
     <item>
       <title>Minicurso R</title>
-      <link>https://lineu96.github.io/page/projects/minicurso/</link>
+      <link>https://lineu96.github.io/st/projects/minicurso/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/minicurso/</guid>
+      <guid>https://lineu96.github.io/st/projects/minicurso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MANOVA para dados não gaussianos</title>
-      <link>https://lineu96.github.io/page/projects/manova/</link>
+      <link>https://lineu96.github.io/st/projects/manova/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/manova/</guid>
+      <guid>https://lineu96.github.io/st/projects/manova/</guid>
       <description>Este projeto foi o tema escolhido por mim e por minha colega de curso AUTOR2, sob orientação do professor Wagner Hugo Bonat, para nosso Trabalho de Conclusão de Curso da graduação de Estatística na Universidade Federal do Paraná.
 No âmbito da Estatística aplicada, modelos de regressão são uma das principais ferramentas utilizadas e difundidas em diversas áreas do conhecimento. No caso univariado, esta metodologia associa uma variável resposta, também chamada de variável dependente, a uma ou mais variáveis explicativas, conhecidas como variáveis independentes.</description>
     </item>
     
     <item>
       <title>Análise comportamental de ovelhas submetidas à intervenção humana usando GAMLSS</title>
-      <link>https://lineu96.github.io/page/projects/gamlss/</link>
+      <link>https://lineu96.github.io/st/projects/gamlss/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/gamlss/</guid>
+      <guid>https://lineu96.github.io/st/projects/gamlss/</guid>
       <description>Este projeto refere-se ao meu trabalho de pesquisa individual conduzido no Programa de Educação Tutorial do Curso de Estatística da Universidade Federal do Paraná, sob a orientação dos professores Cesar Augusto Taconeli e José Luiz Padilha da Silva.
 Trata-se de um experimento sobre comportamento de ovelhas descrito em ARTIGO PRISCILA. O experimento foi conduzido na fazenda experimental INRA La Fage, Roqueford, França, em setembro de 2015 com o objetivo de verificar o efeito de linhagem genética, escovação e isolamento nas respostas comportamentais dos animais.</description>
     </item>
     
     <item>
       <title>Modelos Lineares Generalizados</title>
-      <link>https://lineu96.github.io/page/projects/glm/</link>
+      <link>https://lineu96.github.io/st/projects/glm/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/glm/</guid>
+      <guid>https://lineu96.github.io/st/projects/glm/</guid>
       <description>No segundo semestre de 2017 assumi a monitoria da disciplina de Modelos Lineares Generalizados (CE225) sob a orientação do professor Cesar Augusto Taconeli, que também foi meu orientador no projeto intitulado Análise Comportamental de Ovelhas Submetidas a Intervenção Humana Usando GAMLSS.
 Os Modelos Lineares Generalizados, propostos por Nelder e Wedderburn em 1972, são aplicáveis em casos nos quais a variável resposta pode ser representada por alguma distribuição pertencente à família exponencial.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lineu96.github.io/page/projects/lista_atividades/</link>
+      <link>https://lineu96.github.io/st/projects/lista_atividades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/lista_atividades/</guid>
+      <guid>https://lineu96.github.io/st/projects/lista_atividades/</guid>
       <description>Atividades Complementares Eventos  UFPR: Feira de Cursos e Profissões 2016 (expositor)
  SEMANEST: Semana Acadêmica de Estatística UFPR 2017 (ouvinte)
  SIEPE: Semana Integrada de Ensino Pesquisa e Extensao da UFPR 2017 (ouvinte)

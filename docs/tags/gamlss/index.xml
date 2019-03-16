@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GAMLSS on Lineu Alberto</title>
-    <link>https://lineu96.github.io/page/tags/gamlss/</link>
+    <link>https://lineu96.github.io/st/tags/gamlss/</link>
     <description>Recent content in GAMLSS on Lineu Alberto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
     <lastBuildDate>Fri, 02 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lineu96.github.io/page/tags/gamlss/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lineu96.github.io/st/tags/gamlss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Análise comportamental de ovelhas submetidas à intervenção humana usando GAMLSS</title>
-      <link>https://lineu96.github.io/page/projects/gamlss/</link>
+      <link>https://lineu96.github.io/st/projects/gamlss/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/gamlss/</guid>
+      <guid>https://lineu96.github.io/st/projects/gamlss/</guid>
       <description>Este projeto refere-se ao meu trabalho de pesquisa individual conduzido no Programa de Educação Tutorial do Curso de Estatística da Universidade Federal do Paraná, sob a orientação dos professores Cesar Augusto Taconeli e José Luiz Padilha da Silva.
 Trata-se de um experimento sobre comportamento de ovelhas descrito em ARTIGO PRISCILA. O experimento foi conduzido na fazenda experimental INRA La Fage, Roqueford, França, em setembro de 2015 com o objetivo de verificar o efeito de linhagem genética, escovação e isolamento nas respostas comportamentais dos animais.</description>
     </item>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lineu Alberto</title>
-    <link>https://lineu96.github.io/page/post/</link>
+    <link>https://lineu96.github.io/st/post/</link>
     <description>Recent content in Posts on Lineu Alberto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
     
-	<atom:link href="https://lineu96.github.io/page/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lineu96.github.io/st/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Primeiros Passos com ggplot2</title>
-      <link>https://lineu96.github.io/page/post/ggplot2/</link>
+      <link>https://lineu96.github.io/st/post/ggplot2/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/post/ggplot2/</guid>
+      <guid>https://lineu96.github.io/st/post/ggplot2/</guid>
       <description>Parte primordial de qualquer análise estatística é chamada análise descritiva ou exploratória. Tal etapa consiste basicamente de resumos numéricos e análises gráficas baseadas em conjuntos de dados.
 Trata-se de uma etapa de extrema importância e deve preceder qualquer análise mais sofisticada como ajuste de modelos de regressão, por exemplo.
 Além disso, a análise exploratória não requer elevada proficiência em tópicos de estatística avançada para para aplicação e interpretação dos resultados fazendo com que visualização de dados caracterize uma técnica simples, com grande apelo visual e extremamente informativa quanto ao conjunto de dados.</description>

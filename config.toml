@@ -5,7 +5,7 @@ publishDir = "docs"
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://lineu96.github.io/page/"
+baseurl = "https://lineu96.github.io/st/"
 canonifyURLs = "true"
 relativeURLs = "true"
 

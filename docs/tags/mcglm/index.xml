@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>McGLM on Lineu Alberto</title>
-    <link>https://lineu96.github.io/page/tags/mcglm/</link>
+    <link>https://lineu96.github.io/st/tags/mcglm/</link>
     <description>Recent content in McGLM on Lineu Alberto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lineu96.github.io/page/tags/mcglm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lineu96.github.io/st/tags/mcglm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MANOVA para dados não gaussianos</title>
-      <link>https://lineu96.github.io/page/projects/manova/</link>
+      <link>https://lineu96.github.io/st/projects/manova/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/manova/</guid>
+      <guid>https://lineu96.github.io/st/projects/manova/</guid>
       <description>Este projeto foi o tema escolhido por mim e por minha colega de curso AUTOR2, sob orientação do professor Wagner Hugo Bonat, para nosso Trabalho de Conclusão de Curso da graduação de Estatística na Universidade Federal do Paraná.
 No âmbito da Estatística aplicada, modelos de regressão são uma das principais ferramentas utilizadas e difundidas em diversas áreas do conhecimento. No caso univariado, esta metodologia associa uma variável resposta, também chamada de variável dependente, a uma ou mais variáveis explicativas, conhecidas como variáveis independentes.</description>
     </item>

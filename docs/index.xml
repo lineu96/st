@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lineu Alberto on Lineu Alberto</title>
-    <link>https://lineu96.github.io/page/</link>
+    <link>https://lineu96.github.io/st/</link>
     <description>Recent content in Lineu Alberto on Lineu Alberto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Machine</title>
-      <link>https://lineu96.github.io/page/projects/ml/</link>
+      <link>https://lineu96.github.io/st/projects/ml/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/ml/</guid>
+      <guid>https://lineu96.github.io/st/projects/ml/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;asfasfsa&lt;/p&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Stiffness do Membro Inferior</title>
-      <link>https://lineu96.github.io/page/projects/stifness/</link>
+      <link>https://lineu96.github.io/st/projects/stifness/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/stifness/</guid>
+      <guid>https://lineu96.github.io/st/projects/stifness/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;Este trabalho está sendo desenvolvido em parceria com alunos do curso de graduação de Educação Física do Centro Universitário Autônomo do Brasil &lt;a href=&#34;https://www.unibrasil.com.br/&#34; target=&#34;_blank&#34;&gt;(UniBrasil)&lt;/a&gt;. A pesquisa tem por objetivo investigar a relação entre o stiffness do membro inferior, força e potência muscular de corredores amadores. Os autores do trabalho são: AUTOR1, AUTOR2, AUTOR3.&lt;/p&gt;
@@ -80,19 +80,19 @@ src=&#34;/img/unibrasil.png/&#34;/&gt;&lt;/div&gt;
     
     <item>
       <title>Minicurso R</title>
-      <link>https://lineu96.github.io/page/projects/minicurso/</link>
+      <link>https://lineu96.github.io/st/projects/minicurso/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/minicurso/</guid>
+      <guid>https://lineu96.github.io/st/projects/minicurso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MANOVA para dados não gaussianos</title>
-      <link>https://lineu96.github.io/page/projects/manova/</link>
+      <link>https://lineu96.github.io/st/projects/manova/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/manova/</guid>
+      <guid>https://lineu96.github.io/st/projects/manova/</guid>
       <description>
 
 &lt;p&gt;&lt;center&gt;
@@ -149,10 +149,10 @@ src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
     
     <item>
       <title>Primeiros Passos com ggplot2</title>
-      <link>https://lineu96.github.io/page/post/ggplot2/</link>
+      <link>https://lineu96.github.io/st/post/ggplot2/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/post/ggplot2/</guid>
+      <guid>https://lineu96.github.io/st/post/ggplot2/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;Parte primordial de qualquer análise estatística é chamada análise descritiva ou exploratória. Tal etapa consiste basicamente de resumos numéricos e análises gráficas baseadas em conjuntos de dados.&lt;/p&gt;
@@ -188,10 +188,10 @@ src=&#34;/img/ufpr.jpg/&#34;/&gt;&lt;/div&gt;
     
     <item>
       <title>Análise comportamental de ovelhas submetidas à intervenção humana usando GAMLSS</title>
-      <link>https://lineu96.github.io/page/projects/gamlss/</link>
+      <link>https://lineu96.github.io/st/projects/gamlss/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/gamlss/</guid>
+      <guid>https://lineu96.github.io/st/projects/gamlss/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -309,10 +309,10 @@ src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
     
     <item>
       <title>Modelos Lineares Generalizados</title>
-      <link>https://lineu96.github.io/page/projects/glm/</link>
+      <link>https://lineu96.github.io/st/projects/glm/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/glm/</guid>
+      <guid>https://lineu96.github.io/st/projects/glm/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;&lt;center&gt;
@@ -378,19 +378,19 @@ src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
     
     <item>
       <title>Exemplo de publicação</title>
-      <link>https://lineu96.github.io/page/publication/ex_publication/</link>
+      <link>https://lineu96.github.io/st/publication/ex_publication/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/publication/ex_publication/</guid>
+      <guid>https://lineu96.github.io/st/publication/ex_publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lineu96.github.io/page/projects/lista_atividades/</link>
+      <link>https://lineu96.github.io/st/projects/lista_atividades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lineu96.github.io/page/projects/lista_atividades/</guid>
+      <guid>https://lineu96.github.io/st/projects/lista_atividades/</guid>
       <description>
 
 &lt;h1 id=&#34;atividades-complementares&#34;&gt;Atividades Complementares&lt;/h1&gt;
