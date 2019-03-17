@@ -96,10 +96,9 @@ md
 
 ![Example image](/img/LogoPreta.png)
 
-
-{{<center>
-< figure library="1" src="img/LogoPreta.png" width="200px" height="200px" >
-</center>}}
+<center>
+{{< figure library="1" src="img/LogoPreta.png" width="200px" height="200px" >}}
+</center>
 
 ---
 
