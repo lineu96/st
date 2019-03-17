@@ -115,6 +115,13 @@ O trabalho foi dividido em três etapas:
 
 ---
 
+<table><tr>
+<td> <img src="/img/logo-pet.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/leg.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="/img/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+</tr></table>
+
+
 [cesar]: https://docs.ufpr.br/~taconeli/
 [lea]: http://www.lea.ufpr.br/
 [padilha]: https://docs.ufpr.br/~jlpadilha/

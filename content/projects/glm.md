@@ -66,6 +66,12 @@ A ideia destes materiais era auxiliar os alunos em como proceder a análise em R
 
 ---
 
+<table><tr>
+<td> <img src="/img/logo-pet.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/leg.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="/img/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+</tr></table>
+
 [glm]: https://docs.ufpr.br/~taconeli/CE22517/CE22517.html
 [cesar]: https://docs.ufpr.br/~taconeli/
 [artigo]: https://docs.ufpr.br/~taconeli/CE22517/artigo.pdf

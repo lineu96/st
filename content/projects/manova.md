@@ -58,4 +58,10 @@ Por conseguinte, neste trabalho, nosso objetivo é propor a análise de variânc
 
 ---
 
+<table><tr>
+<td> <img src="/img/logo-pet.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/leg.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="/img/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+</tr></table>
+
 [bonat]:link.com
