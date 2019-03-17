@@ -114,6 +114,17 @@ O trabalho foi dividido em três etapas:
 
 ---
 
+<img src="/img/logo-pet.png/" width="714" align="right" /> 
+<img src="/img/logo-pet.png/" width="714" align="left" />
+
+<br>
+
+<img src="/img/logo-pet.png/" width="714" align="left" /> 
+<img src="/img/logo-pet.png/" width="714" align="right"  /> 
+
+
+---
+
 <center>
 
 <div style="float:left; width:33%"><img width="200px" height="200px" 
