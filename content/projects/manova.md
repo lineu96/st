@@ -29,11 +29,6 @@ caption = ""
 +++
 
 <center>
-<img width="200px" height="200px" 
-src="/img/mcglm.png/"/>
-</center>
-
-<center>
 {{< figure library="1" src="/img/mcglm.png" width="200px" height="200px" >}}
 </center>
 
