@@ -32,19 +32,6 @@ caption = ""
 
 Este trabalho está sendo desenvolvido em parceria com alunos do curso de graduação de Educação Física do Centro Universitário Autônomo do Brasil [(UniBrasil)][unibrasil]. A pesquisa tem por objetivo investigar a relação entre o stiffness do membro inferior, força e potência muscular de corredores amadores. Os autores do trabalho são: AUTOR1, AUTOR2, AUTOR3.
 
----
-
-
-<center>
-
-<div style="float:left; width:50%"><img width="200px" height="200px" 
-src="/img/ufpr.jpg//"/></div>
-
-
-<div style="float:left; width:50%"><img width="200px" height="200px" 
-src="/img/unibrasil.png/"/></div>
-
-</center>
 
 ---
 
@@ -69,15 +56,5 @@ Confira a análise dos dados: [Stiffness do Membro Inferior](/img/proj_stifness/
 
 ---
 
-<center>
-
-<div style="float:left; width:50%"><img width="200px" height="200px" 
-src="/img/ufpr.jpg//"/></div>
-
-
-<div style="float:left; width:50%"><img width="200px" height="200px" 
-src="/img/unibrasil.png/"/></div>
-
-</center>
 
 [unibrasil]: https://www.unibrasil.com.br/

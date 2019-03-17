@@ -92,6 +92,7 @@ O trabalho foi dividido em três etapas:
 {{< figure library="1" src="/img/sinape.jpg" width="300px" height="200px" >}}
 </center>
 
+
 ---
 
 ### Confira alguns dos materiais produzidos:
@@ -111,36 +112,6 @@ O trabalho foi dividido em três etapas:
  - [Análise Completa](/img/proj_gamlss/siepe.html)
  
  - [Slides](/img/proj_gamlss/pi_pres.pdf)
-
----
-
-<img src="/img/logo-pet.png/" width="714" align="right" /> 
-<img src="/img/logo-pet.png/" width="714" align="left" />
-
-<br>
-
-<img src="/img/logo-pet.png/" width="714" align="left" /> 
-<img src="/img/logo-pet.png/" width="714" align="right"  /> 
-
-
----
-
-<center>
-
-<div style="float:left; width:33%"><img width="200px" height="200px" 
-src="/img/logo-pet.png/"/></div>
-
-<div style="float:left; width:33%"><img width="200px" height="200px" 
-src="/img/ufpr.jpg/"/></div>
-
-<div style="float:left; width:33%"><img width="150px" height="150px" 
-src="/img/leg.png/"/></div>
-
-</center>
-
-<Table>
- 
-</Table> 
 
 ---
 

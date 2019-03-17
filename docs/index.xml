@@ -34,18 +34,6 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;div style=&#34;float:left; width:50%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/ufpr.jpg//&#34;/&gt;&lt;/div&gt;
-
-&lt;div style=&#34;float:left; width:50%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/unibrasil.png/&#34;/&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
 &lt;p&gt;Entende-se como Stiffness a rigidez apresentada por um material submetido a estresse mecânico.&lt;/p&gt;
 
 &lt;p&gt;Na corrida, o membro inferior é constantemente exposto a estresses – principalmente compressivo – e precisa apresentar grande capacidade de resistir a tais cargas. Desse modo, o stiffness do membro inferior é fator determinante do desempenho, seja de profissionais ou mesmo de atletas amadores.&lt;/p&gt;
@@ -65,16 +53,6 @@ src=&#34;/img/unibrasil.png/&#34;/&gt;&lt;/div&gt;
 &lt;p&gt;Confira a análise dos dados: &lt;a href=&#34;./img/proj_stifness/relatorio.html&#34;&gt;Stiffness do Membro Inferior&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;div style=&#34;float:left; width:50%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/ufpr.jpg//&#34;/&gt;&lt;/div&gt;
-
-&lt;div style=&#34;float:left; width:50%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/unibrasil.png/&#34;/&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -126,25 +104,6 @@ src=&#34;/img/unibrasil.png/&#34;/&gt;&lt;/div&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/logo-pet.png/&#34;/&gt;&lt;/div&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/ufpr.jpg/&#34;/&gt;&lt;/div&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;150px&#34; height=&#34;150px&#34; 
-src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;Table&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/Table&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
 &lt;h3 id=&#34;confira-alguns-dos-materiais-produzidos&#34;&gt;Confira alguns dos materiais produzidos:&lt;/h3&gt;
 
 &lt;hr /&gt;
@@ -170,21 +129,6 @@ src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
 &lt;p&gt;Este post tem como foco explorar as principais e mais simples formas de visualização de dados utilizando o ggplot2 bem como algumas customizações simples como alteração de cores, temas, etc.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html&#34;&gt;Confira o material aqui!&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/logo-pet.png/&#34;/&gt;&lt;/div&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;100px&#34; height=&#34;100px&#34; 
-src=&#34;/img/ggplot2.png/&#34;/&gt;&lt;/div&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;150px&#34; height=&#34;150px&#34; 
-src=&#34;/img/ufpr.jpg/&#34;/&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -303,35 +247,6 @@ animais e à proporção do tempo em que os animais permaneceram em determinadas
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/logo-pet.png/&#34; width=&#34;714&#34; align=&#34;right&#34; /&gt;
-&lt;img src=&#34;./img/logo-pet.png/&#34; width=&#34;714&#34; align=&#34;left&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/logo-pet.png/&#34; width=&#34;714&#34; align=&#34;left&#34; /&gt;
-&lt;img src=&#34;./img/logo-pet.png/&#34; width=&#34;714&#34; align=&#34;right&#34;  /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/logo-pet.png/&#34;/&gt;&lt;/div&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/ufpr.jpg/&#34;/&gt;&lt;/div&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;150px&#34; height=&#34;150px&#34; 
-src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;Table&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/Table&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
 </description>
     </item>
     
@@ -385,25 +300,6 @@ src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
 
 &lt;li&gt;&lt;p&gt;Vinheta 3: &lt;a href=&#34;./img/proj_glm/v3.html&#34;&gt;Regressão para Dados de Contagem&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/logo-pet.png/&#34;/&gt;&lt;/div&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; 
-src=&#34;/img/ufpr.jpg/&#34;/&gt;&lt;/div&gt;
-
-&lt;div style=&#34;float:left; width:33%&#34;&gt;&lt;img width=&#34;150px&#34; height=&#34;150px&#34; 
-src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;Table&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/Table&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>

@@ -54,25 +54,6 @@ Por conseguinte, neste trabalho, nosso objetivo é propor a análise de variânc
 
 ---
 
-<center>
-
-<div style="float:left; width:33%"><img width="200px" height="200px" 
-src="/img/logo-pet.png/"/></div>
-
-<div style="float:left; width:33%"><img width="200px" height="200px" 
-src="/img/ufpr.jpg/"/></div>
-
-<div style="float:left; width:33%"><img width="150px" height="150px" 
-src="/img/leg.png/"/></div>
-
-</center>
-
-<Table>
- 
-</Table> 
-
----
-
 ### Confira alguns dos materiais produzidos:
 
 ---

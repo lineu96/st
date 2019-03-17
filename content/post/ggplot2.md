@@ -25,19 +25,3 @@ Este post tem como foco explorar as principais e mais simples formas de visualiz
 [Confira o material aqui!](/img/post/post_ggplot2.html)
 
 ---
-
-<center>
-
-<div style="float:left; width:33%"><img width="200px" height="200px" 
-src="/img/logo-pet.png/"/></div>
-
-<div style="float:left; width:33%"><img width="100px" height="100px" 
-src="/img/ggplot2.png/"/></div>
-
-<div style="float:left; width:33%"><img width="150px" height="150px" 
-src="/img/ufpr.jpg/"/></div>
-
-</center>
-
----
-
