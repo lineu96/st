@@ -71,7 +71,6 @@ Fora estas atividades, integro hoje a equipe de voleibol masculina da Universida
 
 ---
 
-    
 <table><tr>
 <td> <img src="/img/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
 <td> <img src="img/LogoPreta.png" alt="Drawing" style="width: 200px;"/> </td>
