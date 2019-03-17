@@ -56,11 +56,6 @@ Fora estas atividades, integro hoje a equipe de voleibol masculina da Universida
 ---
 
 <center>
-<img width="500px" height="500px" 
-src="/img/feira.jpeg/"/>
-</center>
-
-<center>
 {{< figure library="1" src="/img/feira.jpeg" width="500px" height="500px" >}}
 </center>
 
@@ -69,11 +64,6 @@ src="/img/feira.jpeg/"/>
 *“É notável uma ciência que começou com jogos de azar tenha se tornado o mais importante objeto do conhecimento humano.” Pierre Simon Laplace*
 
 ---
-
-<center>
-<img width="200px" height="200px" 
-src="/img/ufpr.jpg/"/>
-</center>
 
 <center>
 {{< figure library="1" src="/img/ufpr.jpg" width="200px" height="200px" >}}

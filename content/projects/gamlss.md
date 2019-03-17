@@ -30,10 +30,8 @@ caption = ""
 
 ---
 
-
 <center>
-<img width="400px" height="200px" 
-src="/img/gamlss.jpg/"/>
+{{< figure library="1" src="/img/gamlss.jpg" width="400px" height="400px" >}}
 </center>
 
 ---
@@ -75,8 +73,7 @@ Duas respostas foram analisadas: o número de mudanças de postura de orelha e a
 ---
 
 <center>
-<img width="700px" height="700px" 
-src="/img/animais.png/"/>
+{{< figure library="1" src="/img/animais.png" width="700px" height="700px" >}}
 </center>
 
 ---
@@ -92,11 +89,8 @@ O trabalho foi dividido em três etapas:
 ---
 
 <center>
-<img width="300px" height="200px" 
-src="/img/sinape.jpg/"/>
+{{< figure library="1" src="/img/sinape.jpg" width="300px" height="200px" >}}
 </center>
-
-
 
 ---
 

@@ -197,8 +197,12 @@ src=&#34;/img/ufpr.jpg/&#34;/&gt;&lt;/div&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;center&gt;
-&lt;img width=&#34;400px&#34; height=&#34;200px&#34; 
-src=&#34;/img/gamlss.jpg/&#34;/&gt;
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/gamlss.jpg&#34; width=&#34;400px&#34; height=&#34;400px&#34; /&gt;
+
+
+&lt;/figure&gt;
 &lt;/center&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -241,8 +245,12 @@ animais e à proporção do tempo em que os animais permaneceram em determinadas
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;center&gt;
-&lt;img width=&#34;700px&#34; height=&#34;700px&#34; 
-src=&#34;/img/animais.png/&#34;/&gt;
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/animais.png&#34; width=&#34;700px&#34; height=&#34;700px&#34; /&gt;
+
+
+&lt;/figure&gt;
 &lt;/center&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -260,8 +268,12 @@ src=&#34;/img/animais.png/&#34;/&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;center&gt;
-&lt;img width=&#34;300px&#34; height=&#34;200px&#34; 
-src=&#34;/img/sinape.jpg/&#34;/&gt;
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/sinape.jpg&#34; width=&#34;300px&#34; height=&#34;200px&#34; /&gt;
+
+
+&lt;/figure&gt;
 &lt;/center&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
