@@ -35,6 +35,14 @@ weight = 5
 
 ---
 
+<table><tr>
+<td> <img src="/img/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="img/LogoPreta.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="img/leg.png" alt="Drawing" style="width: 150px;"/> </td>
+</tr></table>
+
+---
+
 <center>
 {{< figure library="1" src="img/LogoPreta.png" width="200px" height="200px" >}}
 </center>
