@@ -97,7 +97,8 @@ md
 ![Example image](/img/LogoPreta.png)
 
 
-{{< figure library="1" src="img/LogoPreta.png" title="A caption" >}}
+{{< figure library="1" src="img/LogoPreta.png" width="200px" height="200px" >}}
+
 ---
 
 Sou aluno do curso de Estatística da Universidade Federal do Paraná ([UFPR][ufpr]) desde 2014, atualmente sou membro do Programa de Educação Tutorial ([PET-Estatística, UFPR][pet]) e estagiário no Departamento de Crédito do Banco [Bradesco][bradesco]. 
