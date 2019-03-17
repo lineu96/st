@@ -71,6 +71,15 @@ Fora estas atividades, integro hoje a equipe de voleibol masculina da Universida
 
 ---
 
+    
+<table><tr>
+<td> <img src="/img/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="img/LogoPreta.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="img/leg.png" alt="Drawing" style="width: 150px;"/> </td>
+</tr></table>
+
+---
+
 [pet]: https://pet-estatistica.github.io/site/
 
 [nemoc]: https://www.tjpr.jus.br/corregedoria?p_p_id=36&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_36_struts_action=%2Fwiki%2Fview&p_r_p_185834411_nodeName=CORREGEDORIA-GERAL+DA+JUSTI%C3%87A&p_r_p_185834411_title=16.+NEMOC&p_r_p_185834411_nodeId=176942
