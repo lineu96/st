@@ -35,67 +35,6 @@ weight = 5
 
 ---
 
-normal com extensão
-
-<center>
-<img width="200px" height="200px" 
-src="/img/LogoPreta.png/"/>
-</center>
-
-sem barra apos aspas com extensão
-
-<center>
-<img width="200px" height="200px" 
-src="/img/LogoPreta.png/">
-</center>
-
-sem barra nas aspas com extensão
-
-<center>
-<img width="200px" height="200px" 
-src="/img/LogoPreta.png"/>
-</center>
-
-
-sem nenhuma barra com extensão
-
-<center>
-<img width="200px" height="200px" 
-src="/img/LogoPreta.png">
-</center>
-
-normal sem extensão
-
-<center>
-<img width="200px" height="200px" 
-src="/img/LogoPreta/"/>
-</center>
-
-sem barra apos aspas sem extensão
-
-<center>
-<img width="200px" height="200px" 
-src="/img/LogoPreta/">
-</center>
-
-sem barra nas aspas sem extensão
-
-<center>
-<img width="200px" height="200px" 
-src="/img/LogoPreta"/>
-</center>
-
-sem nenhuma barra sem extensão
-
-<center>
-<img width="200px" height="200px" 
-src="/img/LogoPreta">
-</center>
-
-md 
-
-![Example image](/img/LogoPreta.png)
-
 <center>
 {{< figure library="1" src="img/LogoPreta.png" width="200px" height="200px" >}}
 </center>
@@ -121,6 +60,10 @@ Fora estas atividades, integro hoje a equipe de voleibol masculina da Universida
 src="/img/feira.jpeg/"/>
 </center>
 
+<center>
+{{< figure library="1" src="/img/feira.jpeg" width="500px" height="500px" >}}
+</center>
+
 ---
 
 *“É notável uma ciência que começou com jogos de azar tenha se tornado o mais importante objeto do conhecimento humano.” Pierre Simon Laplace*
@@ -130,6 +73,10 @@ src="/img/feira.jpeg/"/>
 <center>
 <img width="200px" height="200px" 
 src="/img/ufpr.jpg/"/>
+</center>
+
+<center>
+{{< figure library="1" src="/img/ufpr.jpg" width="200px" height="200px" >}}
 </center>
 
 ---
