@@ -100,6 +100,15 @@ src=&#34;/img/unibrasil.png/&#34;/&gt;&lt;/div&gt;
 src=&#34;/img/mcglm.png/&#34;/&gt;
 &lt;/center&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;center&gt;
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/mcglm.png&#34; width=&#34;200px&#34; height=&#34;200px&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;/center&gt;&lt;/p&gt;
+
 &lt;hr /&gt;
 
 &lt;p&gt;Este projeto foi o tema escolhido por mim e por minha colega de curso AUTOR2, sob orientação do professor &lt;a href=&#34;link.com&#34; target=&#34;_blank&#34;&gt;Wagner Hugo Bonat&lt;/a&gt;, para nosso Trabalho de Conclusão de Curso da graduação de Estatística na Universidade Federal do Paraná.&lt;/p&gt;
@@ -315,7 +324,9 @@ src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;Table&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;table&#34;&gt;&lt;/Table&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;/Table&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 </description>
     </item>
     
@@ -328,7 +339,12 @@ src=&#34;/img/leg.png/&#34;/&gt;&lt;/div&gt;
       <description>&lt;hr /&gt;
 
 &lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;./img/gama.png/&#34;/&gt;
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/gama.png&#34; /&gt;
+
+
+&lt;/figure&gt;
 &lt;/center&gt;&lt;/p&gt;
 
 &lt;hr /&gt;

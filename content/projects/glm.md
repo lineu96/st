@@ -31,7 +31,7 @@ caption = ""
 ---
 
 <center>
-<img src="/img/gama.png/"/>
+{{< figure library="1" src="/img/gama.png" >}}
 </center>
 
 ---

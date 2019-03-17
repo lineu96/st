@@ -33,6 +33,10 @@ caption = ""
 src="/img/mcglm.png/"/>
 </center>
 
+<center>
+{{< figure library="1" src="/img/mcglm.png" width="200px" height="200px" >}}
+</center>
+
 ---
 
 Este projeto foi o tema escolhido por mim e por minha colega de curso AUTOR2, sob orientação do professor [Wagner Hugo Bonat][bonat], para nosso Trabalho de Conclusão de Curso da graduação de Estatística na Universidade Federal do Paraná.
