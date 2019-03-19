@@ -127,30 +127,6 @@
     </item>
     
     <item>
-      <title>Primeiros Passos com ggplot2</title>
-      <link>https://lineu96.github.io/st/post/ggplot2/</link>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://lineu96.github.io/st/post/ggplot2/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;Parte primordial de qualquer análise estatística é chamada análise descritiva ou exploratória. Tal etapa consiste basicamente de resumos numéricos e análises gráficas baseadas em conjuntos de dados.&lt;/p&gt;
-
-&lt;p&gt;Trata-se de uma etapa de extrema importância e deve preceder qualquer análise mais sofisticada como ajuste de modelos de regressão, por exemplo.&lt;/p&gt;
-
-&lt;p&gt;Além disso, a análise exploratória não requer elevada proficiência em tópicos de estatística avançada para para aplicação e interpretação dos resultados fazendo com que visualização de dados caracterize uma técnica simples, com grande apelo visual e extremamente informativa quanto ao conjunto de dados.&lt;/p&gt;
-
-&lt;p&gt;No R há a possibilidade de gerar gráficos sem a utilização de pacotes e há também pacotes específicos e especializados em visualização, dentre os quais destacam-se os famosos &lt;code&gt;lattice&lt;/code&gt; e &lt;code&gt;ggplot2&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Este post tem como foco explorar as principais e mais simples formas de visualização de dados utilizando o ggplot2 bem como algumas customizações simples como alteração de cores, temas, etc.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html&#34;&gt;Confira o material aqui!&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Análise comportamental de ovelhas submetidas à intervenção humana usando GAMLSS</title>
       <link>https://lineu96.github.io/st/projects/gamlss/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
@@ -521,6 +497,30 @@ animais e à proporção do tempo em que os animais permaneceram em determinadas
 &lt;/ol&gt;
 
 &lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://lineu96.github.io/st/post/ggplot2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/post/ggplot2/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -41,15 +41,6 @@
     
     <url>
     
-      <loc>https://lineu96.github.io/st/post/ggplot2/</loc>
-      <lastmod>2017-08-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://lineu96.github.io/st/projects/gamlss/</loc>
       <lastmod>2017-06-02T00:00:00+00:00</lastmod>
     </url>
@@ -192,16 +183,6 @@
     
     <url>
     
-      <loc>https://lineu96.github.io/st/tags/ggplot/</loc>
-      <lastmod>2017-08-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://lineu96.github.io/st/</loc>
       <lastmod>2016-04-20T00:00:00-03:00</lastmod>
       <priority>0</priority>
@@ -252,6 +233,23 @@
     
     <url>
     
+      <loc>https://lineu96.github.io/st/tags/posts/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/post/ggplot2/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://lineu96.github.io/st/projects/</loc>
       <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -274,16 +272,6 @@
     
       <loc>https://lineu96.github.io/st/publication/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/r/</loc>
-      <lastmod>2017-08-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -334,16 +322,6 @@
     
       <loc>https://lineu96.github.io/st/tags/</loc>
       <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/visualiza%C3%A7%C3%A3o/</loc>
-      <lastmod>2017-08-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
