@@ -11,6 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Posts</title>
+      <link>https://lineu96.github.io/st/post/ggplot2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/post/ggplot2/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;18/03/2019 - &lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Machine</title>
       <link>https://lineu96.github.io/st/projects/ml/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
@@ -497,30 +511,6 @@ animais e à proporção do tempo em que os animais permaneceram em determinadas
 &lt;/ol&gt;
 
 &lt;hr /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://lineu96.github.io/st/post/ggplot2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lineu96.github.io/st/post/ggplot2/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;./img/post/post_ggplot2.html/&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
