@@ -12,9 +12,7 @@ summary = "Pequenas publicações de minha autoria"
 
 ---
 
-18/03/2019 - [Primeiros Passos com ggplot2](/img/post/post_ggplot2.html/)
-
-11/11/1111 - [Primeiros Passos com ggplot2](/img/post/post_ggplot2.html/)
+18/03/2019 - [Primeiros Passos com ggplot2](/img/post/post_ggplot2.html)
 
 ---
 
