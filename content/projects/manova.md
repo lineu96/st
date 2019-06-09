@@ -34,7 +34,7 @@ caption = ""
 
 ---
 
-Este projeto foi o tema escolhido por mim e por minha colega de curso AUTOR2, sob orientação do professor [Wagner Hugo Bonat][bonat], para nosso Trabalho de Conclusão de Curso da graduação de Estatística na Universidade Federal do Paraná.
+Este projeto foi o tema escolhido por mim e por minha colega de curso Jhenifer Caetano Veloso, sob orientação do professor [Wagner Hugo Bonat][bonat], para nosso Trabalho de Conclusão de Curso da graduação de Estatística na Universidade Federal do Paraná.
 
 ---
 
