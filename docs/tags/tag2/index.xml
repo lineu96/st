@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tag2 on Lineu Alberto</title>
+    <title>tag2 on Lineu Alberto</title>
     <link>https://lineu96.github.io/st/tags/tag2/</link>
-    <description>Recent content in Tag2 on Lineu Alberto</description>
+    <description>Recent content in tag2 on Lineu Alberto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lineu96.github.io/st/projects/minicurso/</guid>
-      <description></description>
+      <description>Minicurso sobre linguagem R oferecido pelo PET Estatística</description>
     </item>
     
   </channel>

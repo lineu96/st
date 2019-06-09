@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lineu Alberto on Lineu Alberto</title>
@@ -7,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -104,19 +103,8 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;No âmbito da Estatística aplicada, modelos de regressão são uma das principais ferramentas utilizadas e difundidas em diversas áreas do conhecimento. No caso univariado, esta metodologia associa uma variável resposta, também chamada de variável dependente, a uma ou mais variáveis explicativas, conhecidas como variáveis independentes. Os objetivos gerais das técnicas de modelagem são: descrever a relação entre variável resposta e variáveis explicativas, e utilizar o modelo proposto para realizar predições.&lt;/p&gt;
-
-&lt;p&gt;De forma geral, um modelo de regressão é uma expressão matemática que relaciona a média da variável resposta Y às variáveis preditoras X. Além disso, considera-se que Y segue uma certa distribuição de probabilidade condicional a X em que a média está associada a um preditor linear.&lt;/p&gt;
-
-&lt;p&gt;Dentre as classes de modelos univariados existentes, a mais famosa e difundida nas últimas décadas são os modelos lineares generalizados (GLM) propostos por Nelder e Wedderburn em 1972. Dentre os casos especiais de distribuições possíveis na classe dos modelos lineares generalizados estão a Normal, gamma, Poisson, Binomial, entre outras. Trata-se portanto, de uma forma de modelagem univariada para dados de diferentes naturezas, tais como: dados contínuos simétricos e assimétricos, contagens, proporções discretas, e assim por diante. Tais características tornam esta classe uma flexível ferramenta de modelagem aplicável a diversos tipos de problema.&lt;/p&gt;
-
-&lt;p&gt;Todavia, por mais flexível e difundido que sejam os modelos lineares generalizados, estes apresentam duas principais restrições: a incapacidade de lidar com respostas dependentes e/ou múltiplas respostas. Com o objetivo de solucionar este problema, foi proposta uma estrutura geral para análise de dados não normais e com múltiplas respostas chamada modelos lineares multivariados de covariância generalizada McGLM propostos por Bonat. Esta estrutura foi proposta para lidar com respostas multivariadas de diferentes naturezas e, de alguma forma, correlacionadas; em que esta correlação é estruturada em termos de uma função de ligação de covariância com um preditor linear matricial que envolve matrizes conhecidas. Portanto, o McGLM é uma forma geral para modelagem de dados de diferentes naturezas e estruturas de covariância com extensões multivariadas para medidas repetidas, séries temporais, dados longitudinais, espaciais e espaço-temporais&lt;/p&gt;
-
-&lt;p&gt;No entanto, considerando um cenário em que se aplica um McGLM, isto é, um problema em que há múltiplas respostas, de diferentes naturezas, associadas a um conjunto de covariáveis e têm-se interesse em realizar uma análise multivariada, não há uma grande discussão na literatura a respeito de testes de hipóteses para modelos lineares multivariados com respostas não Gaussianas, mais especificamente da análise de variância multivariada (MANOVA).&lt;/p&gt;
-
-&lt;p&gt;Quando se trata de modelos multivariados para dados Gaussianos em que se deseja testar a hipótese de nulidade dos parâmetros de regressão, os quatro testes multivariados mais disseminados são: o lambda de Wilk&amp;rsquo;s, traço de Hotelling-Lawley, traço de Pillai e maior raiz de Roy. Para o caso de múltiplas respostas não Gaussianas não existem sequer testes correspondentes a estes 4 testes mais propagados.&lt;/p&gt;
-
-&lt;p&gt;Por conseguinte, neste trabalho, nosso objetivo é propor a análise de variância multivariada para dados não Gaussianos com foco em sugerir análogos aos testes já existentes para dados Gaussianos e, além disso, realizar a implementação computacional destes testes e um consistente estudo a respeito das propriedades e comportamento dos testes propostos com base em estudos de simulação e aplicação a conjuntos de dados reais.&lt;/p&gt;
+&lt;p&gt;No âmbito da Estatística aplicada, modelos de regressão são uma das principais e mais difundidas ferramentas utilizadas em diversas áreas do conhecimento, sendo que o caso mais conhecido é o modelo linear normal. Todavida, há casos em que são coletadas mais de uma resposta por unidade experimental e há o interesse de modelá-las em função de um conjunto de variáveis explicativas, para tal, uma alternativa são os modelos lineares multivariados. Porém, por maior que seja seu potencial de aplicação, essa classe apresenta limitações como a necessidade de normalidade multivariada, homogeneidade das matrizes de variâncias e covariâncias, além de independência entre as observações. Isto posto, uma alternativa para solucionar tais limitações são os Modelos Multivariados de Covariância Linear Generalizada, o qual permite lidar
+com múltiplas respostas e de diferentes naturezas e, de alguma forma, correlacionadas. Para esta classe de modelos, neste trabalho é proposto e implementado o teste de Wald para análise de variância multivariada para dados não gaussianos. Seu comportamento foi discutido através de estudos de simulação, a fim de verificar o poder do teste sob diferentes distribuições da variável resposta, diferentes tamanhos amostrais e diferentes valores para os parâmetros de regressão, apresentando, de forma geral, resultados satisfatórios para tamanhos amostrais maior que 250 em todas as distribuições de variável resposta simuladas. O emprego do teste proposto é ilustrado através de dois conjuntos de dados, um com respostas binárias e outro com respostas de contagem e proporção.&lt;/p&gt;
 
 &lt;hr /&gt;
 

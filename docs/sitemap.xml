@@ -1,230 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     
     <url>
     
-      <loc>https://lineu96.github.io/st/post/posts/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/projects/stifness/</loc>
-      <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/projects/minicurso/</loc>
-      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/projects/manova/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/projects/gamlss/</loc>
-      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/projects/glm/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/post/</loc>
-      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/publication/ex_publication/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/projects/lista_atividades/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/publication_types/2/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/acessoria/</loc>
-      <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/comportamento-animal/</loc>
-      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/correla%C3%A7%C3%A3o/</loc>
-      <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/efeitos-aleat%C3%B3rios/</loc>
-      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/ensino/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/gamlss/</loc>
-      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/glm/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://lineu96.github.io/st/</loc>
-      <lastmod>2016-04-20T00:00:00-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/manova/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/mcglm/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/monitoria/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/m%C3%BAltiplas-respostas/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -243,6 +24,45 @@
     
     <url>
     
+      <loc>https://lineu96.github.io/st/post/posts/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/acessoria/</loc>
+      <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/correla%C3%A7%C3%A3o/</loc>
+      <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://lineu96.github.io/st/projects/</loc>
       <lastmod>2018-06-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -253,19 +73,8 @@
     
     <url>
     
-      <loc>https://lineu96.github.io/st/publication_types/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/publication/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>https://lineu96.github.io/st/projects/stifness/</loc>
+      <lastmod>2018-06-02T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -276,6 +85,15 @@
       <loc>https://lineu96.github.io/st/tags/stifness/</loc>
       <lastmod>2018-06-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/projects/minicurso/</loc>
+      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -313,8 +131,189 @@
     
     <url>
     
-      <loc>https://lineu96.github.io/st/tags/</loc>
-      <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+      <loc>https://lineu96.github.io/st/tags/manova/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/projects/manova/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/mcglm/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/m%C3%BAltiplas-respostas/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/projects/gamlss/</loc>
+      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/comportamento-animal/</loc>
+      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/efeitos-aleat%C3%B3rios/</loc>
+      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/gamlss/</loc>
+      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/ensino/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/glm/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/projects/glm/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/monitoria/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/post/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/talk/</loc>
+      <lastmod>2017-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/publication_types/2/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/publication/ex_publication/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/publication_types/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/publication/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/projects/lista_atividades/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/categories/</loc>
       <priority>0</priority>
     </url>
     

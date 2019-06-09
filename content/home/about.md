@@ -41,6 +41,13 @@ weight = 5
 
 ---
 
+<center>
+{{< figure library="1" src="img/logos/logo6.png" width="200px" height="200px" >}}
+</center>
+
+---
+
+
 Sou aluno do curso de Estatística da Universidade Federal do Paraná ([UFPR][ufpr]) desde 2014, atualmente sou membro do Programa de Educação Tutorial ([PET-Estatística, UFPR][pet]) e estagiário no Departamento de Crédito do Banco [Bradesco][bradesco]. 
 
 Além disso tive uma experiência de trabalho no Núcleo de Estatística e Monitoramento da Corregedoria ([NEMOC-TJPR][nemoc]). No meio acadêmico fui monitor da disciplina de Modelos Lineares Generalizados ([CE225][glm]) na UFPR e participei de diversos outros trabalhos dentro do PET, como a participação no [labestData][ld], coorganização dos eventos [Rday][rday] e [Rbras][rbras], participação como ministrante do [Minicurso R 2018][minicurso] e [Aula Inaugural 2018][pse], além de diversos outros trabalhos relacionados à ensino, pesquisa e extensão. 
