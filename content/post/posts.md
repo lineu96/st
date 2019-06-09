@@ -16,3 +16,6 @@ summary = "Pequenas publicações de minha autoria"
 
 ---
 
+08/06/2019 - [Primeiros Passos com tidyr e dplyr](/img/post/post_td.html)
+
+---
