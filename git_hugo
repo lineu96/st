@@ -1,0 +1,18 @@
+Criação de repositório
+Criar no git e clonar
+
+HUGO
+
+hugo 
+hugo server
+git status
+git add .
+git status
+git commit -m "commit aqui"
+git status
+git push
+git status
+
+Atualização da versão do Hugo
+baixar arquivo .deb de https://github.com/gohugoio/hugo/releases
+no terminal: sudo dpkg -i arquivo.deb
