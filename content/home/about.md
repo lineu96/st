@@ -22,9 +22,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Bacharelado em Estatística (em andamento)"
+  course = "Bacharelado em Estatística"
   institution = "UFPR"
-  year = 2014
+  year = 2019
 
 #[[education.courses]]
 #  course = ""
@@ -32,12 +32,6 @@ weight = 5
 #  year =  
   
 +++
-
----
-
-<center>
-{{< figure library="1" src="img/LogoPreta.png" width="200px" height="200px" >}}
-</center>
 
 ---
 
@@ -69,12 +63,6 @@ Fora estas atividades, integro hoje a equipe de voleibol masculina da Universida
 ---
 
 *“É notável uma ciência que começou com jogos de azar tenha se tornado o mais importante objeto do conhecimento humano.” Pierre Simon Laplace*
-
----
-
-<center>
-{{< figure library="1" src="/img/ufpr.jpg" width="200px" height="200px" >}}
-</center>
 
 ---
 
