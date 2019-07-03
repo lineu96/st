@@ -9,7 +9,7 @@ title = "Análise comportamental de ovelhas submetidas à intervenção humana u
 summary = "Projeto de Pesquisa Individual PET"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "pesq.png"
+image_preview = "proj_gamlss/escov.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
