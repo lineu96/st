@@ -3,7 +3,7 @@
 date = "2017-06-02"
 
 # Project title.
-title = "Análise comportamental de ovelhas submetidas à intervenção humana usando GAMLSS"
+title = "Análise comportamental de ovelhas submetidas a intervenção humana usando GAMLSS"
 
 # Project summary to display on homepage.
 summary = "Projeto de Pesquisa Individual PET"
@@ -30,9 +30,10 @@ caption = ""
 
 ---
 
-<center>
-{{< figure library="1" src="/img/gamlss.jpg" width="400px" height="400px" >}}
-</center>
+<table><tr>
+<td> <img src="/img/gamlss.jpg" alt="Drawing" style="width: 300px;"/> </td>
+<td> <img src="/img/proj_gamlss/escov.png" alt="Drawing" style="width: 260px;"/> </td>
+</tr></table>
 
 ---
 
