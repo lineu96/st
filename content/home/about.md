@@ -16,8 +16,8 @@ weight = 5
     "GLM",
     "GAMLSS",
     "McGLM",
-    "Ensino de Estatística"
-
+    "Ensino de Estatística",
+    "R"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -41,14 +41,24 @@ weight = 5
 
 ---
 
+Sou Estatístico formado pela Universidade Federal do Paraná ([UFPR][ufpr]) em 2019. 
 
-Sou aluno do curso de Estatística da Universidade Federal do Paraná ([UFPR][ufpr]) desde 2014, atualmente sou membro do Programa de Educação Tutorial ([PET-Estatística, UFPR][pet]) e estagiário no Departamento de Crédito do Banco [Bradesco][bradesco]. 
+Dentre minhas experiências destacam-se atividades como: 
+participação do Programa de Educação Tutorial ([PET-Estatística, UFPR][pet])
+com contribuição a diversos projetos referentes a ensino, pesquisa e extensão na Universidade tais como: a participação no [labestData][ld], coorganização e apoio ao [1º Rday][rday], [63ª Rbras][rbras] e [1º Encontro de Data Sciene Big Data UFPR][dsbd], participação como ministrante do [Minicurso R][minicurso] edições 2018 e 2019, ministrante da [Aula Inaugural 2018][pse], dentre outras atividades. 
 
-Além disso tive uma experiência de trabalho no Núcleo de Estatística e Monitoramento da Corregedoria ([NEMOC-TJPR][nemoc]). No meio acadêmico fui monitor da disciplina de Modelos Lineares Generalizados ([CE225][glm]) na UFPR e participei de diversos outros trabalhos dentro do PET, como a participação no [labestData][ld], coorganização dos eventos [Rday][rday] e [Rbras][rbras], participação como ministrante do [Minicurso R 2018][minicurso] e [Aula Inaugural 2018][pse], além de diversos outros trabalhos relacionados à ensino, pesquisa e extensão. 
+Fui também monitor da disciplina de Modelos Lineares Generalizados ([CE225][glm]) na UFPR, estagiário no Núcleo de Estatística e Monitoramento da Corregedoria Geral da Justiça ([NEMOC-TJPR][nemoc]) e no Departamento de Inteligência de Crédito Crédito do Banco [Bradesco S.A][bradesco] tendo atuado na área de Portfólio de Produtos Parcelados com Garantia, Governança e Validação para Pessoa Física.
 
-Além disso, trabalhei em um projeto com aplicação de Modelos Generalizados Aditivos para Locação, Escala e Forma ([GAMLSS][gamlss]) a um problema de comportamento animal, um trabalho cujo o objetivo era o estudo de testes de hipóteses multivariados para dados não gaussianos e uma série de acessorias em parceria com pesquisadores de diversas áreas, tais como: educação física, logística, finanças, etc.
+Saí da graduação com 2 projetos de pesquisa finalizados:
 
-Fora estas atividades, integro hoje a equipe de voleibol masculina da Universidade, em uma parceria com a prefeitura de [São José dos Pinhais][sjp] (UFPR/SJP).
+ - [Análise comportamental de ovelhas submetidas a intervenção humana usando GAMLSS][ic]. Trabalho apresentado na 63ª RBras, 23º SINAPE e 10ª SIEPE UFPR.
+ 
+ - [Análise de Variância Multivariada para Dados Não Gaussianos via Teste Wald][tcc]. Trabalho de Conclusão de Curso apresentado como exigência parcial para obtenção do grau de Bacharel em Estatística.
+
+Além de pequenas participações em projetos em parceria com pesquisadores e profissionais de áreas como: educação física, logística, finanças, etc.
+
+Fora estas atividades, integro hoje a equipe de voleibol masculina UFPR/São José dos Pinhais.
+
 
 ---
 
@@ -89,3 +99,9 @@ Fora estas atividades, integro hoje a equipe de voleibol masculina da Universida
 [minicurso]: https://pet-estatistica.github.io/site/minicurso_r/
 
 [pse]:https://pet-estatistica.github.io/site/aula_inaug/
+
+[dsbd]:http://dsbd.leg.ufpr.br/evento/
+
+[ic]: https://lineu96.github.io/st/projects/gamlss/
+
+[tcc]: https://lineu96.github.io/st/projects/manova/
