@@ -75,7 +75,7 @@
   
   <meta property="og:site_name" content="Lineu Alberto">
   <meta property="og:url" content="https://lineu96.github.io/st/projects/manova/">
-  <meta property="og:title" content="MANOVA para dados não gaussianos | Lineu Alberto">
+  <meta property="og:title" content="Análise de Variância Multivariada para Dados Não Gaussianos via Teste Wald | Lineu Alberto">
   <meta property="og:description" content="Trabalho de Conclusão de Curso">
   <meta property="og:locale" content="pt-br">
   
@@ -86,7 +86,7 @@
 
   
 
-  <title>MANOVA para dados não gaussianos | Lineu Alberto</title>
+  <title>Análise de Variância Multivariada para Dados Não Gaussianos via Teste Wald | Lineu Alberto</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -207,7 +207,7 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">MANOVA para dados não gaussianos</h1>
+    <h1 itemprop="name">Análise de Variância Multivariada para Dados Não Gaussianos via Teste Wald</h1>
 
     
 
@@ -236,7 +236,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=MANOVA%20para%20dados%20n%c3%a3o%20gaussianos&amp;url=https%3a%2f%2flineu96.github.io%2fst%2fprojects%2fmanova%2f"
+         href="https://twitter.com/intent/tweet?text=An%c3%a1lise%20de%20Vari%c3%a2ncia%20Multivariada%20para%20Dados%20N%c3%a3o%20Gaussianos%20via%20Teste%20Wald&amp;url=https%3a%2f%2flineu96.github.io%2fst%2fprojects%2fmanova%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
@@ -250,21 +250,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2flineu96.github.io%2fst%2fprojects%2fmanova%2f&amp;title=MANOVA%20para%20dados%20n%c3%a3o%20gaussianos"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2flineu96.github.io%2fst%2fprojects%2fmanova%2f&amp;title=An%c3%a1lise%20de%20Vari%c3%a2ncia%20Multivariada%20para%20Dados%20N%c3%a3o%20Gaussianos%20via%20Teste%20Wald"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2flineu96.github.io%2fst%2fprojects%2fmanova%2f&amp;title=MANOVA%20para%20dados%20n%c3%a3o%20gaussianos"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2flineu96.github.io%2fst%2fprojects%2fmanova%2f&amp;title=An%c3%a1lise%20de%20Vari%c3%a2ncia%20Multivariada%20para%20Dados%20N%c3%a3o%20Gaussianos%20via%20Teste%20Wald"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=MANOVA%20para%20dados%20n%c3%a3o%20gaussianos&amp;body=https%3a%2f%2flineu96.github.io%2fst%2fprojects%2fmanova%2f">
+         href="mailto:?subject=An%c3%a1lise%20de%20Vari%c3%a2ncia%20Multivariada%20para%20Dados%20N%c3%a3o%20Gaussianos%20via%20Teste%20Wald&amp;body=https%3a%2f%2flineu96.github.io%2fst%2fprojects%2fmanova%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -291,16 +291,32 @@
 
 <hr />
 
-<p>Este projeto foi o tema escolhido por mim e por minha colega de curso Jhenifer Caetano Veloso, sob orientação do professor <a href="link.com" target="_blank">Wagner Hugo Bonat</a>, para nosso Trabalho de Conclusão de Curso da graduação de Estatística na Universidade Federal do Paraná.</p>
+<p>Este projeto foi o tema escolhido por mim e por minha colega de curso <a href="https://www.linkedin.com/in/jhecaetano/" target="_blank">Jhenifer Caetano Veloso</a>, sob orientação do professor <a href="http://www.leg.ufpr.br/~wagner/" target="_blank">Wagner Hugo Bonat</a>, para nosso Trabalho de Conclusão de Curso da graduação de Estatística na Universidade Federal do Paraná.</p>
 
 <hr />
 
-<p>No âmbito da Estatística aplicada, modelos de regressão são uma das principais e mais difundidas ferramentas utilizadas em diversas áreas do conhecimento, sendo que o caso mais conhecido é o modelo linear normal. Todavida, há casos em que são coletadas mais de uma resposta por unidade experimental e há o interesse de modelá-las em função de um conjunto de variáveis explicativas, para tal, uma alternativa são os modelos lineares multivariados. Porém, por maior que seja seu potencial de aplicação, essa classe apresenta limitações como a necessidade de normalidade multivariada, homogeneidade das matrizes de variâncias e covariâncias, além de independência entre as observações. Isto posto, uma alternativa para solucionar tais limitações são os Modelos Multivariados de Covariância Linear Generalizada, o qual permite lidar
-com múltiplas respostas e de diferentes naturezas e, de alguma forma, correlacionadas. Para esta classe de modelos, neste trabalho é proposto e implementado o teste de Wald para análise de variância multivariada para dados não gaussianos. Seu comportamento foi discutido através de estudos de simulação, a fim de verificar o poder do teste sob diferentes distribuições da variável resposta, diferentes tamanhos amostrais e diferentes valores para os parâmetros de regressão, apresentando, de forma geral, resultados satisfatórios para tamanhos amostrais maior que 250 em todas as distribuições de variável resposta simuladas. O emprego do teste proposto é ilustrado através de dois conjuntos de dados, um com respostas binárias e outro com respostas de contagem e proporção.</p>
+<p>No âmbito da Estatística aplicada, modelos de regressão são uma das principais e mais difundidas ferramentas utilizadas em diversas áreas do conhecimento, sendo que o caso mais conhecido é o modelo linear normal.</p>
 
-<hr />
+<p>Todavida, há casos em que são coletadas mais de uma resposta por unidade experimental e há o interesse de modelá-las em função de um conjunto de variáveis explicativas, para tal, uma alternativa são os modelos lineares multivariados. Porém, por maior que seja seu potencial de aplicação, essa classe apresenta limitações como a necessidade de normalidade multivariada, homogeneidade das matrizes de variâncias e covariâncias, além de independência entre as observações. Isto posto, uma alternativa para solucionar tais limitações são os Modelos Multivariados de Covariância Linear Generalizada, o qual permite lidar com múltiplas respostas e de diferentes naturezas e, de alguma forma, correlacionadas.</p>
 
-<h3 id="confira-alguns-dos-materiais-produzidos">Confira alguns dos materiais produzidos:</h3>
+<p>Para esta classe de modelos, neste trabalho é proposto e implementado o teste de Wald para análise de variância multivariada para dados não gaussianos. Seu comportamento foi discutido através de estudos de simulação, a fim de verificar o poder do teste sob diferentes distribuições da variável resposta, diferentes tamanhos amostrais e diferentes valores para os parâmetros de regressão, apresentando, de forma geral, resultados satisfatórios para tamanhos amostrais maior que 250 em todas as distribuições de variável resposta simuladas. O emprego do teste proposto é ilustrado através de dois conjuntos de dados, um com respostas binárias e outro com respostas de contagem e proporção.</p>
+
+<h3 id="materiais-produzidos">Materiais produzidos:</h3>
+
+<ul>
+<li><p><a href="../../img/proj_manova/tcc.pdf">Texto</a></p></li>
+
+<li><p><a href="../../img/proj_manova/apresentacao.pdf">Apresentação</a></p></li>
+</ul>
+
+<p><center>
+<figure>
+
+<img src="../../img/proj_manova/defesa.jpg" width="600px" height="600px" />
+
+
+</figure>
+</center></p>
 
 <hr />
 
