@@ -62,8 +62,6 @@ Fora estas atividades, integro hoje a equipe de voleibol masculina UFPR/São Jos
 
 ---
 
-**Apaixonado por Estatística e modelagem. Usuário de R. Atleta de voleibol.**
-
 ---
 
 <center>
