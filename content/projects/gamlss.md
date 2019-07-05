@@ -126,7 +126,7 @@ O trabalho completo foi apresentado no 17º Encontro das Atividades Formativas (
  - [Slides](/img/proj_gamlss/pi_pres.pdf)
  
  <center>
-{{< figure library="1" src="/img/proj_gamlss/siepe.png" width="600px" height="600px" >}}
+{{< figure library="1" src="/img/proj_gamlss/siepe2.jpg" width="600px" height="600px" >}}
 </center>
 
 ---
