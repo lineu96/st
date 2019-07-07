@@ -43,8 +43,38 @@
     
     <url>
     
-      <loc>https://lineu96.github.io/st/projects/minicurso/</loc>
-      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+      <loc>https://lineu96.github.io/st/projects/manova/</loc>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/manova/</loc>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/mcglm/</loc>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/tags/m%C3%BAltiplas-respostas/</loc>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -53,8 +83,17 @@
     <url>
     
       <loc>https://lineu96.github.io/st/projects/</loc>
-      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lineu96.github.io/st/projects/minicurso/</loc>
+      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -84,45 +123,6 @@
     
       <loc>https://lineu96.github.io/st/tags/tag3/</loc>
       <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/projects/manova/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/manova/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/mcglm/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lineu96.github.io/st/tags/m%C3%BAltiplas-respostas/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

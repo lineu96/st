@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2018-01-01"
+date = "2018-07-01"
 
 # Project title.
 title = "Análise de Variância Multivariada para Dados Não Gaussianos via Teste Wald"

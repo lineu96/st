@@ -46,18 +46,9 @@
     </item>
     
     <item>
-      <title>Minicurso R</title>
-      <link>https://lineu96.github.io/st/projects/minicurso/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://lineu96.github.io/st/projects/minicurso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Análise de Variância Multivariada para Dados Não Gaussianos via Teste Wald</title>
       <link>https://lineu96.github.io/st/projects/manova/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lineu96.github.io/st/projects/manova/</guid>
       <description>
@@ -108,6 +99,15 @@
 &lt;td&gt; &lt;img src=&#34;./img/proj_manova/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Minicurso R</title>
+      <link>https://lineu96.github.io/st/projects/minicurso/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/projects/minicurso/</guid>
+      <description></description>
     </item>
     
     <item>
