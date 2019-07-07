@@ -65,7 +65,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "perfil/perfil2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "lialcafre@gmail.com"
+  email = "lineuacf@gmail.com"
   #address = "PET-Estatística, UFPR"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "(41)99694-4415"
@@ -223,12 +223,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "contao"
     icon_pack = "fa"
-    link = "/img/cv_lineu.pdf"
+    link = "/img/perfil/cv_lineu.pdf"
 
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:lialcafre@gmail.com"  
+    link = "mailto:lineuacf@gmail.com"  
 
   [[params.social]]
     icon = "github"

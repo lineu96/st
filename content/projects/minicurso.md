@@ -9,7 +9,7 @@ title = "Minicurso R"
 summary = "Minicurso sobre linguagem R oferecido pelo PET Estatística"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "curso.png"
+image_preview = "proj_minicurso/curso.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -9,7 +9,7 @@ title = "Modelos Lineares Generalizados"
 summary = "Monitoria da disciplina de Modelos Lineares Generalizados (CE225)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "gama.png"
+image_preview = "proj_glm/gama.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -31,7 +31,7 @@ caption = ""
 ---
 
 <center>
-{{< figure library="1" src="/img/gama.png" >}}
+{{< figure library="1" src="/img/proj_glm/gama.png" >}}
 </center>
 
 ---
@@ -67,9 +67,9 @@ A ideia destes materiais era auxiliar os alunos em como proceder a análise em R
 ---
 
 <table><tr>
-<td> <img src="/img/logo-pet.png" alt="Drawing" style="width: 200px;"/> </td>
-<td> <img src="/img/leg.png" alt="Drawing" style="width: 150px;"/> </td>
-<td> <img src="/img/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/proj_glm/logo-pet.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/proj_glm/leg.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="/img/proj_glm/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
 </tr></table>
 
 [glm]: https://docs.ufpr.br/~taconeli/CE22517/CE22517.html

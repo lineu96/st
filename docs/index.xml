@@ -46,50 +46,6 @@
     </item>
     
     <item>
-      <title>Stiffness do Membro Inferior</title>
-      <link>https://lineu96.github.io/st/projects/stifness/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://lineu96.github.io/st/projects/stifness/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;Este trabalho está sendo desenvolvido em parceria com alunos do curso de graduação de Educação Física do Centro Universitário Autônomo do Brasil &lt;a href=&#34;https://www.unibrasil.com.br/&#34; target=&#34;_blank&#34;&gt;(UniBrasil)&lt;/a&gt;. A pesquisa tem por objetivo investigar a relação entre o stiffness do membro inferior, força e potência muscular de corredores amadores. Os autores do trabalho são: AUTOR1, AUTOR2, AUTOR3.&lt;/p&gt;
-
-&lt;table&gt;&lt;tr&gt;
-&lt;td&gt; &lt;img src=&#34;./img/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/unibrasil.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
-&lt;/tr&gt;&lt;/table&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Entende-se como Stiffness a rigidez apresentada por um material submetido a estresse mecânico.&lt;/p&gt;
-
-&lt;p&gt;Na corrida, o membro inferior é constantemente exposto a estresses – principalmente compressivo – e precisa apresentar grande capacidade de resistir a tais cargas. Desse modo, o stiffness do membro inferior é fator determinante do desempenho, seja de profissionais ou mesmo de atletas amadores.&lt;/p&gt;
-
-&lt;p&gt;Neste contexto, o objetivo do experimento foi investigar a relação entre força, potência e stiffness do membro inferior em corredores amadores.&lt;/p&gt;
-
-&lt;p&gt;A amostra foi composta por 23 indivíduos, dos quais 12 eram homens e 11 eram mulheres. Os participantes tinham idade entre 18 e 45 anos e praticavam a corrida de forma regular na época do experimento.&lt;/p&gt;
-
-&lt;p&gt;Foram coletadas informações em uma avaliação antropométrica, teste de potência e teste de força. Para os testes de potência e força foram realizadas duas sessões, com 48 horas de intervalo em que foi considerada a maior mensuração.&lt;/p&gt;
-
-&lt;p&gt;Todos os testes foram realizados sob a supervisão do mesmo avaliador.&lt;/p&gt;
-
-&lt;p&gt;Além das informações antropométricas, de potência e força, os participantes foram submetidos a um teste de corrida com a distância de 3000 metros (3 km). Ao longo do teste foram realizadas filmagens para a avaliação do stiffness via análise cinemática.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Confira a análise dos dados: &lt;a href=&#34;./img/proj_stifness/relatorio.html&#34;&gt;Stiffness do Membro Inferior&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;table&gt;&lt;tr&gt;
-&lt;td&gt; &lt;img src=&#34;./img/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/unibrasil.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
-&lt;/tr&gt;&lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Minicurso R</title>
       <link>https://lineu96.github.io/st/projects/minicurso/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -147,9 +103,9 @@
 &lt;hr /&gt;
 
 &lt;table&gt;&lt;tr&gt;
-&lt;td&gt; &lt;img src=&#34;./img/logo-pet.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/leg.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_manova/logo-pet.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_manova/leg.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_manova/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 </description>
     </item>
@@ -163,7 +119,7 @@
       <description>&lt;hr /&gt;
 
 &lt;table&gt;&lt;tr&gt;
-&lt;td&gt; &lt;img src=&#34;./img/gamlss.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 300px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_gamlss/gamlss.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 300px;&#34;/&gt; &lt;/td&gt;
 &lt;td&gt; &lt;img src=&#34;./img/proj_gamlss/escov.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 260px;&#34;/&gt; &lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 
@@ -309,9 +265,9 @@ influence behavioral and cardiac responses of ewes submitted to brushing? Behavi
 &lt;hr /&gt;
 
 &lt;table&gt;&lt;tr&gt;
-&lt;td&gt; &lt;img src=&#34;./img/logo-pet.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/leg.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_gamlss/logo-pet.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_gamlss/leg.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_gamlss/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 </description>
     </item>
@@ -327,7 +283,7 @@ influence behavioral and cardiac responses of ewes submitted to brushing? Behavi
 &lt;p&gt;&lt;center&gt;
 &lt;figure&gt;
 
-&lt;img src=&#34;./img/gama.png&#34; /&gt;
+&lt;img src=&#34;./img/proj_glm/gama.png&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -370,9 +326,9 @@ influence behavioral and cardiac responses of ewes submitted to brushing? Behavi
 &lt;hr /&gt;
 
 &lt;table&gt;&lt;tr&gt;
-&lt;td&gt; &lt;img src=&#34;./img/logo-pet.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/leg.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_glm/logo-pet.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_glm/leg.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_glm/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 </description>
     </item>

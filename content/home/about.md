@@ -56,7 +56,7 @@ Fora estas atividades, integro hoje a equipe de voleibol masculina UFPR/São Jos
 ---
 
 <center>
-{{< figure library="1" src="/img/feira.jpeg" width="500px" height="500px" >}}
+{{< figure library="1" src="/img/perfil/feira.jpeg" width="500px" height="500px" >}}
 </center>
 
 ---

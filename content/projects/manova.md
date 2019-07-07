@@ -58,9 +58,9 @@ Para esta classe de modelos, neste trabalho é proposto e implementado o teste d
 ---
 
 <table><tr>
-<td> <img src="/img/logo-pet.png" alt="Drawing" style="width: 200px;"/> </td>
-<td> <img src="/img/leg.png" alt="Drawing" style="width: 150px;"/> </td>
-<td> <img src="/img/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/proj_manova/logo-pet.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/proj_manova/leg.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="/img/proj_manova/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
 </tr></table>
 
 [bonat]: http://www.leg.ufpr.br/~wagner/

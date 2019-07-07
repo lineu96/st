@@ -31,7 +31,7 @@ caption = ""
 ---
 
 <table><tr>
-<td> <img src="/img/gamlss.jpg" alt="Drawing" style="width: 300px;"/> </td>
+<td> <img src="/img/proj_gamlss/gamlss.jpg" alt="Drawing" style="width: 300px;"/> </td>
 <td> <img src="/img/proj_gamlss/escov.png" alt="Drawing" style="width: 260px;"/> </td>
 </tr></table>
 
@@ -138,9 +138,9 @@ influence behavioral and cardiac responses of ewes submitted to brushing? Behavi
 ---
 
 <table><tr>
-<td> <img src="/img/logo-pet.png" alt="Drawing" style="width: 200px;"/> </td>
-<td> <img src="/img/leg.png" alt="Drawing" style="width: 150px;"/> </td>
-<td> <img src="/img/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/proj_gamlss/logo-pet.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/proj_gamlss/leg.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="/img/proj_gamlss/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
 </tr></table>
 
 
