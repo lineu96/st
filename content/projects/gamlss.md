@@ -103,6 +103,8 @@ A primeira delas referente à resposta de contagem, apresentada na sessão pôst
  
  - [Pôster Rbras](/img/proj_gamlss/posterRBras.pdf)
  
+ - [Análise Completa](/img/proj_gamlss/rbras.html)
+ 
  <center>
 {{< figure library="1" src="/img/proj_gamlss/rbras.png" width="600px" height="600px" >}}
 </center>
@@ -115,6 +117,8 @@ A segunda, referente à resposta de proporção, apresentada na sessão pôster 
  
  - [Pôster SINAPE](/img/proj_gamlss/posterSINAPE.pdf)
  
+ - [Análise Completa](/img/proj_gamlss/sinape.html)
+ 
  <center>
 {{< figure library="1" src="/img/proj_gamlss/sinape.png" width="300px" height="300px" >}}
 </center>
@@ -125,6 +129,12 @@ O trabalho completo foi apresentado no 17º Encontro das Atividades Formativas (
  
  - [Slides](/img/proj_gamlss/pi_pres.pdf)
  
+---
+
+ - [Análise com os proncipais resultados](/img/proj_gamlss/final.html)
+
+---
+
  <center>
 {{< figure library="1" src="/img/proj_gamlss/siepe2.jpg" width="600px" height="600px" >}}
 </center>
