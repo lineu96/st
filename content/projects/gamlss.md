@@ -30,10 +30,9 @@ caption = ""
 
 ---
 
-<table><tr>
-<td> <img src="/img/proj_gamlss/gamlss.jpg" alt="Drawing" style="width: 300px;"/> </td>
-<td> <img src="/img/proj_gamlss/escov.png" alt="Drawing" style="width: 260px;"/> </td>
-</tr></table>
+<center>
+{{< figure library="1" src="/img/proj_gamlss/escov.png" width="300px" height="300px">}}
+</center>
 
 ---
 
@@ -131,7 +130,7 @@ O trabalho completo foi apresentado no 17º Encontro das Atividades Formativas (
  
 ---
 
- - [Análise com os proncipais resultados](/img/proj_gamlss/final.html)
+ - [Análise com os principais resultados](/img/proj_gamlss/final.html)
 
 ---
 

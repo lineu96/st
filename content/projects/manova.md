@@ -9,7 +9,7 @@ title = "Análise de Variância Multivariada para Dados Não Gaussianos via Test
 summary = "Trabalho de Conclusão de Curso"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "mcglm.png"
+image_preview = "proj_manova/mcglm.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -28,8 +28,10 @@ caption = ""
 
 +++
 
+---
+
 <center>
-{{< figure library="1" src="/img/mcglm.png" width="200px" height="200px" >}}
+{{< figure library="1" src="/img/proj_manova/mcglm.png" width="200px" height="200px" >}}
 </center>
 
 ---

@@ -6,8 +6,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Noções de Probabilidade e Estatística</title>
+      <link>https://lineu96.github.io/st/projects/npest/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/projects/npest/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/proj_npest/est.jpg&#34; width=&#34;170px&#34; height=&#34;170px&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Uma versão preliminar deste material surgiu na minha época de graduação em Estatística na UFPR quando fui indicado por colegas para dar aulas particulares de Estatística Básica para alunos de outros cursos. Na versão inicial era uma material bem amplo e genérico que, após conseguir tempo, fiz questão de melhorá-lo.&lt;/p&gt;
+
+&lt;p&gt;Todo o texto foi extremamente baseado no livro &lt;a href=&#34;https://www.ime.usp.br/~noproest/doku.php&#34; target=&#34;_blank&#34;&gt;Noções de Probabilidade e Estatística&lt;/a&gt;, dos autores &lt;a href=&#34;https://www.ime.usp.br/~marcos/&#34; target=&#34;_blank&#34;&gt;Marcos Nascimento Magalhães&lt;/a&gt; e &lt;a href=&#34;https://www.ime.usp.br/~acarlos/doku.php&#34; target=&#34;_blank&#34;&gt;Antonio Carlos Pedroso de Lima&lt;/a&gt;. Muitos trechos foram, inclusive, copiados na íntegra dada a clareza como o conceito foi exposto no livro.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;./img/proj_npest/capa.jpg&#34; width=300 height=300&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Apesar de ser um livro altamente didático, para a produção deste material eu fiz alterações na ordenação de como alguns tópicos foram apresentados e outros assuntos sequer são mencionados.&lt;/p&gt;
+
+&lt;p&gt;O material está dividido em 9 partes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./img/proj_npest/npest1.html&#34;&gt;Conceitos Iniciais.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./img/proj_npest/npest2_1.html&#34;&gt;Introdução à análise exploratória de dados: tabelas de frequência.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./img/proj_npest/npest2_2.html&#34;&gt;Introdução à análise exploratória de dados: medidas resumo e análise gráfica.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./img/proj_npest/npest3.html&#34;&gt;Probabilidades.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./img/proj_npest/npest4.html&#34;&gt;Variáveis aleatórias discretas.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./img/proj_npest/npest5.html&#34;&gt;Variáveis aleatórias contínuas.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./img/proj_npest/npest6_1.html&#34;&gt;Inferência: conceitos iniciais e estimadores pontuais.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./img/proj_npest/npest6_2.html&#34;&gt;Inferência: estimação por intervalo e testes de hipótese.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./img/proj_npest/npest7.html&#34;&gt;Tópicos interessantes não abordados.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Uma ênfase maior foi dada nos tópicos iniciais. Se tratam de conceitos básicos e técnicas simples porém suficientes para extração de informações importantes quando a tarefa é analisar um conjunto de dados.&lt;/p&gt;
+
+&lt;p&gt;Por ser um material voltado para aprendizado de Estatística, indicado para aqueles que estão dando seus primeiros passos nesta área, não foram apresentados muitos aspectos teóricos. E, para sintetizar o texto, poucos exemplos foram apresentados.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Lembre-se, o que está aqui nem de perto é tudo o que a Estatística tem a oferecer. Existe uma infinidade de técnicas e métodos para os mais diversos fins.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Críticas e sugestões a este material sempre serão bem vindas.&lt;/p&gt;
+
+&lt;p&gt;Para entrar em contato comigo, envie uma mensagem para &lt;a href=&#34;mailto:lineuacf@gmail.com&#34; target=&#34;_blank&#34;&gt;lineuacf@gmail.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/logos/logo6.png&#34; width=&#34;200px&#34; height=&#34;200px&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Posts</title>
@@ -53,10 +125,12 @@
       <guid>https://lineu96.github.io/st/projects/manova/</guid>
       <description>
 
+&lt;hr /&gt;
+
 &lt;p&gt;&lt;center&gt;
 &lt;figure&gt;
 
-&lt;img src=&#34;./img/mcglm.png&#34; width=&#34;200px&#34; height=&#34;200px&#34; /&gt;
+&lt;img src=&#34;./img/proj_manova/mcglm.png&#34; width=&#34;200px&#34; height=&#34;200px&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -118,10 +192,14 @@
       <guid>https://lineu96.github.io/st/projects/gamlss/</guid>
       <description>&lt;hr /&gt;
 
-&lt;table&gt;&lt;tr&gt;
-&lt;td&gt; &lt;img src=&#34;./img/proj_gamlss/gamlss.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 300px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/proj_gamlss/escov.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 260px;&#34;/&gt; &lt;/td&gt;
-&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/proj_gamlss/escov.png&#34; width=&#34;300px&#34; height=&#34;300px&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;/center&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -254,7 +332,7 @@ animais e à proporção do tempo em que os animais permaneceram em determinadas
 &lt;hr /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;./img/proj_gamlss/final.html&#34;&gt;Análise com os proncipais resultados&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./img/proj_gamlss/final.html&#34;&gt;Análise com os principais resultados&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;

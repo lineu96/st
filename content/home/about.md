@@ -35,6 +35,12 @@ weight = 5
 
 ---
 
+<center>
+{{< figure library="1" src="/img/logos/logo6.png" width="200px" height="200px" >}}
+</center>
+
+---
+
 Sou Estatístico formado pela Universidade Federal do Paraná ([UFPR][ufpr]) em 2019. 
 
 Dentre minhas experiências destacam-se atividades como: 
