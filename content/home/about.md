@@ -51,8 +51,6 @@ Saí da graduação com 2 projetos de pesquisa finalizados:
 
 Além de pequenas participações em projetos em parceria com pesquisadores e profissionais de áreas como: educação física, logística, finanças, etc.
 
-Fora estas atividades, integro hoje a equipe de voleibol masculina UFPR/São José dos Pinhais.
-
 ---
 
 <center>
