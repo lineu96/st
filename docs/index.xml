@@ -87,46 +87,45 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lineu96.github.io/st/post/posts/</guid>
-      <description>&lt;hr /&gt;
+      <description>&lt;p&gt;18/03/2019 - &lt;a href=&#34;./img/post/post_ggplot2.html&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;18/03/2019 - &lt;a href=&#34;./img/post/post_ggplot2.html&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;08/06/2019 - &lt;a href=&#34;./img/post/post_td.html&#34;&gt;Primeiros Passos com tidyr e dplyr&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt;
-&lt;figure&gt;
+&lt;p&gt;11/12/2019 - &lt;a href=&#34;./img/post/logprog.html&#34;&gt;Algoritmos e Lógica de Programação&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;center&gt; &lt;figure&gt;
 
 &lt;img src=&#34;./img/post/ggplot2.png&#34; width=&#34;100px&#34; height=&#34;100px&#34; /&gt;
 
 
-&lt;/figure&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;/figure&gt; &lt;/center&gt;&lt;/th&gt;
+&lt;th&gt;&lt;center&gt; &lt;figure&gt;
 
-&lt;hr /&gt;
-
-&lt;p&gt;08/06/2019 - &lt;a href=&#34;./img/post/post_td.html&#34;&gt;Primeiros Passos com tidyr e dplyr&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;figure&gt;
-
-&lt;img src=&#34;./img/post/manipulation.png.jpg&#34; width=&#34;100px&#34; height=&#34;100px&#34; /&gt;
+&lt;img src=&#34;./img/post/dplyr.png&#34; width=&#34;100px&#34; height=&#34;100px&#34; /&gt;
 
 
-&lt;/figure&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;/figure&gt; &lt;/center&gt;&lt;/th&gt;
+&lt;th&gt;&lt;center&gt; &lt;figure&gt;
 
-&lt;hr /&gt;
+&lt;img src=&#34;./img/post/tidyr.png&#34; width=&#34;100px&#34; height=&#34;100px&#34; /&gt;
 
-&lt;p&gt;11/12/2019 - &lt;a href=&#34;./img/post/logprog.html&#34;&gt;Algoritmos e Lógica de Programação&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt;
-&lt;figure&gt;
+&lt;/figure&gt; &lt;/center&gt;&lt;/th&gt;
+&lt;th&gt;&lt;center&gt; &lt;figure&gt;
 
 &lt;img src=&#34;./img/post/fluxo.jpg&#34; width=&#34;100px&#34; height=&#34;100px&#34; /&gt;
 
 
-&lt;/figure&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;/figure&gt; &lt;/center&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;hr /&gt;
+&lt;tbody&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
