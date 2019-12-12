@@ -27,3 +27,11 @@ summary = "Pequenas publicações de minha autoria"
 </center>
 
 ---
+
+11/12/2019 - [Algoritmos e Lógica de Programação](/img/post/logprog.html)
+
+<center>
+{{< figure library="1" src="/img/post/fluxo.jpg" width="100px" height="100px" >}}
+</center>
+
+---
