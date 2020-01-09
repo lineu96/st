@@ -70,12 +70,6 @@ Lembre-se, o que está aqui nem de perto é tudo o que a Estatística tem a ofer
 
 ---
 
-Críticas e sugestões a este material sempre serão bem vindas.
-
-Para entrar em contato comigo, envie uma mensagem para <lineuacf@gmail.com>.
-
----
-
 <center>
 {{< figure library="1" src="/img/logos/logo6.png" width="200px" height="200px" >}}
 </center>
