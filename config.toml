@@ -57,7 +57,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Lineu Alberto"
-  role = "Estatístico"
+  role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="PET Estatística", url=""}, {name="Org2", url=""} ]`.
