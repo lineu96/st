@@ -41,21 +41,13 @@ weight = 5
 
 ---
 
-Sou Estatístico formado pela Universidade Federal do Paraná ([UFPR][ufpr]) em 2019. 
+Sou Estatístico formado pela [Universidade Federal do Paraná (UFPR)](http://www.ufpr.br/portalufpr/) em 2019. Atualmente sou mestrando no [Programa de Pós Graduação em Informática](http://www.prppg.ufpr.br/ppginformatica/?lang=pb) da UFPR sob a orientação dos professores [Wagner Hugo Bonat](http://www.leg.ufpr.br/~wagner/) e [Marco Antonio Zanata Alves](https://web.inf.ufpr.br/mazalves/). Estou inserido na área de concentração Ciência da Computação, linha de pesquisa [Tecnologia da Informação](http://www.prppg.ufpr.br/ppginformatica/index.php/tecnologia-da-informacao/?lang=pb) e grupo de pesquisa [Data Science & Big Data](https://web.inf.ufpr.br/dsbd/). 
 
 Dentre minhas experiências destacam-se atividades como: 
 participação do Programa de Educação Tutorial ([PET-Estatística, UFPR][pet])
 com contribuição a diversos projetos referentes a ensino, pesquisa e extensão na Universidade tais como: a participação no [labestData][ld], coorganização e apoio ao [1º Rday][rday], [63ª Rbras][rbras] e [1º Encontro de Data Sciene Big Data UFPR][dsbd], participação como ministrante do [Minicurso R][minicurso] edições 2018 e 2019, ministrante da [Aula Inaugural 2018][pse], dentre outras atividades. 
 
 Fui também monitor da disciplina de Modelos Lineares Generalizados ([CE225][glm]) na UFPR, estagiário no Núcleo de Estatística e Monitoramento da Corregedoria Geral da Justiça ([NEMOC-TJPR][nemoc]) e no Departamento de Inteligência de Crédito Crédito do Banco [Bradesco S.A][bradesco] tendo atuado na área de Portfólio de Produtos Parcelados com Garantia, Governança e Validação para Pessoa Física.
-
-Saí da graduação com 2 projetos de pesquisa finalizados:
-
- - [Análise comportamental de ovelhas submetidas a intervenção humana usando GAMLSS][ic]. Trabalho apresentado na 63ª RBras, 23º SINAPE e 10ª SIEPE UFPR.
- 
- - [Análise de Variância Multivariada para Dados Não Gaussianos via Teste Wald][tcc]. Trabalho de Conclusão de Curso apresentado como exigência parcial para obtenção do grau de Bacharel em Estatística.
-
-Além de pequenas participações em projetos em parceria com pesquisadores e profissionais de áreas como: educação física, logística, finanças, etc.
 
 ---
 
