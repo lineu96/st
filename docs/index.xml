@@ -6,8 +6,69 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Monitoramento COVID-19</title>
+      <link>https://lineu96.github.io/st/projects/covid/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/projects/covid/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/proj_covid/sars.png&#34; width=&#34;300px&#34; height=&#34;300px&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;sobre-a-página&#34;&gt;Sobre a página&lt;/h3&gt;
+
+&lt;p&gt;O objetivo da página &lt;a href=&#34;./img/proj_covid/covid19.html&#34;&gt;Monitoramento ao COVID-19&lt;/a&gt; é explorar e apresentar alguma análise descritiva dos dados a respeito do COVID-19 no Brasil com ênfase nos municípios do Paraná, especialmente, em Curitiba. O conteúdo varia desde gráficos estáticos com as curvas de casos confirmados e óbitos até mapas e dinâmicos.&lt;/p&gt;
+
+&lt;p&gt;Os &lt;a href=&#34;https://covid19br.wcota.me/&#34; target=&#34;_blank&#34;&gt;dados utilizados&lt;/a&gt; para análise foram contabilizados a partir de boletins das secretarias estaduais e da plataforma oficial do Ministério da Saúde. Utilizou-se, principalmente, a base de &lt;a href=&#34;https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-cities-time.csv&#34; target=&#34;_blank&#34;&gt;casos no Brasil por município&lt;/a&gt; que dispunha de informações como: data, estado, município, casos e óbitos de forma cumulativa e diários.&lt;/p&gt;
+
+&lt;p&gt;Este material foi altamente motivado pela iniciativa &lt;a href=&#34;http://covid.c3sl.ufpr.br/&#34; target=&#34;_blank&#34;&gt;Portal COVID19&lt;/a&gt; do &lt;a href=&#34;http://www.exatas.ufpr.br/portal/&#34; target=&#34;_blank&#34;&gt;Setor de Ciências Exatas&lt;/a&gt; da &lt;a href=&#34;https://www.ufpr.br/portalufpr/&#34; target=&#34;_blank&#34;&gt;Universidade Federal do Paraná (UFPR)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./img/proj_covid/covid19.html&#34;&gt;Monitoramento COVID-19&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;./img/proj_covid/interatividade.html&#34;&gt;Guia de uso dos gráficos e tabelas dinâmicos&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/covidbr/covidbr.github.io&#34; target=&#34;_blank&#34;&gt;Dados utilizados na página&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://covid19br.wcota.me/&#34; target=&#34;_blank&#34;&gt;Número de casos confirmados de COVID-19 no Brasil&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://covid.c3sl.ufpr.br/&#34; target=&#34;_blank&#34;&gt;Portal COVID19 — Setor de Ciências Exatas/UFPR&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://coronavirus.saude.gov.br/&#34; target=&#34;_blank&#34;&gt;Ministério da Saúde&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.saude.pr.gov.br/modules/conteudo/conteudo.php?conteudo=3506&#34; target=&#34;_blank&#34;&gt;Secretaria de Saúde do Paraná&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.saude.curitiba.pr.gov.br/vigilancia/epidemiologica/vigilancia-de-a-a-z/12-vigilancia/1290-coronavirus.html&#34; target=&#34;_blank&#34;&gt;Secretaria Municipal da Saúde de Curitiba&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_covid/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_covid/exatas.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_covid/leg.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Noções de Probabilidade e Estatística</title>

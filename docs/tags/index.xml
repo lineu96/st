@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lineu96.github.io/st/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://lineu96.github.io/st/tags/covid-19/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corona vírus</title>
+      <link>https://lineu96.github.io/st/tags/corona-v%C3%ADrus/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/tags/corona-v%C3%ADrus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualização de dados</title>
+      <link>https://lineu96.github.io/st/tags/visualiza%C3%A7%C3%A3o-de-dados/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/tags/visualiza%C3%A7%C3%A3o-de-dados/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ensino</title>
