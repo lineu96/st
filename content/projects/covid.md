@@ -9,7 +9,7 @@ title = "Monitoramento COVID-19"
 summary = "Avanço do Corona vírus a nível Brasil, Paraná e Curitiba"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "proj_covid/sars2.jpeg"
+image_preview = "proj_covid/fig/sars2.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -31,7 +31,7 @@ caption = ""
 ---
 
 <center>
-{{< figure library="1" src="/img/proj_covid/sars2.jpeg" width="400px" height="300px">}}
+{{< figure library="1" src="/img/proj_covid/fig/sars2.jpeg" width="400px" height="300px">}}
 </center>
 
 ---
@@ -67,7 +67,7 @@ Este material foi altamente motivado pela iniciativa [Portal COVID19](http://cov
 ---
 
 <table><tr>
-<td> <img src="/img/proj_covid/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
-<td> <img src="/img/proj_covid/exatas.png" alt="Drawing" style="width: 150px;"/> </td>
-<td> <img src="/img/proj_covid/leg.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="/img/proj_covid/fig/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="/img/proj_covid/fig/exatas.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="/img/proj_covid/fig/leg.png" alt="Drawing" style="width: 150px;"/> </td>
 </tr></table>
