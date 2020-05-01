@@ -22,7 +22,7 @@
 &lt;p&gt;&lt;center&gt;
 &lt;figure&gt;
 
-&lt;img src=&#34;./img/proj_covid/sars2.jpeg&#34; width=&#34;400px&#34; height=&#34;300px&#34; /&gt;
+&lt;img src=&#34;./img/proj_covid/fig/sars2.jpeg&#34; width=&#34;400px&#34; height=&#34;300px&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -63,9 +63,9 @@
 &lt;hr /&gt;
 
 &lt;table&gt;&lt;tr&gt;
-&lt;td&gt; &lt;img src=&#34;./img/proj_covid/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/proj_covid/exatas.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
-&lt;td&gt; &lt;img src=&#34;./img/proj_covid/leg.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_covid/fig/ufpr.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_covid/fig/exatas.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;./img/proj_covid/fig/leg.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 150px;&#34;/&gt; &lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 </description>
     </item>
