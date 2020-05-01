@@ -77,6 +77,16 @@ Sobre este material {data-icon="fa-file-alt" data-navmenu="Apresentação"}
 Column {data-width=125}
 -----------------------------------------------------------------------
 
+### {.value-box}
+
+```{r}
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
 ### Data de atualização {.value-box}
 
 ```{r}
@@ -88,18 +98,28 @@ Column {data-width=125}
   )
 ```
 
-### Hora de atualização {.value-box}
+### {.value-box}
+
+```{r}
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
+### {.value-box}
 
 ```{r}
 
-  valueBox(
-    value = hora,
-    icon = "fa-clock"
-    #,color = 'teal'
-  )
+valueBox(value = 'Brasil'#, 
+         #icon = "fa-hospital"
+         #,color = 'orange'
+         )
+
 ```
 
-### Casos no Brasil {.value-box}
+### Casos {.value-box}
 
 ```{r}
 
@@ -110,7 +130,7 @@ valueBox(as.numeric(subset(tabela_br, Município =='TOTAL')[3]),
 
 ```
 
-### Óbitos no Brasil {.value-box}
+### Óbitos {.value-box}
 
 ```{r}
 
@@ -121,22 +141,11 @@ valueBox(value = as.numeric(subset(tabela_br, Município =='TOTAL')[4]),
 
 ```
 
-### Casos no Paraná {.value-box}
+### {.value-box}
 
 ```{r}
-
-valueBox(sum(subset(tabela_br, Estado =='PR')[,3]), 
-         icon = "fa-hospital"
-         #,color = 'orange'
-         )
-
-```
-
-### Óbitos no Paraná {.value-box}
-
-```{r}
-valueBox(value = sum(subset(tabela_br, Estado =='PR')[,4]), 
-         icon = "fa-procedures"
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
          #,color = 'red'
          )
 
@@ -228,15 +237,15 @@ Este material foi altamente motivado pela iniciativa [Portal COVID19](http://cov
 
 <td> <img src="fig/LogoB.png" alt="Drawing" style="width: 50px;"/> </td>
 
-<td> <img src="fig/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="fig/ufpr.jpg" alt="Drawing" style="width: 190px;"/> </td>
 
-<td> <img src="fig/LogoB.png" alt="Drawing" style="width: 50px;"/> </td>
+<td> <img src="fig/LogoB.png" alt="Drawing" style="width: 30px;"/> </td>
 
-<td> <img src="fig/exatas.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="fig/exatas.png" alt="Drawing" style="width: 190px;"/> </td>
 
-<td> <img src="fig/LogoB.png" alt="Drawing" style="width: 50px;"/> </td>
+<td> <img src="fig/LogoB.png" alt="Drawing" style="width: 30px;"/> </td>
 
-<td> <img src="fig/leg.png" alt="Drawing" style="width: 150px;"/> 
+<td> <img src="fig/leg.png" alt="Drawing" style="width: 140px;"/> 
 </td>
 
 </tr></table>
@@ -245,46 +254,49 @@ Este material foi altamente motivado pela iniciativa [Portal COVID19](http://cov
 Column {data-width=125}
 -----------------------------------------------------------------------
 
-Interatividade {data-icon="fa-comment" data-navmenu="Apresentação"}
-===================================== 
-
-Column {data-width=125}
------------------------------------------------------------------------
-
-### Data de atualização {.value-box}
+### {.value-box}
 
 ```{r}
-
-  valueBox(
-    value = format(data, "%d/%m/%Y"),
-    icon = "fa-calendar"
-    #,color = 'teal'
-  )
-```
-
-### Casos no Brasil {.value-box}
-
-```{r}
-
-valueBox(as.numeric(subset(tabela_br, Município =='TOTAL')[3]), 
-         icon = "fa-hospital"
-         #,color = 'orange'
-         )
-
-```
-
-### Óbitos no Brasil {.value-box}
-
-```{r}
-
-valueBox(value = as.numeric(subset(tabela_br, Município =='TOTAL')[4]), 
-         icon = "fa-procedures"
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
          #,color = 'red'
          )
 
 ```
 
-### Casos no Paraná {.value-box}
+### Hora de atualização {.value-box}
+
+```{r}
+
+  valueBox(
+    value = hora,
+    icon = "fa-clock"
+    #,color = 'teal'
+  )
+```
+
+### {.value-box}
+
+```{r}
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
+### {.value-box}
+
+```{r}
+
+valueBox(value = 'Paraná'#, 
+         #icon = "fa-hospital"
+         #,color = 'orange'
+         )
+
+```
+
+### Casos {.value-box}
 
 ```{r}
 
@@ -295,11 +307,102 @@ valueBox(sum(subset(tabela_br, Estado =='PR')[,3]),
 
 ```
 
-### Óbitos no Paraná {.value-box}
+### Óbitos {.value-box}
 
 ```{r}
 valueBox(value = sum(subset(tabela_br, Estado =='PR')[,4]), 
          icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
+### {.value-box}
+
+```{r}
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
+
+Interatividade {data-icon="fa-comment" data-navmenu="Apresentação"}
+===================================== 
+
+Column {data-width=125}
+-----------------------------------------------------------------------
+
+### {.value-box}
+
+```{r}
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
+### Data de atualização {.value-box}
+
+```{r}
+
+  valueBox(
+    value = dia,
+    icon = "fa-calendar"
+    #,color = 'teal'
+  )
+```
+
+### {.value-box}
+
+```{r}
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
+### {.value-box}
+
+```{r}
+
+valueBox(value = 'Brasil'#, 
+         #icon = "fa-hospital"
+         #,color = 'orange'
+         )
+
+```
+
+### Casos {.value-box}
+
+```{r}
+
+valueBox(as.numeric(subset(tabela_br, Município =='TOTAL')[3]), 
+         icon = "fa-hospital"
+         #,color = 'orange'
+         )
+
+```
+
+### Óbitos {.value-box}
+
+```{r}
+
+valueBox(value = as.numeric(subset(tabela_br, Município =='TOTAL')[4]), 
+         icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
+### {.value-box}
+
+```{r}
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
          #,color = 'red'
          )
 
@@ -360,15 +463,15 @@ Em caso de dúvida quanto ao uso das funcionalidades acesse este [link](https://
 
 <td> <img src="fig/LogoB.png" alt="Drawing" style="width: 50px;"/> </td>
 
-<td> <img src="fig/ufpr.jpg" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="fig/ufpr.jpg" alt="Drawing" style="width: 190px;"/> </td>
 
-<td> <img src="fig/LogoB.png" alt="Drawing" style="width: 50px;"/> </td>
+<td> <img src="fig/LogoB.png" alt="Drawing" style="width: 30px;"/> </td>
 
-<td> <img src="fig/exatas.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="fig/exatas.png" alt="Drawing" style="width: 190px;"/> </td>
 
-<td> <img src="fig/LogoB.png" alt="Drawing" style="width: 50px;"/> </td>
+<td> <img src="fig/LogoB.png" alt="Drawing" style="width: 30px;"/> </td>
 
-<td> <img src="fig/leg.png" alt="Drawing" style="width: 150px;"/> 
+<td> <img src="fig/leg.png" alt="Drawing" style="width: 140px;"/> 
 </td>
 
 </tr></table>
@@ -376,6 +479,79 @@ Em caso de dúvida quanto ao uso das funcionalidades acesse este [link](https://
 
 Column {data-width=125}
 -----------------------------------------------------------------------
+
+### {.value-box}
+
+```{r}
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
+### Hora de atualização {.value-box}
+
+```{r}
+
+  valueBox(
+    value = hora,
+    icon = "fa-clock"
+    #,color = 'teal'
+  )
+```
+
+### {.value-box}
+
+```{r}
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
+### {.value-box}
+
+```{r}
+
+valueBox(value = 'Paraná'#, 
+         #icon = "fa-hospital"
+         #,color = 'orange'
+         )
+
+```
+
+### Casos {.value-box}
+
+```{r}
+
+valueBox(sum(subset(tabela_br, Estado =='PR')[,3]), 
+         icon = "fa-hospital"
+         #,color = 'orange'
+         )
+
+```
+
+### Óbitos {.value-box}
+
+```{r}
+valueBox(value = sum(subset(tabela_br, Estado =='PR')[,4]), 
+         icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
+
+### {.value-box}
+
+```{r}
+valueBox(value = ''#, 
+         #icon = "fa-procedures"
+         #,color = 'red'
+         )
+
+```
 
 ---
 
@@ -403,7 +579,7 @@ dados_sta_map <- plyr::arrange(dados_sta_map,
 ```
 
 
-Column {data-width=125}
+Column {data-width=200}
 -----------------------------------------------------------------------
 
 ### Casos no Brasil
@@ -429,8 +605,9 @@ valueBox(sum(dados_sta_map$Óbitos),
 
 ```{r}
 
-valueBox(value = subset(dados_sta_map, Casos == max(dados_sta_map$Casos))[1],
-         icon = "fa-users")
+valueBox(value = subset(dados_sta_map, Casos == max(dados_sta_map$Casos))[1]#,
+         #icon = "fa-users"
+         )
 
 ```
 
@@ -497,7 +674,7 @@ ggplotly(g, width = 500, height = 550)
 
 ```
 
-Column {data-width=475 .tabset .tabset-fade .tabset-pills}
+Column {data-width=400 .tabset .tabset-fade .tabset-pills}
 -----------------------------------------------------------------------
 
 ### Curva de casos
@@ -597,7 +774,7 @@ Estados {data-orientation=column data-icon="fa-chart-line" data-navmenu="Brasil"
 =====================================     
 
 
-Column {data-width=125}
+Column {data-width=200}
 -----------------------------------------------------------------------
 
 ### Casos no Brasil
@@ -623,8 +800,9 @@ valueBox(sum(dados_sta_map$Óbitos),
 
 ```{r}
 
-valueBox(value = subset(dados_sta_map, Casos == max(dados_sta_map$Casos))[1],
-         icon = "fa-users")
+valueBox(value = subset(dados_sta_map, Casos == max(dados_sta_map$Casos))[1]#,
+         #icon = "fa-users"
+         )
 
 ```
 
@@ -646,7 +824,7 @@ valueBox(value = subset(dados_sta_map, Casos == max(dados_sta_map$Casos))[4],
 
 ```
 
-Column {data-width=350 }
+Column {data-width=300 }
 -----------------------------------------------------------------------
 
 ### 
@@ -660,7 +838,7 @@ DT::datatable(dados_sta_map[,c(1,3,4)],
 ```
 
 
-Column {data-width=525 .tabset .tabset-fade .tabset-pills}
+Column {data-width=500 .tabset .tabset-fade .tabset-pills}
 -----------------------------------------------------------------------
 
 ### Curva de casos
@@ -763,7 +941,7 @@ ggplotly(g, dynamicTicks = T)
 Mapas {data-navmenu="Paraná" data-icon="fa-map"}
 =====================================
 
-Column {data-width=125}
+Column {data-width=200}
 -----------------------------------------------------------------------
 
 ```{r, echo=FALSE}
@@ -823,8 +1001,9 @@ valueBox(sum(tabela_pr$Óbitos),
 mu <- subset(tabela_pr, Casos == max(tabela_pr$Casos))[2]
 mu$Município <- as.character(mu$Município)
 
-valueBox(value = mu$Município,
-         icon = "fa-users")
+valueBox(value = mu$Município#,
+         #icon = "fa-users"
+         )
 
 ```
 
@@ -846,7 +1025,7 @@ valueBox(value = subset(tabela_pr, Casos == max(tabela_pr$Casos))[4],
 
 ```
 
-Column {data-width=875 .tabset .tabset-fade .tabset-pills}
+Column {data-width=400 .tabset .tabset-fade .tabset-pills}
 -----------------------------------------------------------------------
 
 ### Mapa interativo
@@ -899,38 +1078,69 @@ g <- ggplot(prmu_tidy,
         plot.title = element_text(size=22))+
   theme(plot.title = element_text(hjust = 0.5))
 
-ggplotly(g, width = 1100, height = 530)
+ggplotly(g, width = 550, height = 530)
 
 ```
 
+Column {data-width=400 .tabset .tabset-fade .tabset-pills}
+-----------------------------------------------------------------------
 
-### Progressão
+### Progressão de casos
+
+<style>
+body {
+  padding: 50px 0px 0px 0px;
+  <!--color: #000000-->
+}
+
+</style>
+
+---
 
 <center>
-<table><tr>
+<font size="5"> 
+<p align=”center”> <b>   </b> </center>
+</font>
+</center>
+
+---
 
 <td>  
 <center>
 <table><tr>
-<td> <img src="fig/gif_pr/casos/conf_faixa.gif" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="fig/gif_pr/casos/conf_faixa.gif" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
 </center>
 </td>
 
-<td> <img src="fig/LogoB.png" alt="Drawing" style="width: 50px;"/> </td>
 
+### Progressão de óbitos
+
+<style>
+body {
+  padding: 50px 0px 0px 0px;
+  <!--color: #000000-->
+}
+
+</style>
+
+---
+
+<center>
+<font size="5"> 
+<p align=”center”> <b>  </b> </center>
+</font>
+</center>
+
+---
 
 <td> 
 <center>
 <table><tr>
-<td> <img src="fig/gif_pr/obitos/obit_faixa.gif" alt="Drawing" style="width: 550px;"/> </td>
+<td> <img src="fig/gif_pr/obitos/obit_faixa.gif" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
 </center>
 </td>
-
-</tr></table>
-
-</center>
 
 -----------------------------------------------------------------------
 
@@ -974,8 +1184,9 @@ valueBox(sum(tabela_pr$Óbitos),
 
 ma <- subset(macro, macro$Casos == max(macro$Casos))[1]
 
-valueBox(value = ma,
-         icon = "fa-users")
+valueBox(value = ma#,
+         #icon = "fa-users"
+         )
 
 ```
 
@@ -1175,8 +1386,9 @@ ma$`Regional de saúde` <- as.character(ma$`Regional de saúde`)
 
 
 valueBox(value = str_to_title(substr(ma$`Regional de saúde`,
-                    1,6)),
-         icon = "fa-users")
+                    1,6))#,
+         #icon = "fa-users"
+         )
 
 ```
 
@@ -1365,8 +1577,9 @@ valueBox(sum(tabela_pr$Óbitos),
 mu <- subset(tabela_pr, Casos == max(tabela_pr$Casos))[2]
 mu$Município <- as.character(mu$Município)
 
-valueBox(value = mu$Município,
-         icon = "fa-users")
+valueBox(value = mu$Município#,
+         #icon = "fa-users"
+         )
 
 ```
 

@@ -9,7 +9,7 @@ title = "Monitoramento COVID-19"
 summary = "Avanço do Corona vírus a nível Brasil, Paraná e Curitiba"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "proj_covid/fig/sars2.jpeg"
+image_preview = "proj_covid/fig/portal.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -31,7 +31,7 @@ caption = ""
 ---
 
 <center>
-{{< figure library="1" src="/img/proj_covid/fig/sars2.jpeg" width="400px" height="300px">}}
+{{< figure library="1" src="/img/proj_covid/fig/portal.png" width="200px" height="300px">}}
 </center>
 
 ---
