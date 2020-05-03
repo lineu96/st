@@ -16,7 +16,7 @@ image_preview = "proj_glm/gama.png"
 tags = ["GLM", "Ensino", "Monitoria"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://lineu96.github.io/glm/"
 
 # Does the project detail page use math formatting?
 math = false
