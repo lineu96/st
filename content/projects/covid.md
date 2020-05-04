@@ -16,7 +16,7 @@ image_preview = "proj_covid/fig/portal.png"
 tags = ["COVID-19", "Corona vírus", "Visualização de dados"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://lineu96.github.io/covid19/"
 
 # Does the project detail page use math formatting?
 math = false
