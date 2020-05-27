@@ -35,45 +35,114 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lineu96.github.io/st/post/posts/</guid>
-      <description>&lt;p&gt;18/03/2019 - &lt;a href=&#34;./img/post/post_ggplot2.html&#34;&gt;Primeiros Passos com ggplot2&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+table.header {
+    margin-top: 10px;
+    border-collapse: unset;
+}
+table.header &gt; tbody {
+    border-bottom: 0px;
+    border-top: 0px;
+}
+&lt;/style&gt;
 
-&lt;p&gt;08/06/2019 - &lt;a href=&#34;./img/post/post_td.html&#34;&gt;Primeiros Passos com tidyr e dplyr&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;11/12/2019 - &lt;a href=&#34;./img/post/logprog.html&#34;&gt;Algoritmos e Lógica de Programação&lt;/a&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;center&gt; &lt;figure&gt;
-
-&lt;img src=&#34;./img/post/ggplot2.png&#34; width=&#34;100px&#34; height=&#34;100px&#34; /&gt;
-
-
-&lt;/figure&gt; &lt;/center&gt;&lt;/th&gt;
-&lt;th&gt;&lt;center&gt; &lt;figure&gt;
-
-&lt;img src=&#34;./img/post/dplyr.png&#34; width=&#34;100px&#34; height=&#34;100px&#34; /&gt;
-
-
-&lt;/figure&gt; &lt;/center&gt;&lt;/th&gt;
-&lt;th&gt;&lt;center&gt; &lt;figure&gt;
-
-&lt;img src=&#34;./img/post/tidyr.png&#34; width=&#34;100px&#34; height=&#34;100px&#34; /&gt;
-
-
-&lt;/figure&gt; &lt;/center&gt;&lt;/th&gt;
-&lt;th&gt;&lt;center&gt; &lt;figure&gt;
-
-&lt;img src=&#34;./img/post/fluxo.jpg&#34; width=&#34;100px&#34; height=&#34;100px&#34; /&gt;
-
-
-&lt;/figure&gt; &lt;/center&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;/tbody&gt;
+&lt;table class=&#34;header&#34; width=&#34;100%&#34; align=&#34;center&#34;&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;bottom&#34; width=&#34;90px&#34;&gt;
+      &lt;a href=&#34;./img/post/post_ggplot2.html&#34;&gt;
+        &lt;img src=&#34;./img/post/ggplot2.png&#34; width=&#34;100%&#34; /&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;top&#34;&gt;
+      &lt;div class=&#34;header&#34;&gt;
+        &lt;h4 style=&#34;font-size: 20px; margin: 10px auto 0 10px&#34;&gt;
+          18/03/2019
+        &lt;/h4&gt;
+        &lt;h5 style=&#34;margin: 0px 0px 10px 10px&#34;&gt;
+          &lt;a href=&#34;./img/post/post_ggplot2.html&#34;&gt;
+            &lt;code&gt;Primeiros Passos com ggplot2&lt;/code&gt;
+          &lt;/a&gt;
+        &lt;/h5&gt;
+      &lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
 &lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;table class=&#34;header&#34; width=&#34;100%&#34; align=&#34;center&#34;&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;bottom&#34; width=&#34;90px&#34;&gt;
+      &lt;a href=&#34;./img/post/post_td.html&#34;&gt;
+        &lt;img src=&#34;./img/post/manipulation.jpg&#34; width=&#34;140%&#34; /&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;top&#34;&gt;
+      &lt;div class=&#34;header&#34;&gt;
+        &lt;h4 style=&#34;font-size: 20px; margin: 10px auto 0 10px&#34;&gt;
+          08/06/2019
+        &lt;/h4&gt;
+        &lt;h5 style=&#34;margin: 0px 0px 10px 10px&#34;&gt;
+          &lt;a href=&#34;./img/post/post_td.html&#34;&gt;
+            &lt;code&gt;Primeiros Passos com tidyr e dplyr&lt;/code&gt;
+          &lt;/a&gt;
+        &lt;/h5&gt;
+      &lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;table class=&#34;header&#34; width=&#34;100%&#34; align=&#34;center&#34;&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;bottom&#34; width=&#34;90px&#34;&gt;
+      &lt;a href=&#34;./img/post/logprog.html&#34;&gt;
+        &lt;img src=&#34;./img/post/fluxo.jpg&#34; width=&#34;100%&#34; /&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;top&#34;&gt;
+      &lt;div class=&#34;header&#34;&gt;
+        &lt;h4 style=&#34;font-size: 20px; margin: 10px auto 0 10px&#34;&gt;
+          11/12/2019
+        &lt;/h4&gt;
+        &lt;h5 style=&#34;margin: 0px 0px 10px 10px&#34;&gt;
+          &lt;a href=&#34;./img/post/logprog.html&#34;&gt;
+            &lt;code&gt;Algoritmos e Lógica de Programação&lt;/code&gt;
+          &lt;/a&gt;
+        &lt;/h5&gt;
+      &lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;          
+
+&lt;hr /&gt;
+
+&lt;table class=&#34;header&#34; width=&#34;100%&#34; align=&#34;center&#34;&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;bottom&#34; width=&#34;90px&#34;&gt;
+      &lt;a href=&#34;./img/post/epidem.html&#34;&gt;
+        &lt;img src=&#34;./img/post/sars2.png&#34; width=&#34;100%&#34; /&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;top&#34;&gt;
+      &lt;div class=&#34;header&#34;&gt;
+        &lt;h4 style=&#34;font-size: 20px; margin: 10px auto 0 10px&#34;&gt;
+          26/05/2019
+        &lt;/h4&gt;
+        &lt;h5 style=&#34;margin: 0px 0px 10px 10px&#34;&gt;
+          &lt;a href=&#34;./img/post/epidem.html&#34;&gt;
+            &lt;code&gt;COVID-19: Conceitos de epidemiologia&lt;/code&gt;
+          &lt;/a&gt;
+        &lt;/h5&gt;
+      &lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;          
+
+&lt;hr /&gt;
 </description>
     </item>
     
