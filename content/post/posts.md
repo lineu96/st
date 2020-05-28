@@ -118,3 +118,27 @@ table.header > tbody {
 </table>          
 
 ---
+
+<table class="header" width="100%" align="center">
+  <tr>
+    <td align="left" valign="bottom" width="90px">
+      <a href="/img/post/exemplo.html">
+        <img src="/img/post/hex-rmd.png" width="100%" />
+      </a>
+    </td>
+    <td align="left" valign="top">
+      <div class="header">
+        <h4 style="font-size: 20px; margin: 10px auto 0 10px">
+          27/05/2019
+        </h4>
+        <h5 style="margin: 0px 0px 10px 10px">
+          <a href="/img/post/exemplo.html">
+            <code>Relatórios HTML utilizando Rmarkdown</code>
+          </a>
+        </h5>
+      </div>
+    </td>
+  </tr>
+</table>          
+
+---
