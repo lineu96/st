@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciência de dados on Lineu Alberto</title>
+    <link>https://lineu96.github.io/st/tags/ci%C3%AAncia-de-dados/</link>
+    <description>Recent content in Ciência de dados on Lineu Alberto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lineu96.github.io/st/tags/ci%C3%AAncia-de-dados/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testes de hipótese em Modelos Multivariados de Covariância Linear Generalizada (McGLM)</title>
+      <link>https://lineu96.github.io/st/projects/mestrado/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/projects/mestrado/</guid>
+      <description>Material desenvolvido no mestrado em Informática na UFPR.</description>
+    </item>
+    
+  </channel>
+</rss>
