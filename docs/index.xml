@@ -177,6 +177,30 @@ table.header &gt; tbody {
 &lt;/table&gt;          
 
 &lt;hr /&gt;
+
+&lt;table class=&#34;header&#34; width=&#34;100%&#34; align=&#34;center&#34;&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;bottom&#34; width=&#34;90px&#34;&gt;
+      &lt;a href=&#34;https://youtu.be/FSJFQzRH2j8&#34;&gt;
+        &lt;img src=&#34;./img/post/mcglm.png&#34; width=&#34;100%&#34; /&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;top&#34;&gt;
+      &lt;div class=&#34;header&#34;&gt;
+        &lt;h4 style=&#34;font-size: 20px; margin: 10px auto 0 10px&#34;&gt;
+          21/11/2020
+        &lt;/h4&gt;
+        &lt;h5 style=&#34;margin: 0px 0px 10px 10px&#34;&gt;
+          &lt;a href=&#34;https://youtu.be/FSJFQzRH2j8&#34;&gt;
+            &lt;code&gt;Testes de hipótese em modelos multivariados de covariância linear generalizada (PALESTRA)&lt;/code&gt;
+          &lt;/a&gt;
+        &lt;/h5&gt;
+      &lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;          
+
+&lt;hr /&gt;
 </description>
     </item>
     

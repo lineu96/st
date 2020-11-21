@@ -142,3 +142,27 @@ table.header > tbody {
 </table>          
 
 ---
+
+<table class="header" width="100%" align="center">
+  <tr>
+    <td align="left" valign="bottom" width="90px">
+      <a href="https://youtu.be/FSJFQzRH2j8">
+        <img src="/img/post/mcglm.png" width="100%" />
+      </a>
+    </td>
+    <td align="left" valign="top">
+      <div class="header">
+        <h4 style="font-size: 20px; margin: 10px auto 0 10px">
+          21/11/2020
+        </h4>
+        <h5 style="margin: 0px 0px 10px 10px">
+          <a href="https://youtu.be/FSJFQzRH2j8">
+            <code>Testes de hipótese em modelos multivariados de covariância linear generalizada (PALESTRA)</code>
+          </a>
+        </h5>
+      </div>
+    </td>
+  </tr>
+</table>          
+
+---
