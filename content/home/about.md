@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Estatística",
     "Ciência de dados",
+    "Estatística",
     "Visualização de dados",
     "Modelos de regressão",
     "GLM",
@@ -43,11 +43,6 @@ weight = 5
 ---
 
 Sou Estatístico formado pela [Universidade Federal do Paraná (UFPR)](http://www.ufpr.br/portalufpr/) em 2019. Atualmente sou mestrando no [Programa de Pós Graduação em Informática](http://www.prppg.ufpr.br/ppginformatica/?lang=pb) da UFPR sob a orientação dos professores [Wagner Hugo Bonat](http://www.leg.ufpr.br/~wagner/) e [Marco Antonio Zanata Alves](https://web.inf.ufpr.br/mazalves/). Estou inserido na área de concentração Ciência da Computação, linha de pesquisa [Tecnologia da Informação](http://www.prppg.ufpr.br/ppginformatica/index.php/tecnologia-da-informacao/?lang=pb) e grupo de pesquisa [Data Science & Big Data](https://web.inf.ufpr.br/dsbd/). 
-
----
-
-Dentre minhas experiências destacam-se atividades como: 
-participação do Programa de Educação Tutorial ([PET-Estatística, UFPR][pet]) com contribuição a diversos projetos referentes a ensino, pesquisa e extensão na Universidade, monitoria da disciplina de Modelos Lineares Generalizados ([CE225][glm]) na UFPR, estágio no Núcleo de Estatística e Monitoramento da Corregedoria Geral da Justiça ([NEMOC-TJPR][nemoc]) e no Departamento de Inteligência de Crédito Crédito do Banco [Bradesco S.A][bradesco] tendo atuado na área de Portfólio de Produtos Parcelados com Garantia, Governança e Validação para Pessoa Física.
 
 ---
 

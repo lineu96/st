@@ -221,9 +221,19 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "contao"
+    icon = "file"
     icon_pack = "fa"
     link = "/img/perfil/cv_lineu.pdf"
+
+  [[params.social]]
+    icon = "graduation-cap"
+    icon_pack = "fa"
+    link = "http://lattes.cnpq.br/8569614410846314"  
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/lineu-alberto-cavazani-de-freitas-203054174/"
 
   [[params.social]]
     icon = "envelope"
@@ -236,32 +246,15 @@ defaultContentLanguageInSubdir = false
     link = "https://github.com/lineu96"
   
   [[params.social]]
-    icon = "envelope-square"
-    icon_pack = "fa"
-    link = "http://lattes.cnpq.br/8569614410846314"  
-   # tentar sempre usar
-   # icon = "lattes"
-   # icon_pack = "ai"
-   
-  [[params.social]]
-    icon = "facebook"
-    icon_pack = "fa"
-    link = "https://www.facebook.com/Lineu.Alberto.14"
-
-  [[params.social]]
     icon = "instagram"
     icon_pack = "fa"
     link = "https://www.instagram.com/lineu_alberto/"
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/lineu-alberto-cavazani-de-freitas-203054174/"
 
-#  [[params.social]]
-#    icon = "mendeley"
-#    icon_pack = "ai"
-#    link = "https://www.mendeley.com/profiles/jayme-junior/"
+  [[params.social]]
+    icon = "youtube"
+    icon_pack = "fa"
+    link = "https://www.youtube.com/channel/UCa_Xs_UnYj5SQKpSR0ZVcdw"
 
 
 # Navigation Links
