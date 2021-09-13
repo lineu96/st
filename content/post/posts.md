@@ -5,7 +5,7 @@ draft = false
 tags = ["Posts"]
 title = "Posts"
 math = false
-summary = "Pequenas publicações de minha autoria"
+summary = "Acesse aqui curtos materiais de minha autoria"
 
 
 +++
@@ -20,6 +20,30 @@ table.header > tbody {
     border-top: 0px;
 }
 </style>
+
+---
+
+<table class="header" width="100%" align="center">
+  <tr>
+    <td align="left" valign="bottom" width="90px">
+      <a href="/img/post/quali.html">
+        <img src="/img/post/ufpr.jpg" width="100%" />
+      </a>
+    </td>
+    <td align="left" valign="top">
+      <div class="header">
+        <h4 style="font-size: 20px; margin: 10px auto 0 10px">
+          31/08/2021
+        </h4>
+        <h5 style="margin: 0px 0px 10px 10px">
+          <a href="/img/post/quali.html">
+            <code>Exame de qualificação de mestrado: Testes de hipóteses em modelos multivariados de covariância linear generalizada</code>
+          </a>
+        </h5>
+      </div>
+    </td>
+  </tr>
+</table>    
 
 ---
 

@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A CASE STUDY ON ANIMAL BEHAVIOR ANALYSIS USING GAMLSS</title>
+      <link>https://lineu96.github.io/st/publication/gamlss/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/publication/gamlss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Monitoramento COVID-19</title>
@@ -55,6 +64,30 @@ table.header &gt; tbody {
     border-top: 0px;
 }
 &lt;/style&gt;
+
+&lt;hr /&gt;
+
+&lt;table class=&#34;header&#34; width=&#34;100%&#34; align=&#34;center&#34;&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;bottom&#34; width=&#34;90px&#34;&gt;
+      &lt;a href=&#34;./img/post/quali.html&#34;&gt;
+        &lt;img src=&#34;./img/post/ufpr.jpg&#34; width=&#34;100%&#34; /&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td align=&#34;left&#34; valign=&#34;top&#34;&gt;
+      &lt;div class=&#34;header&#34;&gt;
+        &lt;h4 style=&#34;font-size: 20px; margin: 10px auto 0 10px&#34;&gt;
+          31/08/2021
+        &lt;/h4&gt;
+        &lt;h5 style=&#34;margin: 0px 0px 10px 10px&#34;&gt;
+          &lt;a href=&#34;./img/post/quali.html&#34;&gt;
+            &lt;code&gt;Exame de qualificação de mestrado: Testes de hipóteses em modelos multivariados de covariância linear generalizada&lt;/code&gt;
+          &lt;/a&gt;
+        &lt;/h5&gt;
+      &lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;    
 
 &lt;hr /&gt;
 
@@ -506,15 +539,6 @@ influence behavioral and cardiac responses of ewes submitted to brushing? Behavi
       <guid>https://lineu96.github.io/st/projects/glm/</guid>
       <description>&lt;hr /&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Exemplo de publicação</title>
-      <link>https://lineu96.github.io/st/publication/ex_publication/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://lineu96.github.io/st/publication/ex_publication/</guid>
-      <description></description>
     </item>
     
     <item>
