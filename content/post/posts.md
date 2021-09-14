@@ -26,6 +26,30 @@ table.header > tbody {
 <table class="header" width="100%" align="center">
   <tr>
     <td align="left" valign="bottom" width="90px">
+      <a href="/img/post/semanest.html">
+        <img src="/img/post/pet.png" width="100%" />
+      </a>
+    </td>
+    <td align="left" valign="top">
+      <div class="header">
+        <h4 style="font-size: 20px; margin: 10px auto 0 10px">
+          13/09/2021
+        </h4>
+        <h5 style="margin: 0px 0px 10px 10px">
+          <a href="/img/post/semanest.html">
+            <code>Sessão de apresentação de trabalhos da semana acadêmica de Estatística da UFPR 2021: Testes de hipóteses em modelos multivariados de covariância linear generalizada</code>
+          </a>
+        </h5>
+      </div>
+    </td>
+  </tr>
+</table>    
+
+---
+
+<table class="header" width="100%" align="center">
+  <tr>
+    <td align="left" valign="bottom" width="90px">
       <a href="/img/post/quali.html">
         <img src="/img/post/ufpr.jpg" width="100%" />
       </a>
