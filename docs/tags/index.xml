@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Lineu Alberto</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lineu96.github.io/st/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comportamento animal</title>
+      <link>https://lineu96.github.io/st/tags/comportamento-animal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/tags/comportamento-animal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efeitos aleatórios</title>
+      <link>https://lineu96.github.io/st/tags/efeitos-aleat%C3%B3rios/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/tags/efeitos-aleat%C3%B3rios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAMLSS</title>
+      <link>https://lineu96.github.io/st/tags/gamlss/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineu96.github.io/st/tags/gamlss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COVID-19</title>
@@ -144,33 +171,6 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lineu96.github.io/st/tags/rstudio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comportamento animal</title>
-      <link>https://lineu96.github.io/st/tags/comportamento-animal/</link>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://lineu96.github.io/st/tags/comportamento-animal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efeitos aleatórios</title>
-      <link>https://lineu96.github.io/st/tags/efeitos-aleat%C3%B3rios/</link>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://lineu96.github.io/st/tags/efeitos-aleat%C3%B3rios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GAMLSS</title>
-      <link>https://lineu96.github.io/st/tags/gamlss/</link>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://lineu96.github.io/st/tags/gamlss/</guid>
       <description></description>
     </item>
     
