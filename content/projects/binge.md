@@ -9,11 +9,11 @@ title = "Probiotic supplementation attenuates binge eating and food addiction on
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "proj_gamlss/escov.png"
+image_preview = "proj_binge/bariatric.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["GAMLSS", "Comportamento animal", "Efeitos aleatórios"]
+tags = ["Probiotics", "Bariatric"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -31,7 +31,7 @@ caption = ""
 ---
 
 <center>
-{{< figure library="1" src="/img/proj_gamlss/escov.png" width="300px" height="300px">}}
+{{< figure library="1" src="/img/proj_binge/bariatric.jpeg" width="400px" height="400px">}}
 </center>
 
 ---
@@ -40,7 +40,6 @@ Este projeto refere-se a um trabalho conjunto com pesquisadores em nutrição (L
 
 ---
 
-Abstract
 Background: The use of probiotics and prebiotics as adjuvants in the treatment of eating disorders, known as psychobiotics, has already been investigated as modulators of the microbiota-gut-brain axis. However, the effects of probiotic supplementation on food addiction and binge eating in individuals after Roux-en-Y Gastric Bypass surgery had not yet been studied.
 
 Methods: This is a randomized, double-blind, placebo-controlled trial involving 101 patients that received probiotic or placebo supplements for 90 days after Roux-en-Y gastric bypass surgery, starting on the 7 th Postoperative day. They were evaluated preoperatively (T0), at 90 days(T1) and 1 year(T2) after surgery. The Yale Food Addiction Scale (YFAS) and Binge Eating Scale (BES) were applied to assess food addiction and binge eating, respectively.
