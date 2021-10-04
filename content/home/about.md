@@ -42,8 +42,6 @@ weight = 5
 
 ---
 
-TESTE TOKEN
-
 Sou Estatístico formado pela [Universidade Federal do Paraná (UFPR)](http://www.ufpr.br/portalufpr/) em 2019. Atualmente sou mestrando no [Programa de Pós Graduação em Informática](http://www.prppg.ufpr.br/ppginformatica/?lang=pb) da UFPR sob a orientação dos professores [Wagner Hugo Bonat](http://www.leg.ufpr.br/~wagner/) e [Marco Antonio Zanata Alves](https://web.inf.ufpr.br/mazalves/). Estou inserido na área de concentração Ciência da Computação, linha de pesquisa [Tecnologia da Informação](http://www.prppg.ufpr.br/ppginformatica/index.php/tecnologia-da-informacao/?lang=pb) e grupo de pesquisa [Data Science & Big Data](https://web.inf.ufpr.br/dsbd/). 
 
 ---
