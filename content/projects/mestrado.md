@@ -16,7 +16,7 @@ image_preview = "proj_manova/mcglm.png"
 tags = ["Ciência de dados", "Estatística", "Informática"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://lineu96.github.io/msc_page/"
+external_link = "https://youtu.be/sxu-rD72O88"
 
 # Does the project detail page use math formatting?
 math = false
