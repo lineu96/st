@@ -7,7 +7,7 @@ output: html_document
 <font size="30">
 Olá, parece que você acessou minha página antiga.
 
-Minha página pessoal atual é [lineu96.github.io](lineu96.github.io).
+Minha página pessoal atual é [https://lineu96.github.io/](https://lineu96.github.io/).
 
 </font>
 
